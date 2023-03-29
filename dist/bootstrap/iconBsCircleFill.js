@@ -1,0 +1,1 @@
+export const iconBsCircleFill = (cls = null, size = 16, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size}" height="${size}" fill="currentColor" viewBox="0 0 16 16"><circle cx="8" cy="8" r="8"/></svg>`;

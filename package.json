@@ -1,0 +1,43 @@
+{
+  "name": "@marianmeres/icons-fns",
+  "version": "1.0.0",
+  "description": "Icon svgs wrapped as functions.",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "scripts": {
+    "clean": "rimraf dist/*",
+    "prettier": "prettier --write src/build.cjs",
+    "build": "npm run clean && node src/build.cjs build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianmeres/icons-fns.git"
+  },
+  "keywords": [
+    "icons",
+    "bootstrap-icons",
+    "heroicons"
+  ],
+  "author": "Marian Meres <marian@meres.sk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marianmeres/icons-fns/issues"
+  },
+  "homepage": "https://github.com/marianmeres/icons-fns#readme",
+  "devDependencies": {
+    "@marianmeres/release": "^1.0.0",
+    "@types/node": "^18.15.11",
+    "kleur": "^4.1.5",
+    "minimist": "^1.2.8",
+    "mkdirp": "^2.1.6",
+    "prettier": "^2.8.7",
+    "rimraf": "^4.4.1",
+    "totalist": "^3.0.0"
+  }
+}
