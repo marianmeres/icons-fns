@@ -85,13 +85,13 @@ async function build() {
 					.replace(/ height="[^"]+"/, '')
 					.replace(
 						'<svg ',
-						'<svg style="${style || \'\'}" class="${cls || \'\'}" width="${size}" height="${size}" '
+						'<svg style="${style || \'\'}" class="${cls || \'\'}" width="${size || ' + size + '}" height="${size || ' + size + '}" '
 					)
 					.replace(/>\s+</g, '><')
 					.trim();
 
 				const outname = fnPrefix + safeId(name.replace(/\.svg$/, ''));
-				let content = `export const ${outname} = (cls = null, size = ${size}, style = null) => \`${svg}\`;\n`;
+				let content = `export const ${outname} = (cls = null, size = null, style = null) => \`${svg}\`;\n`;
 				log(gray(`    ✔ ${outname}`));
 				fs.writeFileSync(path.join(DISTDIR, outdir, outname + '.js'), content);
 

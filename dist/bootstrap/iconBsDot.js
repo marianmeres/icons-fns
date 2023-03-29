@@ -1,1 +1,1 @@
-export const iconBsDot = (cls = null, size = 16, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size}" height="${size}" fill="currentColor" viewBox="0 0 16 16"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>`;
+export const iconBsDot = (cls = null, size = null, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size || 16}" height="${size || 16}" fill="currentColor" viewBox="0 0 16 16"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>`;
