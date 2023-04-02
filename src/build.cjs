@@ -88,6 +88,7 @@ async function build() {
 					.replace(/ class="[^"]+"/, '')
 					.replace(/ width="[^"]+"/, '')
 					.replace(/ height="[^"]+"/, '')
+					.replace(/ id="[^"]+"/, '')
 					.replace(
 						'<svg ',
 						'<svg style="${style || \'\'}" class="${cls || \'\'}" width="${size || ' + size + '}" height="${size || ' + size + '}" '
