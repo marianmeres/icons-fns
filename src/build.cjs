@@ -56,6 +56,11 @@ async function build() {
 			outdir: './heroicons',
 			fnPrefix: 'iconHeroSolid',
 		},
+		{
+			indir: './src/bytesize-icons/1.4/icons',
+			outdir: './bytesize',
+			fnPrefix: 'iconBytesize',
+		},
 	];
 
 	let indexdts = '';
@@ -68,9 +73,9 @@ async function build() {
 				let size = 16;
 				let svg = fs.readFileSync(abs, 'utf8').replace(/[\n\r]/g, ' ');
 
-				// ugly heroicons special case
+				// original size detect ugly special case
 				const m = /viewBox=['"](?<viewBox>[^"']+)['"]/.exec(svg);
-				if (m?.groups?.viewBox && /heroicons/.test(indir)) {
+				if (m?.groups?.viewBox && /heroicons|bytesize/.test(indir)) {
 					const [_1, _2, w, h] = m.groups.viewBox.split(' ');
 					if (w === h) {
 						//sanity

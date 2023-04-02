@@ -1,0 +1,1 @@
+export const iconBytesizeMenu = (cls = null, size = null, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size || 32}" height="${size || 32}" id="i-menu" viewBox="0 0 32 32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 8 L28 8 M4 16 L28 16 M4 24 L28 24" /></svg>`;

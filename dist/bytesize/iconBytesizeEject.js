@@ -1,0 +1,1 @@
+export const iconBytesizeEject = (cls = null, size = null, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size || 32}" height="${size || 32}" id="i-eject" viewBox="0 0 32 32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M30 18 L16 5 2 18Z M2 25 L30 25" /></svg>`;

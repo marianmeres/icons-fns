@@ -1,0 +1,1 @@
+export const iconBytesizeArrowLeft = (cls = null, size = null, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size || 32}" height="${size || 32}" id="i-arrow-left" viewBox="0 0 32 32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M10 6 L2 16 10 26 M2 16 L30 16" /></svg>`;
