@@ -1,7 +1,7 @@
 # @marianmeres/icons-fns
 
-[Bootstrap icons](https://icons.getbootstrap.com/) 
-, [Heroicons](https://heroicons.com/) 
+[Bootstrap icons](https://icons.getbootstrap.com/), 
+[Heroicons](https://heroicons.com/) 
 and [Bytesize icons](https://danklammer.com/bytesize-icons/)
 icon svgs wrapped as functions with customization arguments returning svg string. 
 Each icon function lives in a separate file and is typed.
