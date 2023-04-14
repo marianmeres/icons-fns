@@ -41,7 +41,7 @@ import { iconHeroMiniAcademicCap } from "@marianmeres/icons-fns";
 const svg = iconHeroMiniAcademicCap('inline-block', 32, 'color: blue;');
 
 // svg now contains:
-// <svg class='inline-block' size="32" style="color: blue;" ... >...</svg>
+// <svg class='inline-block' width="32" height="32" style="color: blue;" ... >...</svg>
 ```
 
 All functions are typed, so your IDE should be able to typehint:
