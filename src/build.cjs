@@ -1,6 +1,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const mkdirp = require('mkdirp');
+const rimraf = require('rimraf');
 const { yellow, red, cyan, gray } = require('kleur/colors');
 const { totalist } = require('totalist/sync');
 const args = require('minimist')(process.argv.slice(2));
@@ -62,6 +63,9 @@ async function build() {
 			fnPrefix: 'iconBytesize',
 		},
 	];
+
+	rimraf.sync(DISTDIR);
+	mkdirp.sync(DISTDIR);
 
 	let indexdts = '';
 
@@ -125,7 +129,7 @@ function onError(e) {
 function help() {
 	const self = path.basename(__filename);
 	console.log(`
-    This script will create wraped icon svgs as functions. Each fn as separate file.
+    This script will wrap icon svgs as functions. Each fn in a separate file.
 
     ${yellow('Usage:')}
         node ${self} build

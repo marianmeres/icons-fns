@@ -47,3 +47,6 @@ const svg = iconHeroMiniAcademicCap('inline-block', 32, 'color: blue;');
 All functions are typed, so your IDE should be able to typehint:
 
 ![IDE typehint screenshot](screenshots/screenshot-IDE.png)
+
+## Related
+- https://github.com/marianmeres/emoji-fns
