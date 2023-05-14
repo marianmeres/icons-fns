@@ -1,1 +1,8 @@
-export declare const iconBsCupFill: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBsCupFill(props: Partial<Props>): string;
+export {};

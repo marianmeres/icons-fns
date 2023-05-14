@@ -12,6 +12,7 @@
   },
   "scripts": {
     "clean": "rimraf dist/*",
+    "test": "node test",
     "prettier": "prettier --write src/build.cjs",
     "build": "npm run clean && node src/build.cjs build",
     "release": "release -v minor"

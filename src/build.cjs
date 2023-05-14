@@ -35,12 +35,13 @@ async function main() {
 }
 
 async function build() {
-	const DISTDIR = './dist/';
+	const DIST_DIR = './dist/';
 	const config = [
 		{
 			indir: './src/bootstrap-icons/1.10.3',
 			outdir: './bootstrap',
 			fnPrefix: 'iconBs',
+			// size: 32,
 		},
 		{
 			indir: './src/heroicons/2.0.16/optimized/20/solid',
@@ -58,35 +59,76 @@ async function build() {
 			fnPrefix: 'iconHeroSolid',
 		},
 		{
-			indir: './src/bytesize-icons/1.4/icons',
+			indir: './src/bytesize-icons/1.4',
 			outdir: './bytesize',
 			fnPrefix: 'iconBytesize',
+			allowStrokeWidth: true,
+		},
+		{
+			indir: './src/feather/4.29.0',
+			outdir: './feather',
+			fnPrefix: 'iconFeather',
+			allowStrokeWidth: true,
+		},
+		{
+			indir: './src/boxicons/2.1.4/regular',
+			outdir: './boxicons',
+			fnPrefix: 'iconBxRegular',
+			transformName: (v) => v.replace(/^bx-/, ''),
+		},
+		{
+			indir: './src/boxicons/2.1.4/solid',
+			outdir: './boxicons',
+			fnPrefix: 'iconBxSolid',
+			transformName: (v) => v.replace(/^bxs-/, ''),
 		},
 	];
 
-	rimraf.sync(DISTDIR);
-	mkdirp.sync(DISTDIR);
+	rimraf.sync(DIST_DIR);
+	mkdirp.sync(DIST_DIR);
 
-	let indexdts = '';
+	let indexDts = '';
 
-	config.forEach(({ indir, outdir, fnPrefix }) => {
+	const fnTpl =
+		fs.readFileSync('./_tpl.js', 'utf8').replace('// prettier-ignore', '').trim() + '\n';
+	const fnTplDTs = fs.readFileSync('./_tpl.d.ts', 'utf8');
+
+	config.forEach(({ indir, outdir, fnPrefix, transformName, allowStrokeWidth, size }) => {
 		totalist(indir, (name, abs, stats) => {
 			if (/\.svg/i.test(name)) {
-				mkdirp.sync(path.join(DISTDIR, outdir));
+				mkdirp.sync(path.join(DIST_DIR, outdir));
 
-				let size = 16;
 				let svg = fs.readFileSync(abs, 'utf8').replace(/[\n\r]/g, ' ');
 
-				// original size detect ugly special case
+				// detect size from viewBox unless not forced via config
 				const m = /viewBox=['"](?<viewBox>[^"']+)['"]/.exec(svg);
-				if (m?.groups?.viewBox && /heroicons|bytesize/.test(indir)) {
+				if (!size && m?.groups?.viewBox) {
 					const [_1, _2, w, h] = m.groups.viewBox.split(' ');
-					if (w === h) {
-						//sanity
-						size = w;
-					}
+					size = w;
+					if (w !== h) throw new Error(`Not equal proportions in ${abs}`);
 				}
 
+				const buildReplace = ({ size, allowStrokeWidth, strokeWidth }) => {
+					return [
+						'${style ? `style="${style}" ` : ""}',
+						'${cls ? `class="${cls}" ` : ""}',
+						'width="${size || ' + size + '}" ',
+						'height="${size || ' + size + '}" ',
+						allowStrokeWidth
+							? 'stroke-width="${strokeWidth ?? ' + strokeWidth + '}" '
+							: '',
+						'${attrs ? `${attrs} ` : ""}',
+					].join('');
+				};
+
+				let strokeWidth;
+				if (allowStrokeWidth) {
+					const m = /stroke-width=['"](?<strokeWidth>[^"']+)['"]/.exec(svg);
+					strokeWidth = m?.groups?.strokeWidth || undefined;
+					svg = svg.replace(/ stroke-width="[^"]+"/, '');
+				}
+
+				// quick-n-dirty hacking
 				svg = svg
 					.replace(' xmlns="http://www.w3.org/2000/svg"', '')
 					.replace(/ class="[^"]+"/, '')
@@ -95,28 +137,30 @@ async function build() {
 					.replace(/ id="[^"]+"/, '')
 					.replace(
 						'<svg ',
-						'<svg style="${style || \'\'}" class="${cls || \'\'}" width="${size || ' + size + '}" height="${size || ' + size + '}" '
+						'<svg ' + buildReplace({ size, allowStrokeWidth, strokeWidth })
 					)
 					.replace(/>\s+</g, '><')
 					.trim();
 
-				const outname = fnPrefix + safeId(name.replace(/\.svg$/, ''));
-				let content = `export const ${outname} = (cls = null, size = null, style = null) => \`${svg}\`;\n`;
-				log(gray(`    ✔ ${outname}`));
-				fs.writeFileSync(path.join(DISTDIR, outdir, outname + '.js'), content);
+				if (typeof transformName === 'function') name = transformName(name);
+				const outName = fnPrefix + safeId(name.replace(/\.svg$/, ''));
+				let content = fnTpl.replace('outName', outName).replace('{{svg}}', svg);
+
+				// log(gray(`    ✔ ${outName}`));
+				fs.writeFileSync(path.join(DIST_DIR, outdir, outName + '.js'), content);
 
 				// types
-				let dts = `export declare const ${outname}: (cls?: string, size?: number, style?: string) => string;\n`;
-				fs.writeFileSync(path.join(DISTDIR, outdir, outname + '.d.ts'), dts);
-				indexdts += `export { ${outname} } from '${outdir}/${outname}.js';\n`;
+				let dts = fnTplDTs.replace('outName', outName);
+				fs.writeFileSync(path.join(DIST_DIR, outdir, outName + '.d.ts'), dts);
+				indexDts += `export { ${outName} } from '${outdir}/${outName}.js';\n`;
 			}
 		});
 
-		log(gray(`\nDone -> ${path.join(DISTDIR, outdir)}\n`));
+		log(gray(`Done -> ${path.join(DIST_DIR, outdir)}\n`));
 	});
 
-	fs.writeFileSync(path.join(DISTDIR, 'index.js'), indexdts);
-	fs.writeFileSync(path.join(DISTDIR, 'index.d.ts'), indexdts);
+	fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
+	fs.writeFileSync(path.join(DIST_DIR, 'index.d.ts'), indexDts);
 
 	log(gray(`Done all\n`));
 }
@@ -138,10 +182,10 @@ function help() {
 	process.exit();
 }
 
-function ucfirst(str) {
+function ucFirst(str) {
 	return `${str}`.charAt(0).toUpperCase() + `${str}`.slice(1);
 }
 
 function safeId(name) {
-	return name.split(/[\/-]/).filter(Boolean).map(ucfirst).join('');
+	return name.split(/[\/-]/).filter(Boolean).map(ucFirst).join('');
 }

@@ -1,1 +1,8 @@
-export declare const iconHeroOutlineBars3BottomRight: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconHeroOutlineBars3BottomRight(props: Partial<Props>): string;
+export {};

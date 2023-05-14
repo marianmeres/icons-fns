@@ -1,1 +1,8 @@
-export declare const iconBsSafeFill: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBsSafeFill(props: Partial<Props>): string;
+export {};

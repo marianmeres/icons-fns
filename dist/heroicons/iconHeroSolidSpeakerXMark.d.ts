@@ -1,1 +1,8 @@
-export declare const iconHeroSolidSpeakerXMark: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconHeroSolidSpeakerXMark(props: Partial<Props>): string;
+export {};

@@ -1,1 +1,8 @@
-export declare const iconBsEasel: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBsEasel(props: Partial<Props>): string;
+export {};
