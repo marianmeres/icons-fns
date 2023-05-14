@@ -1,1 +1,8 @@
-export declare const iconBsViewStacked: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBsViewStacked(props: Partial<Props>): string;
+export {};

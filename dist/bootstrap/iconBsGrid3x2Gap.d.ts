@@ -1,1 +1,8 @@
-export declare const iconBsGrid3x2Gap: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBsGrid3x2Gap(props: Partial<Props>): string;
+export {};

@@ -1,1 +1,8 @@
-export declare const iconBsFiletypePpt: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBsFiletypePpt(props: Partial<Props>): string;
+export {};

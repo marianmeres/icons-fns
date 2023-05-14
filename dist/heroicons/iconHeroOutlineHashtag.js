@@ -1,1 +1,15 @@
-export const iconHeroOutlineHashtag = (cls = null, size = null, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size || 24}" height="${size || 24}" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.25h15m-16.5 7.5h15m-1.8-13.5l-3.9 19.5m-2.1-19.5l-3.9 19.5"/></svg>`;
+export function iconHeroOutlineHashtag(props) {
+    // Backward compatible signature support: fn(cls, size, style)
+    if (props === null || props === undefined)
+        props = {};
+    if (typeof props !== 'object')
+        props = { class: props || '' };
+    if (arguments.length > 1)
+        props.size ??= arguments[1];
+    if (arguments.length > 2)
+        props.style ??= arguments[2];
+    // 
+    const { size, class: cls, style, strokeWidth } = props;
+    let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
+    return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 24}" height="${size || 24}" ${attrs ? `${attrs} ` : ""}fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5.25 8.25h15m-16.5 7.5h15m-1.8-13.5l-3.9 19.5m-2.1-19.5l-3.9 19.5"/></svg>`;
+}

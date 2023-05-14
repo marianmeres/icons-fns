@@ -1,1 +1,15 @@
-export const iconBsFileRuledFill = (cls = null, size = null, style = null) => `<svg style="${style || ''}" class="${cls || ''}" width="${size || 16}" height="${size || 16}" fill="currentColor" viewBox="0 0 16 16"><path d="M12 0H4a2 2 0 0 0-2 2v4h12V2a2 2 0 0 0-2-2zm2 7H6v2h8V7zm0 3H6v2h8v-2zm0 3H6v3h6a2 2 0 0 0 2-2v-1zm-9 3v-3H2v1a2 2 0 0 0 2 2h1zm-3-4h3v-2H2v2zm0-3h3V7H2v2z"/></svg>`;
+export function iconBsFileRuledFill(props) {
+    // Backward compatible signature support: fn(cls, size, style)
+    if (props === null || props === undefined)
+        props = {};
+    if (typeof props !== 'object')
+        props = { class: props || '' };
+    if (arguments.length > 1)
+        props.size ??= arguments[1];
+    if (arguments.length > 2)
+        props.style ??= arguments[2];
+    // 
+    const { size, class: cls, style, strokeWidth } = props;
+    let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
+    return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 16}" height="${size || 16}" ${attrs ? `${attrs} ` : ""}fill="currentColor" viewBox="0 0 16 16"><path d="M12 0H4a2 2 0 0 0-2 2v4h12V2a2 2 0 0 0-2-2zm2 7H6v2h8V7zm0 3H6v2h8v-2zm0 3H6v3h6a2 2 0 0 0 2-2v-1zm-9 3v-3H2v1a2 2 0 0 0 2 2h1zm-3-4h3v-2H2v2zm0-3h3V7H2v2z"/></svg>`;
+}

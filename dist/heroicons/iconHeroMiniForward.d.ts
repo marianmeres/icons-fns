@@ -1,1 +1,8 @@
-export declare const iconHeroMiniForward: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconHeroMiniForward(props: Partial<Props>): string;
+export {};

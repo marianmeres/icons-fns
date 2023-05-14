@@ -1,1 +1,8 @@
-export declare const iconBsBoxArrowInDownRight: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBsBoxArrowInDownRight(props: Partial<Props>): string;
+export {};

@@ -1,1 +1,8 @@
-export declare const iconBs9CircleFill: (cls?: string, size?: number, style?: string) => string;
+interface Props extends Record<string, any> {
+    size: number;
+    class: string;
+    style: string;
+    strokeWidth: number;
+}
+export declare function iconBs9CircleFill(props: Partial<Props>): string;
+export {};
