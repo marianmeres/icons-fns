@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconHeroSolidHomeModern(props: Partial<Props>): string;
+export declare function iconHeroSolidHomeModern(props?: Partial<Props>): string;
 export {};

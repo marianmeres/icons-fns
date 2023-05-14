@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconFaSolidCartPlus(props: Partial<Props>): string;
+export declare function iconFaSolidCartPlus(props?: Partial<Props>): string;
 export {};

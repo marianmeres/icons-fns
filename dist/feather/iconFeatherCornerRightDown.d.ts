@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconFeatherCornerRightDown(props: Partial<Props>): string;
+export declare function iconFeatherCornerRightDown(props?: Partial<Props>): string;
 export {};

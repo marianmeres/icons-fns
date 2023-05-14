@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconFaSolidEllipsis(props: Partial<Props>): string;
+export declare function iconFaSolidEllipsis(props?: Partial<Props>): string;
 export {};

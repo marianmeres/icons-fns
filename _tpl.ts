@@ -5,7 +5,7 @@ interface Props extends Record<string, any> {
 	strokeWidth: number;
 }
 // prettier-ignore
-export function outName(props: Partial<Props>): string {
+export function outName(props?: Partial<Props>): string {
 	// Backward compatible signature support: fn(cls, size, style)
 	if (props === null || props === undefined) props = {};
 	if (typeof props !== 'object') props = { class: props || '' };

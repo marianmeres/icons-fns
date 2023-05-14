@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBxRegularRuler(props: Partial<Props>): string;
+export declare function iconBxRegularRuler(props?: Partial<Props>): string;
 export {};

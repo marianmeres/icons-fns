@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBsChatSquareTextFill(props: Partial<Props>): string;
+export declare function iconBsChatSquareTextFill(props?: Partial<Props>): string;
 export {};

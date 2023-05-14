@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBsCalendar4Week(props: Partial<Props>): string;
+export declare function iconBsCalendar4Week(props?: Partial<Props>): string;
 export {};

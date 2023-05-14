@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBytesizeSignOut(props: Partial<Props>): string;
+export declare function iconBytesizeSignOut(props?: Partial<Props>): string;
 export {};

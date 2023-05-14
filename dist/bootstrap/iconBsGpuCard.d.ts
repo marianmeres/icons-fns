@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBsGpuCard(props: Partial<Props>): string;
+export declare function iconBsGpuCard(props?: Partial<Props>): string;
 export {};

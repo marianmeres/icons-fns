@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconHeroMiniCodeBracketSquare(props: Partial<Props>): string;
+export declare function iconHeroMiniCodeBracketSquare(props?: Partial<Props>): string;
 export {};

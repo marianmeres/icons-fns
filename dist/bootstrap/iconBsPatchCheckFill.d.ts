@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBsPatchCheckFill(props: Partial<Props>): string;
+export declare function iconBsPatchCheckFill(props?: Partial<Props>): string;
 export {};

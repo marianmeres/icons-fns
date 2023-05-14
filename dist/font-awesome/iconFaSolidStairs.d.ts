@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconFaSolidStairs(props: Partial<Props>): string;
+export declare function iconFaSolidStairs(props?: Partial<Props>): string;
 export {};

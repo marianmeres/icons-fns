@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBsLightningCharge(props: Partial<Props>): string;
+export declare function iconBsLightningCharge(props?: Partial<Props>): string;
 export {};

@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBsGrid1x2Fill(props: Partial<Props>): string;
+export declare function iconBsGrid1x2Fill(props?: Partial<Props>): string;
 export {};

@@ -4,5 +4,5 @@ interface Props extends Record<string, any> {
     style: string;
     strokeWidth: number;
 }
-export declare function iconBsFileEarmarkExcel(props: Partial<Props>): string;
+export declare function iconBsFileEarmarkExcel(props?: Partial<Props>): string;
 export {};
