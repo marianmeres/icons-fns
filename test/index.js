@@ -8,6 +8,8 @@ import {
 	iconHeroMiniAcademicCap,
 	iconHeroOutlineAcademicCap,
 	iconHeroSolidAcademicCap,
+	iconFaRegularAddressBook,
+	iconFaSolid0,
 } from '../dist/index.js';
 
 console.clear();
@@ -24,6 +26,8 @@ Object.entries({
 	iconHeroMiniAcademicCap,
 	iconHeroOutlineAcademicCap,
 	iconHeroSolidAcademicCap,
+	iconFaRegularAddressBook,
+	iconFaSolid0,
 }).forEach(([name, icon]) => {
 	try {
 		// BC signature (cls)

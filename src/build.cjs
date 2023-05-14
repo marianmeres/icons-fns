@@ -82,6 +82,18 @@ async function build() {
 			fnPrefix: 'iconBxSolid',
 			transformName: (v) => v.replace(/^bxs-/, ''),
 		},
+		{
+			indir: './src/font-awesome/6.4.0/regular',
+			outdir: './font-awesome',
+			fnPrefix: 'iconFaRegular',
+			size: 24,
+		},
+		{
+			indir: './src/font-awesome/6.4.0/solid',
+			outdir: './font-awesome',
+			fnPrefix: 'iconFaSolid',
+			size: 24,
+		},
 	];
 
 	rimraf.sync(DIST_DIR);
@@ -104,8 +116,7 @@ async function build() {
 				const m = /viewBox=['"](?<viewBox>[^"']+)['"]/.exec(svg);
 				if (!size && m?.groups?.viewBox) {
 					const [_1, _2, w, h] = m.groups.viewBox.split(' ');
-					size = w;
-					if (w !== h) throw new Error(`Not equal proportions in ${abs}`);
+					size = Math.max(w, h);
 				}
 
 				const buildReplace = ({ size, allowStrokeWidth, strokeWidth }) => {
