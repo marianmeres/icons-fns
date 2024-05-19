@@ -1,4 +1,8 @@
-export function iconBsSunriseFill(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconBsSunriseFill(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

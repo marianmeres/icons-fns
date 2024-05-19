@@ -1,4 +1,8 @@
-export function iconBsArrowDownCircleFill(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconBsArrowDownCircleFill(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

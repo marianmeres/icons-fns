@@ -1,4 +1,8 @@
-export function iconBxSolidBookmarkHeart(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconBxSolidBookmarkHeart(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

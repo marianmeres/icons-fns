@@ -1,4 +1,8 @@
-export function iconBsBoxArrowLeft(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconBsBoxArrowLeft(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

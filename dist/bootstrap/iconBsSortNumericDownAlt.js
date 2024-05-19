@@ -1,4 +1,8 @@
-export function iconBsSortNumericDownAlt(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconBsSortNumericDownAlt(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

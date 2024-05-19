@@ -1,4 +1,8 @@
-export function iconHeroMiniBuildingOffice(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconHeroMiniBuildingOffice(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

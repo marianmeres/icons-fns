@@ -1,4 +1,8 @@
-export function iconHeroSolidEllipsisVertical(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconHeroSolidEllipsisVertical(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

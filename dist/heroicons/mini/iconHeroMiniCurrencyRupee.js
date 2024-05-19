@@ -1,4 +1,8 @@
-export function iconHeroMiniCurrencyRupee(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconHeroMiniCurrencyRupee(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

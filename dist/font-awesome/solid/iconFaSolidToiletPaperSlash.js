@@ -1,4 +1,8 @@
-export function iconFaSolidToiletPaperSlash(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconFaSolidToiletPaperSlash(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

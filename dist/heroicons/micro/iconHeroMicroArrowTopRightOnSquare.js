@@ -1,4 +1,8 @@
-export function iconHeroMicroArrowTopRightOnSquare(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconHeroMicroArrowTopRightOnSquare(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

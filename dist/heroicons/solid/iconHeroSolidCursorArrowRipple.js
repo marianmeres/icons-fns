@@ -1,4 +1,8 @@
-export function iconHeroSolidCursorArrowRipple(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconHeroSolidCursorArrowRipple(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

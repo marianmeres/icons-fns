@@ -1,4 +1,8 @@
-export function iconFaSolidHouseMedicalCircleExclamation(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconFaSolidHouseMedicalCircleExclamation(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

@@ -1,4 +1,8 @@
-export function iconFaSolidHandsAslInterpreting(props) /*@__PURE__*/  {
+/**
+ * prettier-ignore
+ * @__PURE__
+ */
+export function iconFaSolidHandsAslInterpreting(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};
