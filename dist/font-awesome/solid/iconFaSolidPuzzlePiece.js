@@ -1,4 +1,4 @@
-export function iconFaSolidPuzzlePiece(props) {
+export function iconFaSolidPuzzlePiece(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

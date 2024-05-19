@@ -1,4 +1,4 @@
-export function iconBs3Circle(props) {
+export function iconBs3Circle(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

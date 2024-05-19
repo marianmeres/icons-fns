@@ -1,4 +1,4 @@
-export function iconBxRegularCameraMovie(props) {
+export function iconBxRegularCameraMovie(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

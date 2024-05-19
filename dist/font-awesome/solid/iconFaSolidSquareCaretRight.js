@@ -1,4 +1,4 @@
-export function iconFaSolidSquareCaretRight(props) {
+export function iconFaSolidSquareCaretRight(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

@@ -1,4 +1,4 @@
-export function iconFeatherOctagon(props) {
+export function iconFeatherOctagon(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

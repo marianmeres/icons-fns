@@ -1,4 +1,4 @@
-export function iconBsEmojiTear(props) {
+export function iconBsEmojiTear(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

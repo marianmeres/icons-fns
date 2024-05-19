@@ -1,4 +1,4 @@
-export function iconBsSignpost2Fill(props) {
+export function iconBsSignpost2Fill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

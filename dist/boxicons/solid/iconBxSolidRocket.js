@@ -1,4 +1,4 @@
-export function iconBxSolidRocket(props) {
+export function iconBxSolidRocket(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

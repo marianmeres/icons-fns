@@ -1,4 +1,4 @@
-export function iconBsBinocularsFill(props) {
+export function iconBsBinocularsFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

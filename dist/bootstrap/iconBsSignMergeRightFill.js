@@ -1,4 +1,4 @@
-export function iconBsSignMergeRightFill(props) {
+export function iconBsSignMergeRightFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

@@ -1,4 +1,4 @@
-export function iconHeroMicroArrowRightCircle(props) {
+export function iconHeroMicroArrowRightCircle(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

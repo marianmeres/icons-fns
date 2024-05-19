@@ -1,4 +1,4 @@
-export function iconBsHddNetwork(props) {
+export function iconBsHddNetwork(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

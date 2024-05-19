@@ -1,4 +1,4 @@
-export function iconBxSolidCalendarCheck(props) {
+export function iconBxSolidCalendarCheck(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

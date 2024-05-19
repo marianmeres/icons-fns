@@ -1,4 +1,4 @@
-export function iconBxSolidInfoSquare(props) {
+export function iconBxSolidInfoSquare(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

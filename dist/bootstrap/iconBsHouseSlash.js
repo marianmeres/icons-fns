@@ -1,4 +1,4 @@
-export function iconBsHouseSlash(props) {
+export function iconBsHouseSlash(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

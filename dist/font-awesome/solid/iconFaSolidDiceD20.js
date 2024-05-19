@@ -1,4 +1,4 @@
-export function iconFaSolidDiceD20(props) {
+export function iconFaSolidDiceD20(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

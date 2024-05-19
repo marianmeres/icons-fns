@@ -1,4 +1,4 @@
-export function iconHeroMiniBars3(props) {
+export function iconHeroMiniBars3(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

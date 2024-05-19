@@ -1,4 +1,4 @@
-export function iconBxSolidChevronLeftCircle(props) {
+export function iconBxSolidChevronLeftCircle(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

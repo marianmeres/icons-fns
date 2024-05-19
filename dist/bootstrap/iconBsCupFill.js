@@ -1,4 +1,4 @@
-export function iconBsCupFill(props) {
+export function iconBsCupFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

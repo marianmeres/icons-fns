@@ -1,4 +1,4 @@
-export function iconFeatherArrowDownLeft(props) {
+export function iconFeatherArrowDownLeft(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

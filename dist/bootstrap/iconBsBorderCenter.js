@@ -1,4 +1,4 @@
-export function iconBsBorderCenter(props) {
+export function iconBsBorderCenter(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

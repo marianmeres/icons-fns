@@ -1,4 +1,4 @@
-export function iconFaSolidPlaneSlash(props) {
+export function iconFaSolidPlaneSlash(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

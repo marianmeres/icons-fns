@@ -1,4 +1,4 @@
-export function iconBxRegularSpreadsheet(props) {
+export function iconBxRegularSpreadsheet(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

@@ -1,4 +1,4 @@
-export function iconHeroOutlineLightBulb(props) {
+export function iconHeroOutlineLightBulb(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

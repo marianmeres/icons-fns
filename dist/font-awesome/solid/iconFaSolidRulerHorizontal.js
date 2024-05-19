@@ -1,4 +1,4 @@
-export function iconFaSolidRulerHorizontal(props) {
+export function iconFaSolidRulerHorizontal(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

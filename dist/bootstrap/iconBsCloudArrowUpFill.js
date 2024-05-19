@@ -1,4 +1,4 @@
-export function iconBsCloudArrowUpFill(props) {
+export function iconBsCloudArrowUpFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

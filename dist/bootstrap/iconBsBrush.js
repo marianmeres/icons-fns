@@ -1,4 +1,4 @@
-export function iconBsBrush(props) {
+export function iconBsBrush(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

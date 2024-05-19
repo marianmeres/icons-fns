@@ -1,4 +1,4 @@
-export function iconBxRegularTransferAlt(props) {
+export function iconBxRegularTransferAlt(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

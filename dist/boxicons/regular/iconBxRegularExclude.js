@@ -1,4 +1,4 @@
-export function iconBxRegularExclude(props) {
+export function iconBxRegularExclude(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

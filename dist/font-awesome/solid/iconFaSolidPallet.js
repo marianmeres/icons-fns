@@ -1,4 +1,4 @@
-export function iconFaSolidPallet(props) {
+export function iconFaSolidPallet(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

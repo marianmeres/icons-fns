@@ -1,4 +1,4 @@
-export function iconBsJustifyRight(props) {
+export function iconBsJustifyRight(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

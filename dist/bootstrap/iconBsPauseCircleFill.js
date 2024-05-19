@@ -1,4 +1,4 @@
-export function iconBsPauseCircleFill(props) {
+export function iconBsPauseCircleFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

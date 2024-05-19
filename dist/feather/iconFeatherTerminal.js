@@ -1,4 +1,4 @@
-export function iconFeatherTerminal(props) {
+export function iconFeatherTerminal(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

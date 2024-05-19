@@ -1,4 +1,4 @@
-export function iconBsDribbble(props) {
+export function iconBsDribbble(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

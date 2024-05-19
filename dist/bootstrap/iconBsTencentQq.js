@@ -1,4 +1,4 @@
-export function iconBsTencentQq(props) {
+export function iconBsTencentQq(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

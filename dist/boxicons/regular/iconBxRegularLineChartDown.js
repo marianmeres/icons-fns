@@ -1,4 +1,4 @@
-export function iconBxRegularLineChartDown(props) {
+export function iconBxRegularLineChartDown(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

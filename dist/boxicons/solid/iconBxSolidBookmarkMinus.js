@@ -1,4 +1,4 @@
-export function iconBxSolidBookmarkMinus(props) {
+export function iconBxSolidBookmarkMinus(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

@@ -1,4 +1,4 @@
-export function iconBsChatLeftDots(props) {
+export function iconBsChatLeftDots(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

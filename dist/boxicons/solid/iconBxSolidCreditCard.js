@@ -1,4 +1,4 @@
-export function iconBxSolidCreditCard(props) {
+export function iconBxSolidCreditCard(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

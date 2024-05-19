@@ -1,4 +1,4 @@
-export function iconFaSolidHospitalUser(props) {
+export function iconFaSolidHospitalUser(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

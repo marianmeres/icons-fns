@@ -1,4 +1,4 @@
-export function iconBsVinylFill(props) {
+export function iconBsVinylFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

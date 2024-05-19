@@ -1,4 +1,4 @@
-export function iconFaRegularSquarePlus(props) {
+export function iconFaRegularSquarePlus(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

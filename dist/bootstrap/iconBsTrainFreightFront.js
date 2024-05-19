@@ -1,4 +1,4 @@
-export function iconBsTrainFreightFront(props) {
+export function iconBsTrainFreightFront(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

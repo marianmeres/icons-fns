@@ -1,4 +1,4 @@
-export function iconBsCake2Fill(props) {
+export function iconBsCake2Fill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

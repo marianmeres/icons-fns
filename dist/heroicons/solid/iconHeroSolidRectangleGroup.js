@@ -1,4 +1,4 @@
-export function iconHeroSolidRectangleGroup(props) {
+export function iconHeroSolidRectangleGroup(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

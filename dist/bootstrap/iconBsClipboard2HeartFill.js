@@ -1,4 +1,4 @@
-export function iconBsClipboard2HeartFill(props) {
+export function iconBsClipboard2HeartFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

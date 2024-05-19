@@ -1,4 +1,4 @@
-export function iconBxRegularBorderTop(props) {
+export function iconBxRegularBorderTop(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

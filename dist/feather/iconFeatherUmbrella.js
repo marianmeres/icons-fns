@@ -1,4 +1,4 @@
-export function iconFeatherUmbrella(props) {
+export function iconFeatherUmbrella(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

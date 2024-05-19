@@ -1,4 +1,4 @@
-export function iconHeroSolidLockOpen(props) {
+export function iconHeroSolidLockOpen(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

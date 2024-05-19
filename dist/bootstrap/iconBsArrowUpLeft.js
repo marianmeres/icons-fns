@@ -1,4 +1,4 @@
-export function iconBsArrowUpLeft(props) {
+export function iconBsArrowUpLeft(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

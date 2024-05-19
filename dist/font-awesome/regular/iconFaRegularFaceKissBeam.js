@@ -1,4 +1,4 @@
-export function iconFaRegularFaceKissBeam(props) {
+export function iconFaRegularFaceKissBeam(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

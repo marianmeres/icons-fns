@@ -1,4 +1,4 @@
-export function iconFaSolidArrowRotateRight(props) {
+export function iconFaSolidArrowRotateRight(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

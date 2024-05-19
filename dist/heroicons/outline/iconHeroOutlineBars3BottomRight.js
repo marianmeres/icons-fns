@@ -1,4 +1,4 @@
-export function iconHeroOutlineBars3BottomRight(props) {
+export function iconHeroOutlineBars3BottomRight(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

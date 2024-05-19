@@ -1,4 +1,4 @@
-export function iconHeroMiniCog8Tooth(props) {
+export function iconHeroMiniCog8Tooth(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

@@ -1,4 +1,4 @@
-export function iconBsGrid3x2GapFill(props) {
+export function iconBsGrid3x2GapFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

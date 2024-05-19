@@ -1,4 +1,4 @@
-export function iconFaSolidTarp(props) {
+export function iconFaSolidTarp(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

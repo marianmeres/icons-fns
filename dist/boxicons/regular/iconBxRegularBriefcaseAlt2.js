@@ -1,4 +1,4 @@
-export function iconBxRegularBriefcaseAlt2(props) {
+export function iconBxRegularBriefcaseAlt2(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

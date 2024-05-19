@@ -1,4 +1,4 @@
-export function iconBytesizeGithub(props) {
+export function iconBytesizeGithub(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

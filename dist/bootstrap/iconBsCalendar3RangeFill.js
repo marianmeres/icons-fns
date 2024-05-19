@@ -1,4 +1,4 @@
-export function iconBsCalendar3RangeFill(props) {
+export function iconBsCalendar3RangeFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

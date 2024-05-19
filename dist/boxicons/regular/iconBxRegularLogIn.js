@@ -1,4 +1,4 @@
-export function iconBxRegularLogIn(props) {
+export function iconBxRegularLogIn(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

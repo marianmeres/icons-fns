@@ -1,4 +1,4 @@
-export function iconHeroSolidStopCircle(props) {
+export function iconHeroSolidStopCircle(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

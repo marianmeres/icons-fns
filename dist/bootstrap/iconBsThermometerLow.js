@@ -1,4 +1,4 @@
-export function iconBsThermometerLow(props) {
+export function iconBsThermometerLow(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

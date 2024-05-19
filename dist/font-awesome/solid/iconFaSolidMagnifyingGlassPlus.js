@@ -1,4 +1,4 @@
-export function iconFaSolidMagnifyingGlassPlus(props) {
+export function iconFaSolidMagnifyingGlassPlus(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

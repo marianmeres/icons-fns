@@ -1,4 +1,4 @@
-export function iconFaSolidHourglassStart(props) {
+export function iconFaSolidHourglassStart(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

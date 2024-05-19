@@ -1,4 +1,4 @@
-export function iconHeroMiniVideoCamera(props) {
+export function iconHeroMiniVideoCamera(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

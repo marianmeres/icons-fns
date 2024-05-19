@@ -1,4 +1,4 @@
-export function iconBsGlobeCentralSouthAsia(props) {
+export function iconBsGlobeCentralSouthAsia(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

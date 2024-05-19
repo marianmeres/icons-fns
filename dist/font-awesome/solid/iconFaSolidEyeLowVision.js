@@ -1,4 +1,4 @@
-export function iconFaSolidEyeLowVision(props) {
+export function iconFaSolidEyeLowVision(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

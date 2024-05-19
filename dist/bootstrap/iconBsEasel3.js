@@ -1,4 +1,4 @@
-export function iconBsEasel3(props) {
+export function iconBsEasel3(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

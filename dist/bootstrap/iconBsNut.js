@@ -1,4 +1,4 @@
-export function iconBsNut(props) {
+export function iconBsNut(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

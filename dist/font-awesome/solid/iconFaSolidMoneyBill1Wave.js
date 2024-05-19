@@ -1,4 +1,4 @@
-export function iconFaSolidMoneyBill1Wave(props) {
+export function iconFaSolidMoneyBill1Wave(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

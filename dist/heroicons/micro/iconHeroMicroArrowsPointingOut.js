@@ -1,4 +1,4 @@
-export function iconHeroMicroArrowsPointingOut(props) {
+export function iconHeroMicroArrowsPointingOut(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

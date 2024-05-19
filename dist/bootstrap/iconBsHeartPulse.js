@@ -1,4 +1,4 @@
-export function iconBsHeartPulse(props) {
+export function iconBsHeartPulse(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

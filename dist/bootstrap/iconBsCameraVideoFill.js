@@ -1,4 +1,4 @@
-export function iconBsCameraVideoFill(props) {
+export function iconBsCameraVideoFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

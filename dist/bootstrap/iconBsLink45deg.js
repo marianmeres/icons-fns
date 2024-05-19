@@ -1,4 +1,4 @@
-export function iconBsLink45deg(props) {
+export function iconBsLink45deg(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

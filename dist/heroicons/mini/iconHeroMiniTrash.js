@@ -1,4 +1,4 @@
-export function iconHeroMiniTrash(props) {
+export function iconHeroMiniTrash(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

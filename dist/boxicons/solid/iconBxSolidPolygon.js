@@ -1,4 +1,4 @@
-export function iconBxSolidPolygon(props) {
+export function iconBxSolidPolygon(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

@@ -1,4 +1,4 @@
-export function iconBytesizeWork(props) {
+export function iconBytesizeWork(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

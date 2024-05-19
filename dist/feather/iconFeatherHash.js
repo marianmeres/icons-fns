@@ -1,4 +1,4 @@
-export function iconFeatherHash(props) {
+export function iconFeatherHash(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

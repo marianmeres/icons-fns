@@ -1,4 +1,4 @@
-export function iconHeroMicroMapPin(props) {
+export function iconHeroMicroMapPin(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

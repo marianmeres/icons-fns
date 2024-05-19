@@ -1,4 +1,4 @@
-export function iconBsHeartbreakFill(props) {
+export function iconBsHeartbreakFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

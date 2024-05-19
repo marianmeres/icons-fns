@@ -1,4 +1,4 @@
-export function iconHeroMiniCreditCard(props) {
+export function iconHeroMiniCreditCard(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

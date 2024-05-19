@@ -1,4 +1,4 @@
-export function iconBsThreadsFill(props) {
+export function iconBsThreadsFill(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

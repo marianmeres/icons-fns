@@ -1,4 +1,4 @@
-export function iconBxRegularDice6(props) {
+export function iconBxRegularDice6(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

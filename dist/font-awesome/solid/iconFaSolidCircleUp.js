@@ -1,4 +1,4 @@
-export function iconFaSolidCircleUp(props) {
+export function iconFaSolidCircleUp(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};

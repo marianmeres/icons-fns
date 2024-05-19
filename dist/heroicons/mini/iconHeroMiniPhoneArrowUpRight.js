@@ -1,4 +1,4 @@
-export function iconHeroMiniPhoneArrowUpRight(props) {
+export function iconHeroMiniPhoneArrowUpRight(props) /* #__PURE__ */  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};
