@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const mkdirp = require('mkdirp');
 const rimraf = require('rimraf');
-const { yellow, red, cyan, gray } = require('kleur/colors');
+const { yellow, red, cyan, gray, magenta, green, white, bold } = require('kleur/colors');
 const { totalist } = require('totalist/sync');
 const args = require('minimist')(process.argv.slice(2));
 
@@ -110,6 +110,8 @@ async function build() {
 		fs.readFileSync('./_tpl.js', 'utf8').replace('// prettier-ignore', '').trim() + '\n';
 	const fnTplDTs = fs.readFileSync('./_tpl.d.ts', 'utf8');
 
+	const packageJsonTip = {};
+
 	config.forEach(({ indir, outdir, fnPrefix, transformName, allowStrokeWidth, size }) => {
 		totalist(indir, (name, abs, stats) => {
 			if (/\.svg/i.test(name)) {
@@ -172,13 +174,26 @@ async function build() {
 			}
 		});
 
+		// packageJsonTip.push(`${path.join(DIST_DIR, outdir, '*.js')}`);
+		const _tip = `${path.join(DIST_DIR, outdir, '*.js')}`;
+		packageJsonTip[`./${path.join(outdir, '*.js')}`] = `./${path.join(
+			DIST_DIR,
+			outdir,
+			'*.js'
+		)}`;
+
 		log(gray(`Done -> ${path.join(DIST_DIR, outdir)}\n`));
 	});
 
-	fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
+	// fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
 	fs.writeFileSync(path.join(DIST_DIR, 'index.d.ts'), indexDts);
 
-	log(gray(`Done all\n`));
+	// "./feature/*.js": "./feature/*.js",
+	log(white(bold('Make sure your package.json contains the following:\n')));
+	const lines = JSON.stringify({ exports: packageJsonTip }, null, 2).split('\n');
+	log(green(lines.slice(1, lines.length - 1).join('\n')));
+
+	log(gray(`\n\nDone all\n`));
 }
 
 function onError(e) {

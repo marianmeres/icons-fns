@@ -1,15 +1,5 @@
-export function iconHeroOutlineClipboard(props) {
-    // Backward compatible signature support: fn(cls, size, style)
-    if (props === null || props === undefined)
-        props = {};
-    if (typeof props !== 'object')
-        props = { class: props || '' };
-    if (arguments.length > 1)
-        props.size ??= arguments[1];
-    if (arguments.length > 2)
-        props.style ??= arguments[2];
-    // 
-    const { size, class: cls, style, strokeWidth } = props;
+export const iconHeroOutlineClipboard = (props) => {
+    const { size, class: cls, style, strokeWidth } = props || {};
     let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
     return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 24}" height="${size || 24}" ${attrs ? `${attrs} ` : ""}fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true" data-slot="icon"><path stroke-linecap="round" stroke-linejoin="round" d="M15.666 3.888A2.25 2.25 0 0 0 13.5 2.25h-3c-1.03 0-1.9.693-2.166 1.638m7.332 0c.055.194.084.4.084.612v0a.75.75 0 0 1-.75.75H9a.75.75 0 0 1-.75-.75v0c0-.212.03-.418.084-.612m7.332 0c.646.049 1.288.11 1.927.184 1.1.128 1.907 1.077 1.907 2.185V19.5a2.25 2.25 0 0 1-2.25 2.25H6.75A2.25 2.25 0 0 1 4.5 19.5V6.257c0-1.108.806-2.057 1.907-2.185a48.208 48.208 0 0 1 1.927-.184"/></svg>`;
 }
