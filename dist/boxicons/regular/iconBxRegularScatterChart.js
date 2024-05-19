@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconBxRegularScatterChart(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)

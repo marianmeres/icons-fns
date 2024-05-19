@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconFaSolidFaceDizzy(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)

@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconFaRegularBuilding(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)

@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconBxRegularOutline(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)

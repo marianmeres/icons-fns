@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconFeatherEdit2(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)

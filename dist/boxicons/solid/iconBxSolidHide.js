@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconBxSolidHide(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)

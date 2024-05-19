@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconHeroMiniCake(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)

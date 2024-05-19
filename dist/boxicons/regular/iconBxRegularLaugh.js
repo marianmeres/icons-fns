@@ -1,4 +1,3 @@
-/*@__PURE__*/
 export function iconBxRegularLaugh(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
