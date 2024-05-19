@@ -1,4 +1,4 @@
-export function iconBsCalendar3(props) /* #__PURE__ */  {
+export function iconBsCalendar3(props) /*@__PURE__*/  {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
         props = {};
