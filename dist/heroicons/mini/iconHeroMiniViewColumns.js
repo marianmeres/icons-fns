@@ -1,7 +1,4 @@
-/**
- * prettier-ignore
- * @__PURE__
- */
+/*@__PURE__*/
 export function iconHeroMiniViewColumns(props) {
     // Backward compatible signature support: fn(cls, size, style)
     if (props === null || props === undefined)
