@@ -6438,7 +6438,9 @@ export { iconFaSolidSwatchbook } from './font-awesome/solid/iconFaSolidSwatchboo
 export { iconFaSolidSynagogue } from './font-awesome/solid/iconFaSolidSynagogue.js';
 export { iconFaSolidSyringe } from './font-awesome/solid/iconFaSolidSyringe.js';
 export { iconFaSolidT } from './font-awesome/solid/iconFaSolidT.js';
+export { iconFaSolidTableCellsColumnLock } from './font-awesome/solid/iconFaSolidTableCellsColumnLock.js';
 export { iconFaSolidTableCellsLarge } from './font-awesome/solid/iconFaSolidTableCellsLarge.js';
+export { iconFaSolidTableCellsRowLock } from './font-awesome/solid/iconFaSolidTableCellsRowLock.js';
 export { iconFaSolidTableCells } from './font-awesome/solid/iconFaSolidTableCells.js';
 export { iconFaSolidTableColumns } from './font-awesome/solid/iconFaSolidTableColumns.js';
 export { iconFaSolidTableList } from './font-awesome/solid/iconFaSolidTableList.js';
