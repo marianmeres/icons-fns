@@ -42,9 +42,6 @@ iconPrefixIconName(props?: Partial<{
     strokeWidth: number;
 }>): string;
 
-// for backward compatibility, the v1 signature is also supported
-// but should be considered as deprecated
-iconPrefixIconName(cls?: string, size?: number, style?: string): string;
 ```
 
 so the actual usage example may look like:
