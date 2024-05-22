@@ -1,8 +1,8 @@
-interface Props extends Record<string, any> {
-    size: number;
-    class: string;
-    style: string;
-    strokeWidth: number;
-}
-export declare function iconHeroMiniBellAlert(props?: Partial<Props>): string;
-export {};
+export declare const iconHeroMiniBellAlert: (
+	props?: Partial<{
+		size: number;
+		class: string;
+		style: string;
+		strokeWidth: number;
+	}>
+) => string;

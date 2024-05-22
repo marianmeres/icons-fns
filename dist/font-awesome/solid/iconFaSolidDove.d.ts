@@ -1,8 +1,8 @@
-interface Props extends Record<string, any> {
-    size: number;
-    class: string;
-    style: string;
-    strokeWidth: number;
-}
-export declare function iconFaSolidDove(props?: Partial<Props>): string;
-export {};
+export declare const iconFaSolidDove: (
+	props?: Partial<{
+		size: number;
+		class: string;
+		style: string;
+		strokeWidth: number;
+	}>
+) => string;

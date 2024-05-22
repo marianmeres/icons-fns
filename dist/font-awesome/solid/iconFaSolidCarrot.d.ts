@@ -1,8 +1,8 @@
-interface Props extends Record<string, any> {
-    size: number;
-    class: string;
-    style: string;
-    strokeWidth: number;
-}
-export declare function iconFaSolidCarrot(props?: Partial<Props>): string;
-export {};
+export declare const iconFaSolidCarrot: (
+	props?: Partial<{
+		size: number;
+		class: string;
+		style: string;
+		strokeWidth: number;
+	}>
+) => string;

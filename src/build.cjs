@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const mkdirp = require('mkdirp');
 const rimraf = require('rimraf');
-const { yellow, red, cyan, gray } = require('kleur/colors');
+const { yellow, red, cyan, gray, magenta, green, white, bold } = require('kleur/colors');
 const { totalist } = require('totalist/sync');
 const args = require('minimist')(process.argv.slice(2));
 
@@ -109,6 +109,8 @@ async function build() {
 	const fnTpl =
 		fs.readFileSync('./_tpl.js', 'utf8').replace('// prettier-ignore', '').trim() + '\n';
 	const fnTplDTs = fs.readFileSync('./_tpl.d.ts', 'utf8');
+
+	const packageJsonTip = {};
 
 	config.forEach(({ indir, outdir, fnPrefix, transformName, allowStrokeWidth, size }) => {
 		totalist(indir, (name, abs, stats) => {

@@ -1,15 +1,5 @@
-export function iconBsFileMusicFill(props) {
-    // Backward compatible signature support: fn(cls, size, style)
-    if (props === null || props === undefined)
-        props = {};
-    if (typeof props !== 'object')
-        props = { class: props || '' };
-    if (arguments.length > 1)
-        props.size ??= arguments[1];
-    if (arguments.length > 2)
-        props.style ??= arguments[2];
-    // 
-    const { size, class: cls, style, strokeWidth } = props;
+export const iconBsFileMusicFill = (props) => {
+    const { size, class: cls, style, strokeWidth } = props || {};
     let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
     return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 16}" height="${size || 16}" ${attrs ? `${attrs} ` : ""}fill="currentColor" viewBox="0 0 16 16"><path d="M12 0H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2m-.5 4.11v1.8l-2.5.5v5.09c0 .495-.301.883-.662 1.123C7.974 12.866 7.499 13 7 13s-.974-.134-1.338-.377C5.302 12.383 5 11.995 5 11.5s.301-.883.662-1.123C6.026 10.134 6.501 10 7 10c.356 0 .7.068 1 .196V4.41a1 1 0 0 1 .804-.98l1.5-.3a1 1 0 0 1 1.196.98"/></svg>`;
 }

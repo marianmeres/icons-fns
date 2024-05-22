@@ -1,15 +1,5 @@
-export function iconHeroMiniBookOpen(props) {
-    // Backward compatible signature support: fn(cls, size, style)
-    if (props === null || props === undefined)
-        props = {};
-    if (typeof props !== 'object')
-        props = { class: props || '' };
-    if (arguments.length > 1)
-        props.size ??= arguments[1];
-    if (arguments.length > 2)
-        props.style ??= arguments[2];
-    // 
-    const { size, class: cls, style, strokeWidth } = props;
+export const iconHeroMiniBookOpen = (props) => {
+    const { size, class: cls, style, strokeWidth } = props || {};
     let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
     return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 20}" height="${size || 20}" ${attrs ? `${attrs} ` : ""}viewBox="0 0 20 20" fill="currentColor" aria-hidden="true" data-slot="icon"><path d="M10.75 16.82A7.462 7.462 0 0 1 15 15.5c.71 0 1.396.098 2.046.282A.75.75 0 0 0 18 15.06v-11a.75.75 0 0 0-.546-.721A9.006 9.006 0 0 0 15 3a8.963 8.963 0 0 0-4.25 1.065V16.82ZM9.25 4.065A8.963 8.963 0 0 0 5 3c-.85 0-1.673.118-2.454.339A.75.75 0 0 0 2 4.06v11a.75.75 0 0 0 .954.721A7.506 7.506 0 0 1 5 15.5c1.579 0 3.042.487 4.25 1.32V4.065Z"/></svg>`;
 }

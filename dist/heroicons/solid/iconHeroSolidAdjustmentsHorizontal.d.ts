@@ -1,8 +1,8 @@
-interface Props extends Record<string, any> {
-    size: number;
-    class: string;
-    style: string;
-    strokeWidth: number;
-}
-export declare function iconHeroSolidAdjustmentsHorizontal(props?: Partial<Props>): string;
-export {};
+export declare const iconHeroSolidAdjustmentsHorizontal: (
+	props?: Partial<{
+		size: number;
+		class: string;
+		style: string;
+		strokeWidth: number;
+	}>
+) => string;
