@@ -13,6 +13,6 @@ export function outName(props?: Partial<Props>): string {
 	if (arguments.length > 2) props.style ??= arguments[2];
 	// 
 	const { size, class: cls, style, strokeWidth } = props;
-	let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"` ]), [] as string[]).join(' ');
+	let attrs = Object.entries(props || {}).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"` ]), [] as string[]).join(' ');
 	return `{{svg}}`;
 }
