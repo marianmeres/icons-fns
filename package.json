@@ -15,7 +15,8 @@
 		"test": "node test",
 		"prettier": "prettier --write src/build.cjs",
 		"build": "npm run clean && node src/build.cjs build",
-		"release": "release -v minor"
+		"release": "release -v minor",
+		"release:patch": "release -v patch"
 	},
 	"repository": {
 		"type": "git",
