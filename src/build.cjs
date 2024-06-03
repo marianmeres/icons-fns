@@ -174,13 +174,26 @@ async function build() {
 			}
 		});
 
+		// packageJsonTip.push(`${path.join(DIST_DIR, outdir, '*.js')}`);
+		const _tip = `${path.join(DIST_DIR, outdir, '*.js')}`;
+		packageJsonTip[`./${path.join(outdir, '*.js')}`] = `./${path.join(
+			DIST_DIR,
+			outdir,
+			'*.js'
+		)}`;
+
 		log(gray(`Done -> ${path.join(DIST_DIR, outdir)}\n`));
 	});
 
-	fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
+	// fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
 	fs.writeFileSync(path.join(DIST_DIR, 'index.d.ts'), indexDts);
 
-	log(gray(`Done all\n`));
+	// "./feature/*.js": "./feature/*.js",
+	log(white(bold('Make sure your package.json contains the following:\n')));
+	const lines = JSON.stringify({ exports: packageJsonTip }, null, 2).split('\n');
+	log(green(lines.slice(1, lines.length - 1).join('\n')));
+
+	log(gray(`\n\nDone all\n`));
 }
 
 function onError(e) {

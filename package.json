@@ -8,7 +8,17 @@
 	],
 	"types": "./dist/index.d.ts",
 	"exports": {
-		".": "./dist/index.js"
+		"./bootstrap/*.js": "./dist/bootstrap/*.js",
+		"./heroicons/micro/*.js": "./dist/heroicons/micro/*.js",
+		"./heroicons/mini/*.js": "./dist/heroicons/mini/*.js",
+		"./heroicons/outline/*.js": "./dist/heroicons/outline/*.js",
+		"./heroicons/solid/*.js": "./dist/heroicons/solid/*.js",
+		"./bytesize/*.js": "./dist/bytesize/*.js",
+		"./feather/*.js": "./dist/feather/*.js",
+		"./boxicons/regular/*.js": "./dist/boxicons/regular/*.js",
+		"./boxicons/solid/*.js": "./dist/boxicons/solid/*.js",
+		"./font-awesome/regular/*.js": "./dist/font-awesome/regular/*.js",
+		"./font-awesome/solid/*.js": "./dist/font-awesome/solid/*.js"
 	},
 	"scripts": {
 		"clean": "rimraf dist/*",
