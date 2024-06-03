@@ -1,6 +1,6 @@
 {
 	"name": "@marianmeres/icons-fns",
-	"version": "4.0.2",
+	"version": "4.0.3",
 	"description": "Icon svgs wrapped as functions.",
 	"type": "module",
 	"files": [
