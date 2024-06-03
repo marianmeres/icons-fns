@@ -47,7 +47,7 @@ iconPrefixIconName(props?: Partial<{
 so the actual usage example may look like:
 
 ```javascript
-import { iconHeroMiniAcademicCap } from '@marianmeres/icons-fns';
+import { iconHeroMiniAcademicCap } from '@marianmeres/icons-fns/heroicons/mini/iconHeroMiniAcademicCap.js';
 
 const svg = iconHeroMiniAcademicCap({
 	class: 'inline-block',
