@@ -187,6 +187,7 @@ async function build() {
 
 	// fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
 	fs.writeFileSync(path.join(DIST_DIR, 'index.d.ts'), indexDts);
+	fs.writeFileSync(path.join(DIST_DIR, 'index.js'), '//\n');
 
 	// "./feature/*.js": "./feature/*.js",
 	log(white(bold('Make sure your package.json contains the following:\n')));
