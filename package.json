@@ -8,7 +8,7 @@
 	],
 	"types": "./dist/index.d.ts",
 	"exports": {
-		".": "./dist/index.js",
+		".": null,
 		"./bootstrap/*.js": "./dist/bootstrap/*.js",
 		"./heroicons/micro/*.js": "./dist/heroicons/micro/*.js",
 		"./heroicons/mini/*.js": "./dist/heroicons/mini/*.js",

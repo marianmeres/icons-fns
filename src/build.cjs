@@ -110,7 +110,7 @@ async function build() {
 		fs.readFileSync('./_tpl.js', 'utf8').replace('// prettier-ignore', '').trim() + '\n';
 	const fnTplDTs = fs.readFileSync('./_tpl.d.ts', 'utf8');
 
-	const packageJsonTip = {};
+	const packageJsonTip = { '.': null };
 
 	config.forEach(({ indir, outdir, fnPrefix, transformName, allowStrokeWidth, size }) => {
 		totalist(indir, (name, abs, stats) => {
