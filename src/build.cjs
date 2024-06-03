@@ -110,7 +110,7 @@ async function build() {
 		fs.readFileSync('./_tpl.js', 'utf8').replace('// prettier-ignore', '').trim() + '\n';
 	const fnTplDTs = fs.readFileSync('./_tpl.d.ts', 'utf8');
 
-	const packageJsonTip = {};
+	const packageJsonTip = { '.': null };
 
 	config.forEach(({ indir, outdir, fnPrefix, transformName, allowStrokeWidth, size }) => {
 		totalist(indir, (name, abs, stats) => {
@@ -174,13 +174,27 @@ async function build() {
 			}
 		});
 
+		// packageJsonTip.push(`${path.join(DIST_DIR, outdir, '*.js')}`);
+		const _tip = `${path.join(DIST_DIR, outdir, '*.js')}`;
+		packageJsonTip[`./${path.join(outdir, '*.js')}`] = `./${path.join(
+			DIST_DIR,
+			outdir,
+			'*.js'
+		)}`;
+
 		log(gray(`Done -> ${path.join(DIST_DIR, outdir)}\n`));
 	});
 
-	fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
+	// fs.writeFileSync(path.join(DIST_DIR, 'index.js'), indexDts);
 	fs.writeFileSync(path.join(DIST_DIR, 'index.d.ts'), indexDts);
+	// fs.writeFileSync(path.join(DIST_DIR, 'index.js'), '//\n');
 
-	log(gray(`Done all\n`));
+	// "./feature/*.js": "./feature/*.js",
+	log(white(bold('Make sure your package.json contains the following:\n')));
+	const lines = JSON.stringify({ exports: packageJsonTip }, null, 2).split('\n');
+	log(green(lines.slice(1, lines.length - 1).join('\n')));
+
+	log(gray(`\n\nDone all\n`));
 }
 
 function onError(e) {
