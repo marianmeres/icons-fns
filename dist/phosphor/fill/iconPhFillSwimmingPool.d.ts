@@ -1,0 +1,8 @@
+export declare const iconPhFillSwimmingPool: (
+	props?: Partial<{
+		size: number;
+		class: string;
+		style: string;
+		strokeWidth: number;
+	}>
+) => string;

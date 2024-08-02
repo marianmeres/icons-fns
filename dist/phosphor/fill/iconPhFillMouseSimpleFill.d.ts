@@ -1,8 +1,0 @@
-export declare const iconPhFillMouseSimpleFill: (
-	props?: Partial<{
-		size: number;
-		class: string;
-		style: string;
-		strokeWidth: number;
-	}>
-) => string;

@@ -104,36 +104,42 @@ async function build() {
 			outdir: './phosphor/bold',
 			fnPrefix: 'iconPhBold',
 			size: 16,
+			transformName: (v) => v.replace(/-bold\.svg$/, '.svg'),
 		},
 		{
 			indir: './node_modules/@phosphor-icons/core/assets/duotone',
 			outdir: './phosphor/duotone',
 			fnPrefix: 'iconPhDuotone',
 			size: 16,
+			transformName: (v) => v.replace(/-duotone\.svg$/, '.svg'),
 		},
 		{
 			indir: './node_modules/@phosphor-icons/core/assets/fill',
 			outdir: './phosphor/fill',
 			fnPrefix: 'iconPhFill',
 			size: 16,
+			transformName: (v) => v.replace(/-fill\.svg$/, '.svg'),
 		},
 		{
 			indir: './node_modules/@phosphor-icons/core/assets/light',
 			outdir: './phosphor/light',
 			fnPrefix: 'iconPhLight',
 			size: 16,
+			transformName: (v) => v.replace(/-light\.svg$/, '.svg'),
 		},
 		{
 			indir: './node_modules/@phosphor-icons/core/assets/regular',
 			outdir: './phosphor/regular',
 			fnPrefix: 'iconPhRegular',
 			size: 16,
+			transformName: (v) => v.replace(/-regular\.svg$/, '.svg'),
 		},
 		{
 			indir: './node_modules/@phosphor-icons/core/assets/thin',
 			outdir: './phosphor/thin',
 			fnPrefix: 'iconPhThin',
 			size: 16,
+			transformName: (v) => v.replace(/-thin\.svg$/, '.svg'),
 		},
 	];
 
