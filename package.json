@@ -19,7 +19,13 @@
 		"./boxicons/regular/*.js": "./dist/boxicons/regular/*.js",
 		"./boxicons/solid/*.js": "./dist/boxicons/solid/*.js",
 		"./font-awesome/regular/*.js": "./dist/font-awesome/regular/*.js",
-		"./font-awesome/solid/*.js": "./dist/font-awesome/solid/*.js"
+		"./font-awesome/solid/*.js": "./dist/font-awesome/solid/*.js",
+		"./phosphor/bold/*.js": "./dist/phosphor/bold/*.js",
+		"./phosphor/duotone/*.js": "./dist/phosphor/duotone/*.js",
+		"./phosphor/fill/*.js": "./dist/phosphor/fill/*.js",
+		"./phosphor/light/*.js": "./dist/phosphor/light/*.js",
+		"./phosphor/regular/*.js": "./dist/phosphor/regular/*.js",
+		"./phosphor/thin/*.js": "./dist/phosphor/thin/*.js"
 	},
 	"scripts": {
 		"clean": "rimraf dist/*",
@@ -47,6 +53,7 @@
 	"homepage": "https://github.com/marianmeres/icons-fns#readme",
 	"devDependencies": {
 		"@marianmeres/release": "^1.0.0",
+		"@phosphor-icons/core": "^2.1.1",
 		"@types/node": "^18.15.11",
 		"bootstrap-icons": "^1.11.2",
 		"boxicons": "^2.1.4",

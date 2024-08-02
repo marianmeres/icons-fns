@@ -1,0 +1,8 @@
+export declare const iconPhLightShieldCheckLight: (
+	props?: Partial<{
+		size: number;
+		class: string;
+		style: string;
+		strokeWidth: number;
+	}>
+) => string;

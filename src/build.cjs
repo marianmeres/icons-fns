@@ -88,16 +88,52 @@ async function build() {
 			transformName: (v) => v.replace(/^bxs-/, ''),
 		},
 		{
-			indir: './src/font-awesome/6.5.2/regular',
+			indir: './src/font-awesome/6.6.0/regular',
 			outdir: './font-awesome/regular',
 			fnPrefix: 'iconFaRegular',
 			size: 24,
 		},
 		{
-			indir: './src/font-awesome/6.5.2/solid',
+			indir: './src/font-awesome/6.6.0/solid',
 			outdir: './font-awesome/solid',
 			fnPrefix: 'iconFaSolid',
 			size: 24,
+		},
+		{
+			indir: './node_modules/@phosphor-icons/core/assets/bold',
+			outdir: './phosphor/bold',
+			fnPrefix: 'iconPhBold',
+			size: 16,
+		},
+		{
+			indir: './node_modules/@phosphor-icons/core/assets/duotone',
+			outdir: './phosphor/duotone',
+			fnPrefix: 'iconPhDuotone',
+			size: 16,
+		},
+		{
+			indir: './node_modules/@phosphor-icons/core/assets/fill',
+			outdir: './phosphor/fill',
+			fnPrefix: 'iconPhFill',
+			size: 16,
+		},
+		{
+			indir: './node_modules/@phosphor-icons/core/assets/light',
+			outdir: './phosphor/light',
+			fnPrefix: 'iconPhLight',
+			size: 16,
+		},
+		{
+			indir: './node_modules/@phosphor-icons/core/assets/regular',
+			outdir: './phosphor/regular',
+			fnPrefix: 'iconPhRegular',
+			size: 16,
+		},
+		{
+			indir: './node_modules/@phosphor-icons/core/assets/thin',
+			outdir: './phosphor/thin',
+			fnPrefix: 'iconPhThin',
+			size: 16,
 		},
 	];
 

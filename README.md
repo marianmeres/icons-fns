@@ -11,6 +11,7 @@ All credit (and copyright) belongs to these icon providers:
 - [Feather icons](https://feathericons.com/)
 - [Font Awesome Icons (Free)](https://fontawesome.com/icons)
 - [Heroicons](https://heroicons.com/)
+- [Phosphoricons](https://phosphoricons.com/)
 
 Thanks for the amazing work.
 
@@ -30,8 +31,9 @@ Each icon function is prefixed with the vendor name (and icon type where applica
 - Feather: `iconFeather`
 - Font Awesome Icons (Free): `iconFaRegular`, `iconFaSolid`
 - Heroicons: `iconHeroMini`, `iconHeroOutline`, `iconHeroSolid`
+- Phosphoricons: `iconPhBold`, `iconPhDuotone`, `iconPhFill`, `iconPhLight`, `iconPhRegular`, `iconPhThin`
 
-Signature for all functions is:
+Signature for all icon functions is:
 
 ```typescript
 iconPrefixIconName(props?: Partial<{
