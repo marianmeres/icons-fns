@@ -42,7 +42,7 @@ iconPrefixIconName(props?: Partial<{
     size: number;
     class: string;
     style: string;
-    // stroke-width is supported only for "Feather" and "Bytesize"
+    // stroke-width is supported only for "Feather", "Bytesize" and "Lucide"
     strokeWidth: number;
 }>): string;
 
