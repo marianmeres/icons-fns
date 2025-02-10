@@ -1,0 +1,8 @@
+export declare const iconLucideTrainFront: (
+	props?: Partial<{
+		size: number;
+		class: string;
+		style: string;
+		strokeWidth: number;
+	}>
+) => string;

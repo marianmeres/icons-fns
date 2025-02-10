@@ -25,7 +25,8 @@
 		"./phosphor/fill/*.js": "./dist/phosphor/fill/*.js",
 		"./phosphor/light/*.js": "./dist/phosphor/light/*.js",
 		"./phosphor/regular/*.js": "./dist/phosphor/regular/*.js",
-		"./phosphor/thin/*.js": "./dist/phosphor/thin/*.js"
+		"./phosphor/thin/*.js": "./dist/phosphor/thin/*.js",
+		"./lucide/*.js": "./dist/lucide/*.js"
 	},
 	"scripts": {
 		"clean": "rimraf dist/*",
@@ -66,5 +67,8 @@
 		"prettier": "^2.8.7",
 		"rimraf": "^4.4.1",
 		"totalist": "^3.0.0"
+	},
+	"dependencies": {
+		"lucide-static": "^0.473.0"
 	}
 }

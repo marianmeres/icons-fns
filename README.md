@@ -12,6 +12,7 @@ All credit (and copyright) belongs to these icon providers:
 - [Font Awesome Icons (Free)](https://fontawesome.com/icons)
 - [Heroicons](https://heroicons.com/)
 - [Phosphoricons](https://phosphoricons.com/)
+- [Lucide icons](https://lucide.dev/)
 
 Thanks for the amazing work.
 
@@ -32,6 +33,7 @@ Each icon function is prefixed with the vendor name (and icon type where applica
 - Font Awesome Icons (Free): `iconFaRegular`, `iconFaSolid`
 - Heroicons: `iconHeroMini`, `iconHeroOutline`, `iconHeroSolid`
 - Phosphoricons: `iconPhBold`, `iconPhDuotone`, `iconPhFill`, `iconPhLight`, `iconPhRegular`, `iconPhThin`
+- Lucide: `iconLucide`
 
 Signature for all icon functions is:
 

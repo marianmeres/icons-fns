@@ -141,6 +141,13 @@ async function build() {
 			size: 16,
 			transformName: (v) => v.replace(/-thin\.svg$/, '.svg'),
 		},
+		{
+			indir: './node_modules/lucide-static/icons',
+			outdir: './lucide',
+			fnPrefix: 'iconLucide',
+			size: 16,
+			allowStrokeWidth: true,
+		},
 	];
 
 	rimraf.sync(DIST_DIR);
@@ -190,6 +197,7 @@ async function build() {
 
 				// quick-n-dirty hacking
 				svg = svg
+					.replaceAll(/\s/g, ' ')
 					.replace(' xmlns="http://www.w3.org/2000/svg"', '')
 					.replace(/ class="[^"]+"/, '')
 					.replace(/ width="[^"]+"/, '')
@@ -200,6 +208,7 @@ async function build() {
 						'<svg ' + buildReplace({ size, allowStrokeWidth, strokeWidth })
 					)
 					.replace(/>\s+</g, '><')
+					.replaceAll(/\s\s+/g, ' ')
 					.trim();
 
 				if (typeof transformName === 'function') name = transformName(name);
