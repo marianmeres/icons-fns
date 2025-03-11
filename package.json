@@ -66,9 +66,8 @@
 		"mkdirp": "^2.1.6",
 		"prettier": "^2.8.7",
 		"rimraf": "^4.4.1",
-		"totalist": "^3.0.0"
-	},
-	"dependencies": {
+		"totalist": "^3.0.0",
 		"lucide-static": "^0.473.0"
-	}
+	},
+	"dependencies": {}
 }
