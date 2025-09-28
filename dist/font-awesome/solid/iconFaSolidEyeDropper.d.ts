@@ -1,4 +1,4 @@
-export declare const iconFaSolidEyeDropper: (
+export declare const iconFaSolidEyedropper: (
 	props?: Partial<{
 		size: number;
 		class: string;

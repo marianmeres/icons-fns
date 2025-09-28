@@ -1,0 +1,6 @@
+export const iconFaBrandAutoprefixer = (props = {}) => {
+    props ??= {};
+    const { size, class: cls, style, strokeWidth } = props;
+    let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
+    return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 24}" height="${size || 24}" ${attrs ? `${attrs} ` : ""}viewBox="0 0 640 512"><!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="currentColor" d="M318.4 16l-161 480 77.5 0 25.4-81.4 119.5 0 25.2 81.4 77.5 0-164.1-480zM278.1 357.9l41.2-130.4 1.5 0 40.9 130.4-83.6 0zM640 405L630 373.6 462.1 358 481.5 414.5 640 405zM177.9 358L10 373.7 0 405 158.5 414.4 177.9 358z"/></svg>`;
+}

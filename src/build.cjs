@@ -88,15 +88,21 @@ async function build() {
 			transformName: (v) => v.replace(/^bxs-/, ''),
 		},
 		{
-			indir: './src/font-awesome/6.6.0/regular',
+			indir: './src/font-awesome/7.0.1/regular',
 			outdir: './font-awesome/regular',
 			fnPrefix: 'iconFaRegular',
 			size: 24,
 		},
 		{
-			indir: './src/font-awesome/6.6.0/solid',
+			indir: './src/font-awesome/7.0.1/solid',
 			outdir: './font-awesome/solid',
 			fnPrefix: 'iconFaSolid',
+			size: 24,
+		},
+		{
+			indir: './src/font-awesome/7.0.1/brands',
+			outdir: './font-awesome/brands',
+			fnPrefix: 'iconFaBrand',
 			size: 24,
 		},
 		{

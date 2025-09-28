@@ -1,0 +1,6 @@
+export const iconFaBrandGitter = (props = {}) => {
+    props ??= {};
+    const { size, class: cls, style, strokeWidth } = props;
+    let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
+    return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 24}" height="${size || 24}" ${attrs ? `${attrs} ` : ""}viewBox="0 0 384 512"><!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="currentColor" d="M66.4 322.5l-50.4 0 0-322.5 50.4 0 0 322.5zM166.9 76.1l-50.4 0 0 435.9 50.4 0 0-435.9zm100.6 0l-50.4 0 0 435.9 50.4 0 0-435.9zM368 76l-50.4 0 0 247 50.4 0 0-247z"/></svg>`;
+}

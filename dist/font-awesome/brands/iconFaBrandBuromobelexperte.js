@@ -1,0 +1,6 @@
+export const iconFaBrandBuromobelexperte = (props = {}) => {
+    props ??= {};
+    const { size, class: cls, style, strokeWidth } = props;
+    let attrs = Object.entries(props).filter(([k, v]) => !/^class|size|style|strokeWidth$/.test(k)).reduce((m, [k, v]) => ([...m, `${k}="${v}"`]), []).join(' ');
+    return `<svg ${style ? `style="${style}" ` : ""}${cls ? `class="${cls}" ` : ""}width="${size || 24}" height="${size || 24}" ${attrs ? `${attrs} ` : ""}viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc. --><path fill="currentColor" d="M0 32l0 128 128 0 0-128-128 0zM120 152l-112 0 0-112 112 0 0 112zM160 32l0 128 128 0 0-128-128 0zM280 152l-112 0 0-112 112 0 0 112zM320 32l0 128 128 0 0-128-128 0zM440 152l-112 0 0-112 112 0 0 112zM0 192l0 128 128 0 0-128-128 0zM120 312l-112 0 0-112 112 0 0 112zm40-120l0 128 128 0 0-128-128 0zM280 312l-112 0 0-112 112 0 0 112zm40-120l0 128 128 0 0-128-128 0zM440 312l-112 0 0-112 112 0 0 112zM0 352l0 128 128 0 0-128-128 0zM120 472l-112 0 0-112 112 0 0 112zm40-120l0 128 128 0 0-128-128 0zM280 472l-112 0 0-112 112 0 0 112zm40-120l0 128 128 0 0-128-128 0z"/></svg>`;
+}
