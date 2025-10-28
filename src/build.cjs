@@ -208,6 +208,7 @@ async function build() {
 					.replace(/ class="[^"]+"/, '')
 					.replace(/ width="[^"]+"/, '')
 					.replace(/ height="[^"]+"/, '')
+					// this is tricky... currently works on all, but may break future svgs which use masks...
 					.replace(/ id="[^"]+"/, '')
 					.replace(
 						'<svg ',
