@@ -1,7 +1,5 @@
 const fs = require('node:fs');
 const path = require('node:path');
-const mkdirp = require('mkdirp');
-const rimraf = require('rimraf');
 const { yellow, red, cyan, gray, magenta, green, white, bold } = require('kleur/colors');
 const { totalist } = require('totalist/sync');
 const args = require('minimist')(process.argv.slice(2));
@@ -88,19 +86,19 @@ async function build() {
 			transformName: (v) => v.replace(/^bxs-/, ''),
 		},
 		{
-			indir: './src/font-awesome/7.0.1/regular',
+			indir: './src/font-awesome/7.1.0/regular',
 			outdir: './font-awesome/regular',
 			fnPrefix: 'iconFaRegular',
 			size: 24,
 		},
 		{
-			indir: './src/font-awesome/7.0.1/solid',
+			indir: './src/font-awesome/7.1.0/solid',
 			outdir: './font-awesome/solid',
 			fnPrefix: 'iconFaSolid',
 			size: 24,
 		},
 		{
-			indir: './src/font-awesome/7.0.1/brands',
+			indir: './src/font-awesome/7.1.0/brands',
 			outdir: './font-awesome/brands',
 			fnPrefix: 'iconFaBrand',
 			size: 24,
@@ -156,8 +154,8 @@ async function build() {
 		},
 	];
 
-	rimraf.sync(DIST_DIR);
-	mkdirp.sync(DIST_DIR);
+	fs.rmSync(DIST_DIR, { recursive: true, force: true });
+	fs.mkdirSync(DIST_DIR, { recursive: true });
 
 	let indexDts = '';
 
@@ -169,24 +167,25 @@ async function build() {
 
 	config.forEach(({ indir, outdir, fnPrefix, transformName, allowStrokeWidth, size }) => {
 		totalist(indir, (name, abs, stats) => {
-			if (/\.svg/i.test(name)) {
-				mkdirp.sync(path.join(DIST_DIR, outdir));
+			if (/\.svg$/i.test(name)) {
+				fs.mkdirSync(path.join(DIST_DIR, outdir), { recursive: true });
 
 				let svg = fs.readFileSync(abs, 'utf8').replace(/[\n\r]/g, ' ');
 
-				// detect size from viewBox unless not forced via config
+				// detect size from viewBox unless forced via config
+				let effectiveSize = size;
 				const m = /viewBox=['"](?<viewBox>[^"']+)['"]/.exec(svg);
-				if (!size && m?.groups?.viewBox) {
+				if (!effectiveSize && m?.groups?.viewBox) {
 					const [_1, _2, w, h] = m.groups.viewBox.split(' ');
-					size = Math.max(w, h);
+					effectiveSize = Math.max(w, h);
 				}
 
-				const buildReplace = ({ size, allowStrokeWidth, strokeWidth }) => {
+				const buildReplace = ({ size: sz, allowStrokeWidth, strokeWidth }) => {
 					return [
 						'${style ? `style="${style}" ` : ""}',
 						'${cls ? `class="${cls}" ` : ""}',
-						'width="${size || ' + size + '}" ',
-						'height="${size || ' + size + '}" ',
+						'width="${size || ' + sz + '}" ',
+						'height="${size || ' + sz + '}" ',
 						allowStrokeWidth
 							? 'stroke-width="${strokeWidth ?? ' + strokeWidth + '}" '
 							: '',
@@ -212,7 +211,7 @@ async function build() {
 					.replace(/ id="[^"]+"/, '')
 					.replace(
 						'<svg ',
-						'<svg ' + buildReplace({ size, allowStrokeWidth, strokeWidth })
+						'<svg ' + buildReplace({ size: effectiveSize, allowStrokeWidth, strokeWidth })
 					)
 					.replace(/>\s+</g, '><')
 					.replaceAll(/\s\s+/g, ' ')
