@@ -1,0 +1,1 @@
+Icon SVG sources (Bootstrap, Heroicons, Feather, Lucide, Phosphor, Boxicons, Bytesize, Font Awesome) wrapped as plain JS functions. Each icon is an individually importable module returning an SVG string.
