@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Font Awesome solid `Circle` icon. */
+export const iconFaSolidCircle: IconFn = /* @__PURE__ */ icon(24, null, ``, `viewBox="0 0 512 512"><!--! Font Awesome Free 7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc. --><path fill="currentColor" d="M0 256a256 256 0 1 1 512 0 256 256 0 1 1 -512 0z" /></svg>`);

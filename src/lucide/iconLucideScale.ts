@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Lucide `Scale` icon. */
+export const iconLucideScale: IconFn = /* @__PURE__ */ icon(16, 2, `<!-- @license lucide-static v1.33.0 - ISC -->`, ` viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" ><path d="M12 3v18" /><path d="m19 8 3 8a5 5 0 0 1-6 0zV7" /><path d="M3 7h1a17 17 0 0 0 8-2 17 17 0 0 0 8 2h1" /><path d="m5 8 3 8a5 5 0 0 1-6 0zV7" /><path d="M7 21h10" /></svg>`);

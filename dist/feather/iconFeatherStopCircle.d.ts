@@ -1,8 +1,0 @@
-export declare const iconFeatherStopCircle: (
-	props?: Partial<{
-		size: number;
-		class: string;
-		style: string;
-		strokeWidth: number;
-	}>
-) => string;

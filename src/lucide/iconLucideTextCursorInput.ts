@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Lucide `TextCursorInput` icon. */
+export const iconLucideTextCursorInput: IconFn = /* @__PURE__ */ icon(16, 2, `<!-- @license lucide-static v1.33.0 - ISC -->`, ` viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" ><path d="M12 20h-1a2 2 0 0 1-2-2 2 2 0 0 1-2 2H6" /><path d="M13 8h7a2 2 0 0 1 2 2v4a2 2 0 0 1-2 2h-7" /><path d="M5 16H4a2 2 0 0 1-2-2v-4a2 2 0 0 1 2-2h1" /><path d="M6 4h1a2 2 0 0 1 2 2 2 2 0 0 1 2-2h1" /><path d="M9 6v12" /></svg>`);

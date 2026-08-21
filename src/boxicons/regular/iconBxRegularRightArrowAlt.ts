@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Boxicons regular `RightArrowAlt` icon. */
+export const iconBxRegularRightArrowAlt: IconFn = /* @__PURE__ */ icon(24, null, ``, `viewBox="0 0 24 24"><path d="m11.293 17.293 1.414 1.414L19.414 12l-6.707-6.707-1.414 1.414L15.586 11H6v2h9.586z"/></svg>`);

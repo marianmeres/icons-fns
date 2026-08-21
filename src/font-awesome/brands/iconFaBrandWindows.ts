@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Font Awesome brands `Windows` icon. */
+export const iconFaBrandWindows: IconFn = /* @__PURE__ */ icon(24, null, ``, `viewBox="0 0 448 512"><!--! Font Awesome Free 7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc. --><path fill="currentColor" d="M0 93.7l183.6-25.3 0 177.4-183.6 0 0-152.1zM0 418.3l183.6 25.3 0-175.2-183.6 0 0 149.9zm203.8 28l244.2 33.7 0-211.6-244.2 0 0 177.9zm0-380.6l0 180.1 244.2 0 0-213.8-244.2 33.7z" /></svg>`);

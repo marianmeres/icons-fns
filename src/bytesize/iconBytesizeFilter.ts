@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Bytesize `Filter` icon. */
+export const iconBytesizeFilter: IconFn = /* @__PURE__ */ icon(32, 2, ``, `viewBox="0 0 32 32" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round"><path d="M2 5 C2 5 6 3 16 3 26 3 30 5 30 5 L19 18 19 27 13 30 13 18 2 5Z" /></svg>`);

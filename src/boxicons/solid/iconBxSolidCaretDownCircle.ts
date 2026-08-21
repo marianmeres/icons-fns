@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Boxicons solid `CaretDownCircle` icon. */
+export const iconBxSolidCaretDownCircle: IconFn = /* @__PURE__ */ icon(24, null, ``, `viewBox="0 0 24 24"><path d="M12 2C6.486 2 2 6.486 2 12s4.486 10 10 10c5.515 0 10-4.486 10-10S17.515 2 12 2zm0 14-5-6h10l-5 6z"/></svg>`);

@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Heroicons micro `Italic` icon. */
+export const iconHeroMicroItalic: IconFn = /* @__PURE__ */ icon(16, null, ``, `viewBox="0 0 16 16" fill="currentColor" aria-hidden="true" data-slot="icon"><path fill-rule="evenodd" d="M6.25 2.75A.75.75 0 0 1 7 2h6a.75.75 0 0 1 0 1.5h-2.483l-3.429 9H9A.75.75 0 0 1 9 14H3a.75.75 0 0 1 0-1.5h2.483l3.429-9H7a.75.75 0 0 1-.75-.75Z" clip-rule="evenodd"/></svg>`);

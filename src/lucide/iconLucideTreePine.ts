@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Lucide `TreePine` icon. */
+export const iconLucideTreePine: IconFn = /* @__PURE__ */ icon(16, 2, `<!-- @license lucide-static v1.33.0 - ISC -->`, ` viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" ><path d="m17 14 3 3.3a1 1 0 0 1-.7 1.7H4.7a1 1 0 0 1-.7-1.7L7 14h-.3a1 1 0 0 1-.7-1.7L9 9h-.2A1 1 0 0 1 8 7.3L12 3l4 4.3a1 1 0 0 1-.8 1.7H15l3 3.3a1 1 0 0 1-.7 1.7H17Z" /><path d="M12 22v-3" /></svg>`);

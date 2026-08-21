@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Phosphor thin `Equals` icon. */
+export const iconPhThinEquals: IconFn = /* @__PURE__ */ icon(16, null, ``, `viewBox="0 0 256 256" fill="currentColor"><path d="M220,160a4,4,0,0,1-4,4H40a4,4,0,0,1,0-8H216A4,4,0,0,1,220,160ZM40,100H216a4,4,0,0,0,0-8H40a4,4,0,0,0,0,8Z"/></svg>`);

@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Bootstrap `AlignStart` icon. */
+export const iconBsAlignStart: IconFn = /* @__PURE__ */ icon(16, null, ``, `fill="currentColor" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 1 .5.5v13a.5.5 0 0 1-1 0v-13a.5.5 0 0 1 .5-.5"/><path d="M3 7a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v2a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1z"/></svg>`);

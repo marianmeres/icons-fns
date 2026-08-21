@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Lucide `ZodiacCancer` icon. */
+export const iconLucideZodiacCancer: IconFn = /* @__PURE__ */ icon(16, 2, `<!-- @license lucide-static v1.33.0 - ISC -->`, ` viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" ><path d="M21 14.5A9 6.5 0 0 1 5.5 19" /><path d="M3 9.5A9 6.5 0 0 1 18.5 5" /><circle cx="17.5" cy="14.5" r="3.5" /><circle cx="6.5" cy="9.5" r="3.5" /></svg>`);

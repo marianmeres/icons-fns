@@ -1,3 +1,4 @@
-Icon SVG sources (Bootstrap, Heroicons, Feather, Lucide, Phosphor, Boxicons, Bytesize, 
-Font Awesome) wrapped as plain JS functions. Each icon is an individually importable 
-module returning an SVG string.
+Icon SVGs from eight providers (Bootstrap, Boxicons, Bytesize, Feather, Font
+Awesome, Heroicons, Lucide, Phosphor) wrapped as ~19k individually importable
+functions returning an SVG string. Includes name search, so an agent can find
+the exact export name and import specifier for an icon before writing code.

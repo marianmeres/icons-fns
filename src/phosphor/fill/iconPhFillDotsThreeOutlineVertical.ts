@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Phosphor fill `DotsThreeOutlineVertical` icon. */
+export const iconPhFillDotsThreeOutlineVertical: IconFn = /* @__PURE__ */ icon(16, null, ``, `viewBox="0 0 256 256" fill="currentColor"><path d="M156,128a28,28,0,1,1-28-28A28,28,0,0,1,156,128ZM128,76a28,28,0,1,0-28-28A28,28,0,0,0,128,76Zm0,104a28,28,0,1,0,28,28A28,28,0,0,0,128,180Z"/></svg>`);

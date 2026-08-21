@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../../_icon.ts";
+
+/** Phosphor regular `CellSignalNone` icon. */
+export const iconPhRegularCellSignalNone: IconFn = /* @__PURE__ */ icon(16, null, ``, `viewBox="0 0 256 256" fill="currentColor"><path d="M48,192v8a8,8,0,0,1-16,0v-8a8,8,0,0,1,16,0Z"/></svg>`);

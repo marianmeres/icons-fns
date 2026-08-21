@@ -1,8 +1,0 @@
-export declare const iconPhLightLinkSimpleHorizontalBreak: (
-	props?: Partial<{
-		size: number;
-		class: string;
-		style: string;
-		strokeWidth: number;
-	}>
-) => string;

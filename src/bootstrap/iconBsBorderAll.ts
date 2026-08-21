@@ -1,0 +1,4 @@
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Bootstrap `BorderAll` icon. */
+export const iconBsBorderAll: IconFn = /* @__PURE__ */ icon(16, null, ``, `fill="currentColor" viewBox="0 0 16 16"><path d="M0 0h16v16H0zm1 1v6.5h6.5V1zm7.5 0v6.5H15V1zM15 8.5H8.5V15H15zM7.5 15V8.5H1V15z"/></svg>`);

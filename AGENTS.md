@@ -1,0 +1,497 @@
+# @marianmeres/icons-fns — Agent Guide
+
+## Package Identity
+
+- **Name:** `@marianmeres/icons-fns`
+- **Version:** see `deno.json` (`5.0.1` at time of writing; **6.0.0** is the pending
+  major — see [v6 vs v5](#v6-vs-v5))
+- **License:** MIT
+- **Repository:** https://github.com/marianmeres/icons-fns
+- **NPM:** https://www.npmjs.com/package/@marianmeres/icons-fns
+- **JSR:** https://jsr.io/@marianmeres/icons-fns
+- **Runtime:** Deno (source of truth), published to **both** JSR and npm
+
+### Documentation index
+
+| Doc                      | Audience                                            |
+| ------------------------ | --------------------------------------------------- |
+| [README.md](./README.md) | Humans: install, usage, families, upgrading from v5 |
+| [API.md](./API.md)       | Humans: full API reference                          |
+| `AGENTS.md` (this file)  | Agents: structure, generator, invariants, workflow  |
+| [CLAUDE.md](./CLAUDE.md) | Redirects here                                      |
+
+## Purpose
+
+Icon SVGs from 8 providers wrapped as **19,199 individually importable functions**
+across **19 family directories**. Each function takes an optional props object and
+returns an SVG string. Zero DOM, zero I/O, no runtime dependencies in the
+published exports.
+
+## The One Rule
+
+**Almost everything under `src/` is generated. Never hand-edit it.**
+
+| Path                             | Status       |
+| -------------------------------- | ------------ |
+| `src/_icon.ts`                   | **AUTHORED** |
+| `src/mod.ts`                     | **AUTHORED** |
+| `src/search.ts`                  | **AUTHORED** |
+| `src/_manifest.ts`               | generated    |
+| `src/<family>/**/*.ts` (~19k)    | generated    |
+| `deno.json` → `exports` (19,201) | generated    |
+
+To change icon markup, module shape, naming, or the exports map: **edit
+`scripts/build.ts` and run `deno task build`.** An edit to a generated file is
+erased on the next build, and the generator `emptyDir()`s every family directory
+before writing, so hand-added files vanish silently.
+
+## File Structure
+
+```
+deno.json                # `exports` map is GENERATED; everything else authored
+mcp.ts                   # MCP tool definitions (search/render/list), publish-excluded
+mcp-include.txt          # MCP registry blurb
+README.md / API.md       # human docs
+scripts/
+├── build.ts             # THE generator: src/<family>/**, src/_manifest.ts, deno.json exports
+└── build-npm.ts         # packages .npm-dist/ via @marianmeres/npmbuild
+src/
+├── _icon.ts             # AUTHORED shared renderer + IconProps / IconFn
+├── mod.ts               # AUTHORED root export "."
+├── search.ts            # AUTHORED "./search" export
+├── _manifest.ts         # GENERATED compact index consumed by search.ts
+├── bootstrap/           # GENERATED — one .ts per icon, filename === export name
+├── boxicons/{regular,solid}/
+├── bytesize/
+├── feather/
+├── font-awesome/{regular,solid,brands}/
+├── heroicons/{micro,mini,outline,solid}/
+├── lucide/
+└── phosphor/{bold,duotone,fill,light,regular,thin}/
+tests/
+├── icon.test.ts         # renderer contract
+├── legacy-parity.test.ts# 60 fixtures × 10 cases = 600 golden v5 assertions
+├── generated.test.ts    # invariants over all ~19k modules + JSR size guard
+├── search.test.ts       # search API
+└── fixtures/v5-render.json
+vendor/font-awesome/7.3.1/{regular,solid,brands}/   # vendored SVGs, publish-excluded
+node_modules/            # populated by `deno install`; the generator READS SVGs from here
+.npm-dist/               # gitignored npm build output
+```
+
+## Public API
+
+The public surface is deliberately tiny; everything else is an icon function.
+
+### Root export `.` (`src/mod.ts` → `src/_icon.ts`)
+
+```typescript
+interface IconProps extends Record<string, unknown> {
+	size: number; // width + height; falsy => icon's natural size
+	class: string; // omitted entirely when falsy
+	style: string; // omitted entirely when falsy
+	strokeWidth: number; // only honored by stroke families
+}
+type IconFn = (props?: Partial<IconProps> | null) => string;
+function icon(
+	size: number,
+	strokeWidth: number | null,
+	head: string,
+	rest: string,
+): IconFn;
+```
+
+`icon()` is the factory every generated module calls. Only the four reserved keys
+are consumed; **any other prop is emitted verbatim as an attribute**
+(`{ "aria-hidden": "true" }` → `aria-hidden="true"`).
+
+Attribute order is fixed and load-bearing (golden-tested):
+`head` `<svg` `style` `class` `width` `height` `stroke-width` `…passthrough` `rest`.
+
+### `./search` export (`src/search.ts`)
+
+```typescript
+interface IconInfo {
+	name: string;
+	family: string;
+	path: string;
+}
+interface IconFamilyInfo {
+	family: string;
+	prefix: string;
+	count: number;
+}
+interface SearchIconsOptions {
+	family?: string;
+	limit?: number;
+} // limit 0 = unlimited, default 50
+
+function searchIcons(query: string, options?: SearchIconsOptions): IconInfo[];
+function listIcons(family?: string): IconInfo[];
+function findIcon(name: string): IconInfo | undefined; // exact, case-sensitive
+function listFamilies(): string[];
+function listFamilyInfo(): IconFamilyInfo[];
+```
+
+Separate entry point on purpose: it pulls in `_manifest.ts` (~213 KB), which no
+icon module needs. The index is parsed lazily on first call and memoized.
+
+`searchIcons` requires **every** whitespace-separated term to appear in the name
+(case-insensitive), then ranks: name _ends with_ the joined query → name contains
+it → the rest. Each group sorts by raw (case-sensitive) name, so
+`searchIcons("arrow up", { family: "lucide" })` returns `iconLucideAArrowUp`
+before `iconLucideArrowUp`.
+
+### Icon subpaths
+
+```typescript
+// JSR (and npm)
+import { iconLucideArrowUp } from "@marianmeres/icons-fns/lucide/iconLucideArrowUp";
+// npm also accepts the legacy form every previous release used
+import { iconLucideArrowUp } from "@marianmeres/icons-fns/lucide/iconLucideArrowUp.js";
+```
+
+## Icon Families
+
+19 directories, 8 providers. Prefix + directory are both set in `FAMILIES` in
+`scripts/build.ts`; the directory is also the import subpath.
+
+| Family dir                                        | Prefix            |   Count | Natural size             | stroke-width | Source                                       |
+| ------------------------------------------------- | ----------------- | ------: | ------------------------ | ------------ | -------------------------------------------- |
+| `bootstrap`                                       | `iconBs`          |    2078 | viewBox (16)             | –            | `node_modules/bootstrap-icons/icons`         |
+| `heroicons/micro`                                 | `iconHeroMicro`   |     316 | viewBox (16)             | –            | `node_modules/heroicons/16/solid`            |
+| `heroicons/mini`                                  | `iconHeroMini`    |     324 | viewBox (20)             | –            | `node_modules/heroicons/20/solid`            |
+| `heroicons/outline`                               | `iconHeroOutline` |     324 | viewBox (24)             | –            | `node_modules/heroicons/24/outline`          |
+| `heroicons/solid`                                 | `iconHeroSolid`   |     324 | viewBox (24)             | –            | `node_modules/heroicons/24/solid`            |
+| `bytesize`                                        | `iconBytesize`    |     101 | viewBox (32; 2 icons 64) | **yes**      | `node_modules/bytesize-icons/dist/icons`     |
+| `feather`                                         | `iconFeather`     |     287 | viewBox (24)             | **yes**      | `node_modules/feather-icons/dist/icons`      |
+| `boxicons/regular`                                | `iconBxRegular`   |     814 | viewBox (24)             | –            | `node_modules/boxicons/svg/regular`          |
+| `boxicons/solid`                                  | `iconBxSolid`     |     665 | viewBox (24)             | –            | `node_modules/boxicons/svg/solid`            |
+| `font-awesome/regular`                            | `iconFaRegular`   |     273 | forced 24                | –            | `vendor/font-awesome/7.3.1/regular`          |
+| `font-awesome/solid`                              | `iconFaSolid`     |    1996 | forced 24                | –            | `vendor/font-awesome/7.3.1/solid`            |
+| `font-awesome/brands`                             | `iconFaBrand`     |     609 | forced 24                | –            | `vendor/font-awesome/7.3.1/brands`           |
+| `phosphor/{bold,duotone,fill,light,regular,thin}` | `iconPh<Variant>` | 1512 ea | forced 16                | –            | `node_modules/@phosphor-icons/core/assets/*` |
+| `lucide`                                          | `iconLucide`      |    2016 | forced 16                | **yes**      | `node_modules/lucide-static/icons`           |
+
+Only `lucide` emits `head` markup — its upstream license comment, present on all
+2016 modules. Every icon in a stroke family currently has an upstream
+`stroke-width`, so `strokeWidth` is never `null` there — but the generator
+tolerates a missing one by omitting the attribute rather than inventing a default.
+
+## The Generator (`scripts/build.ts`)
+
+`deno task build` (~8 s) → rewrites all family dirs, `src/_manifest.ts`, and the
+`exports` key of `deno.json` (the rest of `deno.json` is preserved and
+re-serialized with tabs). Deterministic and idempotent: SVG paths are sorted,
+icons are sorted by name.
+
+### Per-icon pipeline (`buildIcon`)
+
+1. Read SVG, newlines → spaces.
+2. Natural `size` = `family.size`, else `max(w, h)` from the `viewBox`. Throws if
+   undeterminable.
+3. Stroke families only: capture the upstream `stroke-width` as the default, then
+   strip the attribute from the markup.
+4. Build `marker = "<svg " + legacyDynamicAttrs(...)` (see below); note the
+   trailing space in `"<svg "`.
+5. Normalize: all whitespace → spaces; drop the literal
+   `xmlns="http://www.w3.org/2000/svg"`, the first `class`, `width`, `height`
+   and `id` attributes; replace the first `"<svg "` with `marker`; collapse
+   `>   <` → `><`; collapse whitespace runs; trim.
+6. Split the result at `marker` → `head` (everything before the `<svg` tag) and
+   `rest` (the icon's own attributes, body and `</svg>`).
+7. Filename → `transformName` → strip `.svg` → `safeId` (split on `/` and `-`,
+   ucFirst, join) → `stem`; export name = `fnPrefix + stem`.
+
+Emitted module — one import, one doc comment, one `export const`, nothing else
+(shown wrapped; the real file puts the whole `icon(...)` call on one line):
+
+```typescript
+import { icon, type IconFn } from "../_icon.ts";
+
+/** Lucide `ArrowUp` icon. */
+export const iconLucideArrowUp: IconFn = /* @__PURE__ */ icon(
+	16,
+	2,
+	`<!-- @license lucide-static v1.33.0 - ISC -->`,
+	` viewBox="0 0 24 24" …</svg>`,
+);
+```
+
+`/* @__PURE__ */` lets bundlers drop unreferenced icons. Template literals are
+escaped by `escapeTemplate` (`\`, `` ` ``, `${`).
+
+### `legacyDynamicAttrs` — do not "simplify"
+
+> ⚠️ This function reproduces, **byte for byte including whitespace**, the template
+> fragment the pre-6.0 generator spliced in after `"<svg "`. It is inserted before
+> the normalization pipeline runs and split back out immediately afterwards.
+
+Why: the pipeline collapses whitespace and rewrites attribute boundaries. Running
+it over the _same_ string the v5 generator ran it over is the only way to guarantee
+the `head`/`rest` split lands on the same byte offsets, and hence that the rendered
+markup is identical to v5's. All 14,305 icons from the six providers whose upstream
+sources did not change (15 family directories) render byte-identically;
+`tests/legacy-parity.test.ts` locks 600 of those assertions.
+
+Rewriting the fragment "more cleanly", or splitting on a plain `"<svg "` instead,
+changes real output. If you must touch it, run `deno task test` — the parity
+fixture will catch you.
+
+### Alias & case-collision resolution
+
+Upstream packages ship deprecated aliases next to canonical filenames
+(`eye-dropper.svg` / `eyedropper.svg`, `arrow-down-a-z.svg` / `arrow-down-az.svg`).
+These normalize to the same function name, or to names differing only in case —
+which a case-insensitive filesystem silently merges and which **JSR rejects
+outright**.
+
+The generator keys each family's icons **case-insensitively**:
+
+| Situation                       | Behavior                                                          |
+| ------------------------------- | ----------------------------------------------------------------- |
+| Same key, **identical** payload | Upstream alias. `preferred()` picks the winner; loser is dropped. |
+| Same key, **different** payload | Real clash — **throws**, build fails. Resolve in `FAMILIES`.      |
+
+`preferred()`: fewer `-` segments wins (the compact spelling is canonical in every
+observed case), tie broken lexicographically. Dropped aliases are printed under
+**"Upstream aliases collapsed"** at the end of the build — currently 5 in
+`font-awesome/solid` (`eye-dropper`, `paint-brush`, `t-shirt`, `thumb-tack`,
+`thumb-tack-slash`) and 18 in `lucide` (`arrow-down-a-z`, `axis-3-d`,
+`grid-2-x-2`, `move-3-d`, …). Consult that output before telling anyone an icon
+name exists.
+
+Invariant enforced by `tests/generated.test.ts`: **filename === export name**, and
+no two export keys collide case-insensitively.
+
+## JSR Size Budget
+
+JSR enforces a **hard 20 MiB per-version limit**, server-side, at publish time.
+
+- Current publish set: **~14.6 MiB (~73%)** across 19,212 files.
+- `tests/generated.test.ts` → `"published size stays inside the JSR per-version
+  budget"` walks the publish set and asserts both `< 20 MiB` **and `< 90%`**, so
+  upstream growth surfaces in CI rather than on release day.
+
+This budget is why `src/_icon.ts` exists at all: v5 inlined the whole renderer into
+every one of ~19k modules. Hoisting it is what brought the package under the limit.
+Keep generated modules to the single `icon(...)` call.
+
+**JSR forbids wildcard `exports` keys**, so every icon must be enumerated — hence
+the 19,201-entry generated map in `deno.json` (`.` + `./search` + 19,199 icons).
+npm has no such restriction; `scripts/build-npm.ts` collapses them to 38 wildcard
+entries (two per family), 40 export entries in all.
+
+## npm Packaging (`scripts/build-npm.ts`)
+
+Uses `@marianmeres/npmbuild` (a light TS→ESM builder, not dnt): copies `src/` →
+`.npm-dist/src`, rewrites `.ts` import specifiers to `.js`, generates
+`tsconfig.json` + `package.json`, runs `npx tsc` to emit `.npm-dist/dist`
+(ESM + `.d.ts`), then deletes the intermediate `src/` and `tsconfig.json`.
+
+`entryPoints: ["mod"]` only — the exports map is fully overridden. For every family
+derived from the generated `deno.json` exports (so it cannot drift), two entries are
+written pointing at the same target:
+
+```jsonc
+"./lucide/*.js": { "types": "./dist/lucide/*.d.ts", "import": "./dist/lucide/*.js" },
+"./lucide/*":    { "types": "./dist/lucide/*.d.ts", "import": "./dist/lucide/*.js" }
+```
+
+The `.js` form is what every published version so far used; the bare form matches
+the JSR specifier so one import path works on both registries. Plus `.` and
+`./search` → **40 entries**. The generated `package.json` declares
+`"dependencies": {}`.
+
+## Dependencies
+
+- **Runtime (published exports):** none. Icon modules import only `src/_icon.ts`;
+  `src/search.ts` imports only `src/_manifest.ts`.
+- **Build-time (icon sources):** `bootstrap-icons`, `boxicons`, `bytesize-icons`,
+  `feather-icons`, `heroicons`, `lucide-static`, `@phosphor-icons/core` — all npm,
+  declared in `deno.json` `imports`, pinned in `deno.lock`, read off disk from
+  `node_modules/`. Font Awesome is vendored instead.
+- **Tooling:** `@marianmeres/npmbuild`, `@std/fs`, `@std/path`, `@std/assert`,
+  `jsr:@marianmeres/release` (invoked by task specifier, not in `imports`).
+- **`mcp.ts` only:** `npm:zod`, `jsr:@marianmeres/mcp-server/types` — inline
+  specifiers. `mcp.ts` is in `publish.exclude`, so it is not published to JSR at all
+  and neither dependency appears in the package's module graph. The published package
+  is dependency-free; keep it that way.
+
+## Workflow
+
+| Task                      | Command                        | Notes                                                                            |
+| ------------------------- | ------------------------------ | -------------------------------------------------------------------------------- |
+| Install icon sources      | `deno install`                 | Populates `node_modules/`. Required before build.                                |
+| **Regenerate**            | `deno task build`              | ~8 s. After _any_ generator or icon-source change.                               |
+| Test                      | `deno task test`               | `deno test --allow-read`, 97 tests, ~2 s.                                        |
+| Test (watch)              | `deno task test:watch`         |                                                                                  |
+| Verify JSR publish        | `deno publish --dry-run`       | Add `--allow-dirty` on a dirty tree.                                             |
+| Build npm package         | `deno task npm:build`          | Runs `build` first. Needs node/npm on PATH.                                      |
+| Publish npm only          | `deno task npm:publish`        | Runs `npm:build` first.                                                          |
+| Publish both registries   | `deno task publish`            | `build` + `deno publish` + `npm:publish`.                                        |
+| Bump version              | `deno task release`            | `jsr:@marianmeres/release`; bumps, commits, tags, pushes. Requires a clean tree. |
+| Release patch/minor/major | `deno task rp` / `rpm` / `rpj` | release + publish, non-interactive (`-y`).                                       |
+
+### Before making changes
+
+- [ ] `deno install` if `node_modules/` is absent or icon-source versions changed
+- [ ] Change `scripts/build.ts`, never a generated module
+- [ ] `deno task build` — read the "Upstream aliases collapsed" report
+- [ ] `deno task test` — parity fixture and size guard must pass
+- [ ] `deno fmt` / `deno lint` (both exclude the generated dirs)
+- [ ] `deno publish --dry-run` — expect exactly one warning
+      (`unanalyzable-dynamic-import`, see [MCP](#mcp))
+
+## Common Tasks
+
+### Add a new icon family
+
+1. Add the source to `deno.json` `imports` (e.g. `"foo-icons": "npm:foo-icons@^1.0.0"`),
+   then `deno install`. For sources with no usable npm layout, vendor the SVGs under
+   `vendor/<provider>/<version>/` (`vendor` is already in `publish.exclude`).
+2. Append a `Family` entry to `FAMILIES` in `scripts/build.ts`:
+
+```typescript
+{
+	indir: "node_modules/foo-icons/svg",  // or "vendor/foo/1.0.0"
+	outdir: "foo",                        // also the import subpath
+	fnPrefix: "iconFoo",
+	size: 16,                             // omit to derive from the viewBox
+	allowStrokeWidth: true,               // stroke families only
+	transformName: (v) => v.replace(/^foo-/, ""), // optional
+	label: "Foo",                         // used in the generated doc comment
+}
+```
+
+3. Add `src/foo` to **both** `fmt.exclude` and `lint.exclude` in `deno.json`.
+4. `deno task build` — resolve any hard name clash it throws on.
+5. `deno task test` — the size guard and the manifest/exports cross-check must pass.
+6. Bump the expected family count in `tests/search.test.ts` (`assertEquals(families.length, 19)`).
+7. `deno publish --dry-run` to confirm JSR accepts the enlarged exports map.
+
+### Change how icons render
+
+1. Edit `icon()` in `src/_icon.ts` (runtime behavior) and/or the pipeline in
+   `scripts/build.ts` (baked-in markup).
+2. `deno task build`, `deno task test`.
+3. If `tests/legacy-parity.test.ts` fails, the change is **user-visible markup drift**.
+   Either revert, or treat it as a breaking change and regenerate the fixture
+   deliberately.
+
+### Upgrade an icon provider
+
+1. Bump the specifier in `deno.json` `imports`, `deno install`. Font Awesome only:
+   drop a new `vendor/font-awesome/<version>/` tree and update the three `indir`
+   paths in `FAMILIES`.
+2. `deno task build`, diff `git status` for added/removed/redrawn icons — **removed
+   icons are a breaking change** (Lucide 1.x dropped its brand logos, for example).
+3. `deno task test`; watch the size guard's 90% threshold.
+
+## Testing
+
+```bash
+deno task test        # deno test --allow-read — 97 tests, ~2 s
+```
+
+| File                    | Covers                                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------------- |
+| `icon.test.ts`          | Renderer contract: size fallback, falsy handling, attribute order, passthrough                       |
+| `legacy-parity.test.ts` | 60 fixtures × 10 prop combos = 600 byte-exact v5 assertions, 15 families                             |
+| `generated.test.ts`     | Exports ↔ disk ↔ manifest cross-checks, filename === export name, no case collisions, JSR size guard |
+| `search.test.ts`        | Family listing, filtering, ranking, limits                                                           |
+
+`generated.test.ts` deliberately uses cheap **text** checks (not imports) so it can
+cover all ~19k modules in seconds.
+
+## MCP
+
+`mcp.ts` exports `tools: McpToolDefinition[]` with three tools:
+
+| Tool                 | Purpose                                                               |
+| -------------------- | --------------------------------------------------------------------- |
+| `search-icons`       | Name search → export name + JSR and npm specifiers (default limit 25) |
+| `render-icon`        | Render one icon by exact name; `didYouMean` suggestions on miss       |
+| `list-icon-families` | Every family with prefix, count and an example name                   |
+
+> `mcp.ts` **intentionally** uses inline fully-versioned `npm:` / `jsr:` specifiers
+> (`npm:zod@^3.25.76`, `jsr:@marianmeres/mcp-server@^1.3.2/types`) with
+> `// deno-lint-ignore-file no-import-prefix`. The MCP server loads this file from
+> outside this package's import map, so it must be self-contained. Do not "fix" it
+> into bare specifiers.
+
+`render-icon` loads modules via `await import(import.meta.resolve("./src/…"))`.
+The MCP server reads `mcp.ts` from the local workspace checkout, which is why excluding
+it from the JSR publish costs nothing. (If it were ever published, `deno publish` would
+warn `unanalyzable-dynamic-import` and pull `zod` into the package graph.)
+
+## Gotchas
+
+- `node_modules/` is populated by **`deno install`**, and `scripts/build.ts` reads
+  SVGs off disk with `Deno.readDir` — it never imports the packages, so Deno will
+  not fetch them on demand. No install → the build dies with
+  `NotFound: No such file or directory … readdir 'node_modules/…'`. (The friendlier
+  `No SVGs found in …` fires only when the directory exists but holds no SVGs.)
+- `deno install` warns `Ignored build scripts for packages: npm:core-js`. Harmless:
+  only `.svg` files are ever read.
+- **Font Awesome is vendored**, not an npm dep — its free icons have no convenient
+  npm layout. `vendor/` is in `publish.exclude`, so it ships in git but not to JSR.
+  Upgrading FA means adding a new versioned directory under `vendor/font-awesome/`.
+- **`deno.json` `exports` is machine-written.** Hand-editing it is pointless (the
+  next build overwrites) and `tests/generated.test.ts` will fail. The rest of
+  `deno.json` is authored and preserved across builds — but it is round-tripped
+  through `JSON.parse`/`JSON.stringify`, so it must stay **strict JSON**: a JSONC
+  comment breaks the build.
+- `fmt.exclude` and `lint.exclude` list the nine generated provider roots under
+  `src/` plus `src/_manifest.ts`. Adding a family without updating both makes
+  `deno fmt`/`deno lint` crawl thousands of generated files.
+- The pipeline strips only the **first** `class`/`width`/`height`/`id` attribute in
+  each file. Stripping `id` is safe for every current source but would break an icon
+  that self-references an id (masks, gradients) — revisit `buildIcon` if that shows up.
+- `size: 0` is treated as "unset" (falls back to natural size); `strokeWidth: 0` is
+  honored as a real value. Both are golden-tested.
+- The npm build shells out to `npx tsc` — node and npm must be on PATH.
+- `.npm-dist/` is gitignored build output; never edit it.
+
+## v6 vs v5
+
+Context for why the code looks the way it does. All are breaking or behavior-visible.
+
+1. **Markup is unchanged** — all 14,305 icons from the six providers whose upstream
+   sources did not change render byte-identically. Guarded by `legacy-parity.test.ts`.
+2. **Props filter fixed.** v5 used `/^class|size|style|strokeWidth$/` — unparenthesized,
+   so it meant "starts with `class`" OR "contains `size`" OR "contains `style`" OR
+   "ends with `strokeWidth`". `className`, `data-size`, `stroke-style` were silently
+   dropped. Now `/^(?:class|size|style|strokeWidth)$/`; everything else passes through.
+3. **`lucide-static` 0.473.0 → 1.33.0**, 1548 → 2016 icons: 490 added, 18 removed
+   upstream (`iconLucideChrome`, `iconLucideFacebook`, `iconLucideFigma`,
+   `iconLucideGithub`, `iconLucideSlack`, `iconLucideTwitter` and the other brand
+   logos Lucide moved out of the main set, plus `iconLucideRailSymbol`), and 4
+   renamed by the collision fix (`iconLucideArrowDownAZ` → `iconLucideArrowDownAz`,
+   and the `ZA`/`AZ` siblings). Many more were redrawn. Re-run `deno task build`
+   and diff after any further bump — do not quote names from memory.
+4. **Font Awesome 7.1.0 → 7.3.1.** 77 icons added (brands 549 → 609, solid
+   1979 → 1996, regular unchanged), none removed, some redrawn. Two solid icons were
+   renamed by the collision fix: `iconFaSolidEyeDropper` → `iconFaSolidEyedropper`,
+   `iconFaSolidTShirt` → `iconFaSolidTshirt`.
+5. **`font-awesome/brands/*` is importable.** v5 generated the files but omitted the
+   exports entry → `ERR_PACKAGE_PATH_NOT_EXPORTED`.
+6. **Root export `.` works.** It was `null` in v5. The dangling 1.5 MB
+   `dist/index.d.ts` barrel (which referenced a `dist/index.js` that never existed)
+   is gone.
+7. **Alias collisions resolved deterministically.** v5 wrote modules whose export
+   name did not match their filename, silently clobbered on case-insensitive
+   filesystems — e.g. `iconFaSolidEyeDropper.js` actually exported
+   `iconFaSolidEyedropper`, so importing the documented name yielded `undefined`.
+8. **New:** the `./search` entry point and the MCP tools.
+
+## Constraints
+
+- Names are derived mechanically from upstream filenames — an upstream rename is a
+  breaking change for consumers, and there is no alias/compat layer.
+- No runtime icon registry: icons are only reachable by their own subpath. `search`
+  returns names and paths, not functions.
+- `strokeWidth` is honored only by Bytesize, Feather and Lucide; it is silently
+  ignored elsewhere (the attribute is not emitted at all).
+- Prop values are interpolated into attributes unescaped — callers are responsible
+  for not injecting quotes.
