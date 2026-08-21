@@ -152,6 +152,25 @@ The root export (`@marianmeres/icons-fns`) carries no icons — only `IconProps`
 and `icon()`, the shared renderer every generated module is built from. You need it only
 if you want to hand-roll an icon function with the same props contract.
 
+## Interactive example
+
+[`example/index.html`](example/index.html) shows ten icons from each of the 19
+families side by side — drag the `size` and `strokeWidth` sliders and watch every
+family react, then click any icon for its import line and the exact markup its
+function returns.
+
+```shell
+deno task example:build          # -> example/dist/bundle.js
+deno run -A jsr:@std/http/file-server .
+# then open http://localhost:8000/example/
+```
+
+Nothing is faked: the page renders through this package's own `icon()` factory, so
+every SVG it shows is byte-for-byte what the published function returns. Built with
+[`@marianmeres/vanilla`](https://jsr.io/@marianmeres/vanilla),
+[`@marianmeres/design-tokens`](https://jsr.io/@marianmeres/design-tokens) and
+[`@marianmeres/deno-build`](https://jsr.io/@marianmeres/deno-build).
+
 ## MCP tools
 
 The repository carries an `mcp.ts` for [@marianmeres/mcp-server](https://jsr.io/@marianmeres/mcp-server),
@@ -235,11 +254,13 @@ Also new, and additive only:
 The icon modules and `src/_manifest.ts` are generated — edit `scripts/build.ts`, not them.
 Only `src/_icon.ts`, `src/mod.ts` and `src/search.ts` are hand-written.
 
-| Task                  | Does                                                                  |
-| --------------------- | --------------------------------------------------------------------- |
-| `deno task build`     | Regenerates `src/`, the search index and the `exports` map.           |
-| `deno task test`      | Renderer contract, v5 golden parity, invariants over all 19k modules. |
-| `deno task npm:build` | Builds the npm package into `.npm-dist`.                              |
+| Task                      | Does                                                                  |
+| ------------------------- | --------------------------------------------------------------------- |
+| `deno task build`         | Regenerates `src/`, the search index and the `exports` map.           |
+| `deno task test`          | Renderer contract, v5 golden parity, invariants over all 19k modules. |
+| `deno task npm:build`     | Builds the npm package into `.npm-dist`.                              |
+| `deno task example:data`  | Re-picks the example's sample icons. Run after `build`.               |
+| `deno task example:build` | Bundles the example app.                                              |
 
 `deno.json`'s `exports` map is generated with one entry per icon (19,201 in total,
 including `.` and `./search`) because JSR forbids wildcard export keys; npm gets subpath
