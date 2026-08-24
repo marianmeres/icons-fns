@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `AlignJustify` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `AlignJustify` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Phone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Phone` icon. */

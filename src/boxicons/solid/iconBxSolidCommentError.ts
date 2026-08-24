@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CommentError` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CommentError` icon. */

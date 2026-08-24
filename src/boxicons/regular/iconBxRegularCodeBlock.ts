@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CodeBlock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CodeBlock` icon. */

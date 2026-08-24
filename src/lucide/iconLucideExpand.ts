@@ -1,3 +1,8 @@
+/**
+ * Lucide `Expand` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Expand` icon. */

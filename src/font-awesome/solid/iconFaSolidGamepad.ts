@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `Gamepad` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `Gamepad` icon. */

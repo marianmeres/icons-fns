@@ -1,3 +1,8 @@
+/**
+ * Lucide `BellRing` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `BellRing` icon. */

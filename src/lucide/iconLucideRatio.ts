@@ -1,3 +1,8 @@
+/**
+ * Lucide `Ratio` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Ratio` icon. */

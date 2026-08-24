@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `NumberFive` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `NumberFive` icon. */

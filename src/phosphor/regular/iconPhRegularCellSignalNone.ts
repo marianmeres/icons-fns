@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `CellSignalNone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `CellSignalNone` icon. */

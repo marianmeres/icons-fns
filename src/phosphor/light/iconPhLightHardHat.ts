@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `HardHat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `HardHat` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `VectorPen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `VectorPen` icon. */

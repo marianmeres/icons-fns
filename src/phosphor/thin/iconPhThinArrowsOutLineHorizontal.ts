@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowsOutLineHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowsOutLineHorizontal` icon. */

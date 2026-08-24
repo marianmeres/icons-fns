@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ObjectsHorizontalRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ObjectsHorizontalRight` icon. */

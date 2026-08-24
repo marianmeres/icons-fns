@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Robot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Robot` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `MinusCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `MinusCircle` icon. */

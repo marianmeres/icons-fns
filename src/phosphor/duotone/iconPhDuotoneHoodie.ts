@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Hoodie` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Hoodie` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ImageAdd` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ImageAdd` icon. */

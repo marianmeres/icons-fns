@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CursorClick` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CursorClick` icon. */

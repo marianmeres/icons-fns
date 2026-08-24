@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Headset` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Headset` icon. */

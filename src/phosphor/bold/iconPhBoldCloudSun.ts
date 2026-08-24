@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CloudSun` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CloudSun` icon. */

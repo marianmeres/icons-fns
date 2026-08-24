@@ -1,3 +1,8 @@
+/**
+ * Font Awesome regular `ObjectUngroup` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome regular `ObjectUngroup` icon. */

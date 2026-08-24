@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CaretCircleUpDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CaretCircleUpDown` icon. */

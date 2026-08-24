@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `ArrowUpCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `ArrowUpCircle` icon. */

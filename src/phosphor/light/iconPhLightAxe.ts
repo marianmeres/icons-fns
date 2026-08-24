@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Axe` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Axe` icon. */

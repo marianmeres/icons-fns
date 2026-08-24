@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Calendar2Month` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Calendar2Month` icon. */

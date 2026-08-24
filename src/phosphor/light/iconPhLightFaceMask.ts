@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FaceMask` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FaceMask` icon. */

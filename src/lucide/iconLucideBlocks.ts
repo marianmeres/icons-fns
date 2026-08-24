@@ -1,3 +1,8 @@
+/**
+ * Lucide `Blocks` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Blocks` icon. */

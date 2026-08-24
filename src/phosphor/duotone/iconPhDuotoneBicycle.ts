@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Bicycle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Bicycle` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `MenuAltLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `MenuAltLeft` icon. */

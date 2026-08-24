@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `Temperature1` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `Temperature1` icon. */

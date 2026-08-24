@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `LoaderCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `LoaderCircle` icon. */

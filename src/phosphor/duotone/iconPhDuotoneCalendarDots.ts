@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `CalendarDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `CalendarDots` icon. */

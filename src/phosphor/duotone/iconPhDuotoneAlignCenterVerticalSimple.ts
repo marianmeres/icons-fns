@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `AlignCenterVerticalSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `AlignCenterVerticalSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `Group` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Group` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Italic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Italic` icon. */

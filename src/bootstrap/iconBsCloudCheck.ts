@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CloudCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CloudCheck` icon. */

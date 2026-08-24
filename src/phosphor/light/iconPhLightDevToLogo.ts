@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `DevToLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `DevToLogo` icon. */

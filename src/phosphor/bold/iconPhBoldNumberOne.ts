@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `NumberOne` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `NumberOne` icon. */

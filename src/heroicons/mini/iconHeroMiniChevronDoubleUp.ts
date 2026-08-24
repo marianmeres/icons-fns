@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ChevronDoubleUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ChevronDoubleUp` icon. */

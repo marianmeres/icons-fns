@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ShareFat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ShareFat` icon. */

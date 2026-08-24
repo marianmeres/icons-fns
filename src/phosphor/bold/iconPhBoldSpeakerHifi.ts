@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `SpeakerHifi` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `SpeakerHifi` icon. */

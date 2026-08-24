@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ChatCenteredSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ChatCenteredSlash` icon. */

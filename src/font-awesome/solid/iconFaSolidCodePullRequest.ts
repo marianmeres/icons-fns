@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `CodePullRequest` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `CodePullRequest` icon. */

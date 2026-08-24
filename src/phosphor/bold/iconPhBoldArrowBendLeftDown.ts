@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ArrowBendLeftDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ArrowBendLeftDown` icon. */

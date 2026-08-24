@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `AppleLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `AppleLogo` icon. */

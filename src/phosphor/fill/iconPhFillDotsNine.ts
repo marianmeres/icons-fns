@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `DotsNine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `DotsNine` icon. */

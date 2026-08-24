@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `HandsPraying` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `HandsPraying` icon. */

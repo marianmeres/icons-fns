@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `WindowAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `WindowAlt` icon. */

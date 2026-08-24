@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `MapPinLine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `MapPinLine` icon. */

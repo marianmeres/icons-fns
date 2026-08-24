@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BagPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BagPlus` icon. */

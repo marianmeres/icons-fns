@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `DiceSix` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `DiceSix` icon. */

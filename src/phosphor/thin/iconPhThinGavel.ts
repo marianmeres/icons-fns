@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Gavel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Gavel` icon. */

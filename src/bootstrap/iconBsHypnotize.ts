@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Hypnotize` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Hypnotize` icon. */

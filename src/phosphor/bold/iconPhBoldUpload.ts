@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Upload` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Upload` icon. */

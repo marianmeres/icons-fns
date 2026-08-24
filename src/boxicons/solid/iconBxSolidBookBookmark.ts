@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BookBookmark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BookBookmark` icon. */

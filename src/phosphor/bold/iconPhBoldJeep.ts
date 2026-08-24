@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Jeep` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Jeep` icon. */

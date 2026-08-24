@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CreditCardFront` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CreditCardFront` icon. */

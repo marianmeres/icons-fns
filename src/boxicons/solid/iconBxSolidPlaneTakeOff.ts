@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `PlaneTakeOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `PlaneTakeOff` icon. */

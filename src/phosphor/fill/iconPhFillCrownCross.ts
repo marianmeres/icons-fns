@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CrownCross` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CrownCross` icon. */

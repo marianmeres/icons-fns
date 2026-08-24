@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Calendar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Calendar` icon. */

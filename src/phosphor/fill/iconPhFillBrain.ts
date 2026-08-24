@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Brain` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Brain` icon. */

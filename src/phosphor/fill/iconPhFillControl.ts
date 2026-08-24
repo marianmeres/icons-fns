@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Control` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Control` icon. */

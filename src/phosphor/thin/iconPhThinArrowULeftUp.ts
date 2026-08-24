@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowULeftUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowULeftUp` icon. */

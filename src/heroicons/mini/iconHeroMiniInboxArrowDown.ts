@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `InboxArrowDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `InboxArrowDown` icon. */

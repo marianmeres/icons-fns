@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Checkmark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Checkmark` icon. */

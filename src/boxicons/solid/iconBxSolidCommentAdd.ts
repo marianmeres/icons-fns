@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CommentAdd` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CommentAdd` icon. */

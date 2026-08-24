@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ArrowToLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ArrowToLeft` icon. */

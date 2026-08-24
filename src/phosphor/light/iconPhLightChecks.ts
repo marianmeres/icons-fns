@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Checks` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Checks` icon. */

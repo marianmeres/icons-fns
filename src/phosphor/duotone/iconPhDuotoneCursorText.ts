@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `CursorText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `CursorText` icon. */

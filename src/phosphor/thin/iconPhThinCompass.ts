@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Compass` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Compass` icon. */

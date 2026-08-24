@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Toggle2On` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Toggle2On` icon. */

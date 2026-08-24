@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `StopCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `StopCircle` icon. */

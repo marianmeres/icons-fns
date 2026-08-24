@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Clock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Clock` icon. */

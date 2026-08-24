@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `HouseX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `HouseX` icon. */

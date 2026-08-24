@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ArchiveIn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ArchiveIn` icon. */

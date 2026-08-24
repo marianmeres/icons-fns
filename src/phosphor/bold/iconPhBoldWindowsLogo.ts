@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `WindowsLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `WindowsLogo` icon. */

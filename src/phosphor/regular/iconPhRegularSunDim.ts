@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SunDim` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SunDim` icon. */

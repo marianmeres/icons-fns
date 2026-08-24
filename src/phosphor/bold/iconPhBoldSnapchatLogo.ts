@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `SnapchatLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `SnapchatLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Cookie` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Cookie` icon. */

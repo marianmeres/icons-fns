@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MastodonLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MastodonLogo` icon. */

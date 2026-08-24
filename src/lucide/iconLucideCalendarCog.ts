@@ -1,3 +1,8 @@
+/**
+ * Lucide `CalendarCog` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CalendarCog` icon. */

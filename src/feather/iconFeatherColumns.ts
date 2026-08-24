@@ -1,3 +1,8 @@
+/**
+ * Feather `Columns` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Columns` icon. */

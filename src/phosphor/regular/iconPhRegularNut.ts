@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Nut` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Nut` icon. */

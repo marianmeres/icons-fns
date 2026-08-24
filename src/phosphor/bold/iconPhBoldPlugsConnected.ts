@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `PlugsConnected` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `PlugsConnected` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `News` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `News` icon. */

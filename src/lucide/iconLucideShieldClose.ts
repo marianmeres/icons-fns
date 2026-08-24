@@ -1,3 +1,8 @@
+/**
+ * Lucide `ShieldClose` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ShieldClose` icon. */

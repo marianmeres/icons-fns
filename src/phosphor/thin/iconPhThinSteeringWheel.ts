@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SteeringWheel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SteeringWheel` icon. */

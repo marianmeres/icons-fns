@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `QrCode` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `QrCode` icon. */

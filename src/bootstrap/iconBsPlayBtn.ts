@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PlayBtn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PlayBtn` icon. */

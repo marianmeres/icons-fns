@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `PersonSimpleWalk` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `PersonSimpleWalk` icon. */

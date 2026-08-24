@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ThermometerSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ThermometerSimple` icon. */

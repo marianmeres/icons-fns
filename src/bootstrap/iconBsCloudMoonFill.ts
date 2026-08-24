@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CloudMoonFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CloudMoonFill` icon. */

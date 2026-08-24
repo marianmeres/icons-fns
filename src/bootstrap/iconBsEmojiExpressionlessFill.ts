@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `EmojiExpressionlessFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `EmojiExpressionlessFill` icon. */

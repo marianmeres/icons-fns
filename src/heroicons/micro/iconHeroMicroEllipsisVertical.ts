@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `EllipsisVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `EllipsisVertical` icon. */

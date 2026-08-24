@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Tachometer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Tachometer` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `GitMergeConflict` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `GitMergeConflict` icon. */

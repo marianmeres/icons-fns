@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `DeviceMobileCamera` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `DeviceMobileCamera` icon. */

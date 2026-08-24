@@ -1,3 +1,8 @@
+/**
+ * Lucide `Stamp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Stamp` icon. */

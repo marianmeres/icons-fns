@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Hoodie` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Hoodie` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Power` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Power` icon. */

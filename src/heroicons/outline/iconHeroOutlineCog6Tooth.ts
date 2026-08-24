@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `Cog6Tooth` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `Cog6Tooth` icon. */

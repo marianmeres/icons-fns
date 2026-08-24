@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `NumberSquareTwo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `NumberSquareTwo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `AtSymbol` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `AtSymbol` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Banknotes` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Banknotes` icon. */

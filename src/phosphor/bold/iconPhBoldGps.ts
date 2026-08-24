@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Gps` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Gps` icon. */

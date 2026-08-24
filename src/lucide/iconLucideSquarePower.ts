@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquarePower` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquarePower` icon. */

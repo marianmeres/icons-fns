@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Footprints` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Footprints` icon. */

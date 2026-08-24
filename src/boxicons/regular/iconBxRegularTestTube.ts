@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `TestTube` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `TestTube` icon. */

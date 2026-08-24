@@ -1,3 +1,8 @@
+/**
+ * Lucide `IndentIncrease` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `IndentIncrease` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `PlugsConnected` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `PlugsConnected` icon. */

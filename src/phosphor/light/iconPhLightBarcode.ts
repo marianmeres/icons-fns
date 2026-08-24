@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Barcode` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Barcode` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `BluetoothSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `BluetoothSlash` icon. */

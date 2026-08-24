@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Fish` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Fish` icon. */

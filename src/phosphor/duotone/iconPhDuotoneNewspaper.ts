@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Newspaper` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Newspaper` icon. */

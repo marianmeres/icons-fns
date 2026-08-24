@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `BagSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `BagSimple` icon. */

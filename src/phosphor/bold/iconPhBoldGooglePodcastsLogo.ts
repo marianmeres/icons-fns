@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `GooglePodcastsLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `GooglePodcastsLogo` icon. */

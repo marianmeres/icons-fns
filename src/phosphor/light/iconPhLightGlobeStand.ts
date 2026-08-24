@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GlobeStand` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GlobeStand` icon. */

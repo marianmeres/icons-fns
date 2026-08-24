@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `DiscordLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `DiscordLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `LeftIndent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `LeftIndent` icon. */

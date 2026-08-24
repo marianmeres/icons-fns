@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Radio` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Radio` icon. */

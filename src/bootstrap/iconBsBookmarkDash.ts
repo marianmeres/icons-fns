@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BookmarkDash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BookmarkDash` icon. */

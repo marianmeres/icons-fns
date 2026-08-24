@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Shuffle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Shuffle` icon. */

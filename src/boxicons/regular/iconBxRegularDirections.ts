@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Directions` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Directions` icon. */

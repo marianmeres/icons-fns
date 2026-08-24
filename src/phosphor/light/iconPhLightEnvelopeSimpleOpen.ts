@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `EnvelopeSimpleOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `EnvelopeSimpleOpen` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `SelectionAll` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `SelectionAll` icon. */

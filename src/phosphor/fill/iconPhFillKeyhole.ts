@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Keyhole` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Keyhole` icon. */

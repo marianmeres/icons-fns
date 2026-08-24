@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `GitBranch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `GitBranch` icon. */

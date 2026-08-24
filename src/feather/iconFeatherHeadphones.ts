@@ -1,3 +1,8 @@
+/**
+ * Feather `Headphones` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Headphones` icon. */

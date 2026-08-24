@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowBendRightUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowBendRightUp` icon. */

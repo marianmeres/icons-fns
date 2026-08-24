@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Eject` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Eject` icon. */

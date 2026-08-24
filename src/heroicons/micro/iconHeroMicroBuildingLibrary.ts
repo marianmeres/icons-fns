@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `BuildingLibrary` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `BuildingLibrary` icon. */

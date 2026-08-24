@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ChartLineUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ChartLineUp` icon. */

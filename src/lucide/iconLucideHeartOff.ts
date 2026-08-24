@@ -1,3 +1,8 @@
+/**
+ * Lucide `HeartOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `HeartOff` icon. */

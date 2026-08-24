@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `FishSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `FishSimple` icon. */

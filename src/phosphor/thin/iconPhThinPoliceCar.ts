@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PoliceCar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PoliceCar` icon. */

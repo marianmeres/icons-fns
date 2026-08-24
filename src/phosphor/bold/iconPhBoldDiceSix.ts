@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `DiceSix` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `DiceSix` icon. */

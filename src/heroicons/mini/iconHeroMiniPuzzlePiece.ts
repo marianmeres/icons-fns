@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `PuzzlePiece` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `PuzzlePiece` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `WaveformSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `WaveformSlash` icon. */

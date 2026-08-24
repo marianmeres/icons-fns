@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ThumbsUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ThumbsUp` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Translate` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Translate` icon. */

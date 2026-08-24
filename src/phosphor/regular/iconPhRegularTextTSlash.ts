@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `TextTSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `TextTSlash` icon. */

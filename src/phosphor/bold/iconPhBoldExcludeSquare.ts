@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ExcludeSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ExcludeSquare` icon. */

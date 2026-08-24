@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Equalizer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Equalizer` icon. */

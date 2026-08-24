@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FiletypeMp4` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FiletypeMp4` icon. */

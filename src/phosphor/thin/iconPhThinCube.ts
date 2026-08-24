@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Cube` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Cube` icon. */

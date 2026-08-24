@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `BowlFood` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `BowlFood` icon. */

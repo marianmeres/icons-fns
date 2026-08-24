@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `UserGear` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `UserGear` icon. */

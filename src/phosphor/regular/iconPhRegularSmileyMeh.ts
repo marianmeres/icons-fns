@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SmileyMeh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SmileyMeh` icon. */

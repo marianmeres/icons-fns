@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ObjectsVerticalTop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ObjectsVerticalTop` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `BugDroid` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `BugDroid` icon. */

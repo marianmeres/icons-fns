@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `FlagPennant` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `FlagPennant` icon. */

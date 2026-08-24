@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Send` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Send` icon. */

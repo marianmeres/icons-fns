@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ChatTeardrop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ChatTeardrop` icon. */

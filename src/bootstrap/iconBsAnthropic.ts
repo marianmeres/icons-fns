@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Anthropic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Anthropic` icon. */

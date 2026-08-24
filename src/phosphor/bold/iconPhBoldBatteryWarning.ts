@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `BatteryWarning` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `BatteryWarning` icon. */

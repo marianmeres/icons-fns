@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PhoneTransfer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PhoneTransfer` icon. */

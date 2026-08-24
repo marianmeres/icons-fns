@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `PersonSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `PersonSimple` icon. */

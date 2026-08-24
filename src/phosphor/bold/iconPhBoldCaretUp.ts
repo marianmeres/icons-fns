@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CaretUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CaretUp` icon. */

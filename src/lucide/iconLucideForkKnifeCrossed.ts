@@ -1,3 +1,8 @@
+/**
+ * Lucide `ForkKnifeCrossed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ForkKnifeCrossed` icon. */

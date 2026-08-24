@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Rocket` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Rocket` icon. */

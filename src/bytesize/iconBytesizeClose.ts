@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Close` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Close` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `CalendarDays` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `CalendarDays` icon. */

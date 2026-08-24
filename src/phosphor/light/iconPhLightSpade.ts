@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Spade` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Spade` icon. */

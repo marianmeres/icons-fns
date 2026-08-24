@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `FolderSimplePlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `FolderSimplePlus` icon. */

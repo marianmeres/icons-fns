@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `AlignTopSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `AlignTopSimple` icon. */

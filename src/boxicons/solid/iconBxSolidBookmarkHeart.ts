@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BookmarkHeart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BookmarkHeart` icon. */

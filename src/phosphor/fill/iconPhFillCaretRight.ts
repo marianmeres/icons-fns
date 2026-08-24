@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CaretRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CaretRight` icon. */

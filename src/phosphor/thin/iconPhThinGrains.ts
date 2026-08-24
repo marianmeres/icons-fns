@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Grains` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Grains` icon. */

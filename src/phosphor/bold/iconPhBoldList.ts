@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `List` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `List` icon. */

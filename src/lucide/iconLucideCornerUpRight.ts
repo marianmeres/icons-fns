@@ -1,3 +1,8 @@
+/**
+ * Lucide `CornerUpRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CornerUpRight` icon. */

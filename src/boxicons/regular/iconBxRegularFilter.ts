@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Filter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Filter` icon. */

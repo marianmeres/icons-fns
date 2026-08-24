@@ -1,3 +1,8 @@
+/**
+ * Lucide `ChessRook` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ChessRook` icon. */

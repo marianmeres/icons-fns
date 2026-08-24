@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Video` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Video` icon. */

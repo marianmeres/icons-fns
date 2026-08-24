@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `NotMemberOf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `NotMemberOf` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Feather `PenTool` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `PenTool` icon. */

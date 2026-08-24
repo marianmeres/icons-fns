@@ -1,3 +1,8 @@
+/**
+ * Lucide `Wine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Wine` icon. */

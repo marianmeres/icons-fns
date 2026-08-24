@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Speaker` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Speaker` icon. */

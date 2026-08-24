@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `ArrowToBottom` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `ArrowToBottom` icon. */

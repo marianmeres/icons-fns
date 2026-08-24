@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ToggleRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ToggleRight` icon. */

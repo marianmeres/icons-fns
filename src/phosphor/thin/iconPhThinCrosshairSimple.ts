@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CrosshairSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CrosshairSimple` icon. */

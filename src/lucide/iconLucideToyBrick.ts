@@ -1,3 +1,8 @@
+/**
+ * Lucide `ToyBrick` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ToyBrick` icon. */

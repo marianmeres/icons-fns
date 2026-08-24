@@ -1,3 +1,8 @@
+/**
+ * Lucide `Italic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Italic` icon. */

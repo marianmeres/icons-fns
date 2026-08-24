@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `LinkAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `LinkAlt` icon. */

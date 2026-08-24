@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `IceCream` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `IceCream` icon. */

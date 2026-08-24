@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `EnvelopeHeartFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `EnvelopeHeartFill` icon. */

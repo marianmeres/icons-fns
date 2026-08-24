@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `HourglassHigh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `HourglassHigh` icon. */

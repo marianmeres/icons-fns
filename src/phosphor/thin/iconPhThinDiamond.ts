@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Diamond` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Diamond` icon. */

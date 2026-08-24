@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `NumberCircleZero` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `NumberCircleZero` icon. */

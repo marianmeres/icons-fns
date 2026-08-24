@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ArrowFatLineDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ArrowFatLineDown` icon. */

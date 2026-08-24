@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SkipBackwardBtn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SkipBackwardBtn` icon. */

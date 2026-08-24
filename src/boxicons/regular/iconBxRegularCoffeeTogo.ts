@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CoffeeTogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CoffeeTogo` icon. */

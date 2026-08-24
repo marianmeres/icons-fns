@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Outline` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Outline` icon. */

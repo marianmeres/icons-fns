@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FolderSimpleDashed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FolderSimpleDashed` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PersonWalking` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PersonWalking` icon. */

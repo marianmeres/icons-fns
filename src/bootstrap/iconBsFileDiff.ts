@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileDiff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileDiff` icon. */

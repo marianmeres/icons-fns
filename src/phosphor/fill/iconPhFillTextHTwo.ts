@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `TextHTwo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `TextHTwo` icon. */

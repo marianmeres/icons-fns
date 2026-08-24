@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FadersHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FadersHorizontal` icon. */

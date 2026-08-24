@@ -1,3 +1,8 @@
+/**
+ * Lucide `SmilePlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SmilePlus` icon. */

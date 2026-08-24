@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Basketball` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Basketball` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FileC` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FileC` icon. */

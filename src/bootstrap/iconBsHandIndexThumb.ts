@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `HandIndexThumb` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `HandIndexThumb` icon. */

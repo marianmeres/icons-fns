@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ArrowUpTray` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ArrowUpTray` icon. */

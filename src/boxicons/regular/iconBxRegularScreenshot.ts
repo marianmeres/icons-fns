@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Screenshot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Screenshot` icon. */

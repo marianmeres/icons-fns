@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PushPinSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PushPinSimple` icon. */

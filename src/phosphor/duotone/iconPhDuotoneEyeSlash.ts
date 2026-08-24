@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `EyeSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `EyeSlash` icon. */

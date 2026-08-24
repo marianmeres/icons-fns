@@ -1,3 +1,8 @@
+/**
+ * Feather `Move` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Move` icon. */

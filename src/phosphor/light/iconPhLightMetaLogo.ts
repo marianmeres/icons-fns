@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MetaLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MetaLogo` icon. */

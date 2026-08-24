@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Tent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Tent` icon. */

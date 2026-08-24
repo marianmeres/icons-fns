@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SubsetOf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SubsetOf` icon. */

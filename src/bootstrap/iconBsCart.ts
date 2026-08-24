@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Cart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Cart` icon. */

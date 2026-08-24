@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CoatHanger` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CoatHanger` icon. */

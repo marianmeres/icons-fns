@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CalendarX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CalendarX` icon. */

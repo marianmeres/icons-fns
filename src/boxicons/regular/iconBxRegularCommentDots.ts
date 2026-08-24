@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CommentDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CommentDots` icon. */

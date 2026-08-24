@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `RobloxCreatorStudio` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `RobloxCreatorStudio` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Hurricane` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Hurricane` icon. */

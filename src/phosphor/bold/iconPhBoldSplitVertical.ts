@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `SplitVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `SplitVertical` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `LockKeyOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `LockKeyOpen` icon. */

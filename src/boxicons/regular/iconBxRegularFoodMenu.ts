@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `FoodMenu` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `FoodMenu` icon. */

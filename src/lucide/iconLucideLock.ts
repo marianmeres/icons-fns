@@ -1,3 +1,8 @@
+/**
+ * Lucide `Lock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Lock` icon. */

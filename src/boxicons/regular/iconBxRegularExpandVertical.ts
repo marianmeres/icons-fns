@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ExpandVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ExpandVertical` icon. */

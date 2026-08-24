@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `GridAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `GridAlt` icon. */

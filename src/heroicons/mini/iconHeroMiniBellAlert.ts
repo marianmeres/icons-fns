@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `BellAlert` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `BellAlert` icon. */

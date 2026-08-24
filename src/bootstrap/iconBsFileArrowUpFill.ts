@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileArrowUpFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileArrowUpFill` icon. */

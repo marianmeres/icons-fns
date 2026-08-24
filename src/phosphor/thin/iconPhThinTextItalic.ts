@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TextItalic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TextItalic` icon. */

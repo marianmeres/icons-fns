@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FileHtml` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FileHtml` icon. */

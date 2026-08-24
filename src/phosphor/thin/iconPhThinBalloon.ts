@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Balloon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Balloon` icon. */

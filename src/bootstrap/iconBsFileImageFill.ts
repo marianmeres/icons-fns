@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileImageFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileImageFill` icon. */

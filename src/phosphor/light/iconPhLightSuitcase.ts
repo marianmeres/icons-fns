@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Suitcase` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Suitcase` icon. */

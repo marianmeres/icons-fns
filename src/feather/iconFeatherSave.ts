@@ -1,3 +1,8 @@
+/**
+ * Feather `Save` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Save` icon. */

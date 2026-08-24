@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SortDescending` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SortDescending` icon. */

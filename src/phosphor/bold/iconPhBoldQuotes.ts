@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Quotes` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Quotes` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Gradient` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Gradient` icon. */

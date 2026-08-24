@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Camera` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Camera` icon. */

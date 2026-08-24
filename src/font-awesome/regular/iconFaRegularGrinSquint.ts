@@ -1,3 +1,8 @@
+/**
+ * Font Awesome regular `GrinSquint` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome regular `GrinSquint` icon. */

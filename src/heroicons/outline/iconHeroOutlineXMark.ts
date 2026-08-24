@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `XMark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `XMark` icon. */

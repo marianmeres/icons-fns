@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Desktop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Desktop` icon. */

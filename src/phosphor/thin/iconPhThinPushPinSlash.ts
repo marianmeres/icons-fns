@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PushPinSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PushPinSlash` icon. */

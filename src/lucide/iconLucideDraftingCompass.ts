@@ -1,3 +1,8 @@
+/**
+ * Lucide `DraftingCompass` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `DraftingCompass` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `TreeView` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `TreeView` icon. */

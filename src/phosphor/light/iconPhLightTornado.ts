@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Tornado` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Tornado` icon. */

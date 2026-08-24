@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Airplay` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Airplay` icon. */

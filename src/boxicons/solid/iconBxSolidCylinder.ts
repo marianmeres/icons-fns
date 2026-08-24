@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Cylinder` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Cylinder` icon. */

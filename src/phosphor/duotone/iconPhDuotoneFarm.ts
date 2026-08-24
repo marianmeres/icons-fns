@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Farm` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Farm` icon. */

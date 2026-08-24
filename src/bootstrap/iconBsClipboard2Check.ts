@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Clipboard2Check` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Clipboard2Check` icon. */

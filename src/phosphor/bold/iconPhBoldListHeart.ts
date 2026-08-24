@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ListHeart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ListHeart` icon. */

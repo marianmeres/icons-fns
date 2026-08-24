@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `LadderSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `LadderSimple` icon. */

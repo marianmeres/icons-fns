@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `BatteryWarningVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `BatteryWarningVertical` icon. */

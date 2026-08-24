@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `MessageSquareCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `MessageSquareCheck` icon. */

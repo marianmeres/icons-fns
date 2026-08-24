@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `RewindCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `RewindCircle` icon. */

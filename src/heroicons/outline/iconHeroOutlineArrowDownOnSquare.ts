@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `ArrowDownOnSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `ArrowDownOnSquare` icon. */

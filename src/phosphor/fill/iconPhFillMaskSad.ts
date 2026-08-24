@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `MaskSad` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `MaskSad` icon. */

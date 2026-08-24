@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `FootballHelmet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `FootballHelmet` icon. */

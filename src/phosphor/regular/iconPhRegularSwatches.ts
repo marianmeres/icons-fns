@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Swatches` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Swatches` icon. */

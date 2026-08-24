@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CalendarAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CalendarAlt` icon. */

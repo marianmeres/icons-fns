@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ListMagnifyingGlass` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ListMagnifyingGlass` icon. */

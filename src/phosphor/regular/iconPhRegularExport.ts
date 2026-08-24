@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Export` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Export` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Password` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Password` icon. */

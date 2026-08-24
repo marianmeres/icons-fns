@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `UserCircleMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `UserCircleMinus` icon. */

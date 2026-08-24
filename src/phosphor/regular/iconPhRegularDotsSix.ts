@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `DotsSix` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `DotsSix` icon. */

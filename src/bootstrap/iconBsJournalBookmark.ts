@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `JournalBookmark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `JournalBookmark` icon. */

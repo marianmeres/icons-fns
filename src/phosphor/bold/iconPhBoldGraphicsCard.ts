@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `GraphicsCard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `GraphicsCard` icon. */

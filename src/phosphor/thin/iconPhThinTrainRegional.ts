@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TrainRegional` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TrainRegional` icon. */

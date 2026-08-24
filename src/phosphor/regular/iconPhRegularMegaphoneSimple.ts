@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `MegaphoneSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `MegaphoneSimple` icon. */

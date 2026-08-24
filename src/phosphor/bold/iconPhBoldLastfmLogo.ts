@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `LastfmLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `LastfmLogo` icon. */

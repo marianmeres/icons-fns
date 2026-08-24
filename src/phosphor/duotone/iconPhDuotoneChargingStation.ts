@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ChargingStation` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ChargingStation` icon. */

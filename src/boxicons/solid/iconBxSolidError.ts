@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Error` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Error` icon. */

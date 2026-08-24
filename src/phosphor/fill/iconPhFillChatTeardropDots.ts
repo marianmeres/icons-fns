@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ChatTeardropDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ChatTeardropDots` icon. */

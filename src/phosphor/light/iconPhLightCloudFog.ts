@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CloudFog` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CloudFog` icon. */

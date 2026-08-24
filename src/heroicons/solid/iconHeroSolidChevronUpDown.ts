@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `ChevronUpDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `ChevronUpDown` icon. */

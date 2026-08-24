@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Trophy` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Trophy` icon. */

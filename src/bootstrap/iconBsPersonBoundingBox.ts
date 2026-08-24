@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PersonBoundingBox` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PersonBoundingBox` icon. */

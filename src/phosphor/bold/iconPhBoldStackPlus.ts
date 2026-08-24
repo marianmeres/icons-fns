@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `StackPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `StackPlus` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `AirplaneTaxiing` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `AirplaneTaxiing` icon. */

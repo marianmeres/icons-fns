@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ListPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ListPlus` icon. */

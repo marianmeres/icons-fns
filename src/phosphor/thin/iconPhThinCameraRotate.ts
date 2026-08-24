@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CameraRotate` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CameraRotate` icon. */

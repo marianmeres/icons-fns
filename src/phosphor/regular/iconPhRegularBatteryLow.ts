@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `BatteryLow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `BatteryLow` icon. */

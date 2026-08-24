@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `WalletAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `WalletAlt` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `AlignRightSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `AlignRightSimple` icon. */

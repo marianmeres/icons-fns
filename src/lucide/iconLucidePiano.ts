@@ -1,3 +1,8 @@
+/**
+ * Lucide `Piano` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Piano` icon. */

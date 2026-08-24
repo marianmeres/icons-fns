@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ArrowFatLineUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ArrowFatLineUp` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `Mandalorian` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `Mandalorian` icon. */

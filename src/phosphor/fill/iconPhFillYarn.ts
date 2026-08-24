@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Yarn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Yarn` icon. */

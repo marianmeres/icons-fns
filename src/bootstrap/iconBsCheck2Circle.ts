@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Check2Circle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Check2Circle` icon. */

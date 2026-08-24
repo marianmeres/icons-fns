@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `ChevronsDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `ChevronsDown` icon. */

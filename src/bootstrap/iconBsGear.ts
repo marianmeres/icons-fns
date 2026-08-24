@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Gear` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Gear` icon. */

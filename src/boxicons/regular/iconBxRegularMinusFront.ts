@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `MinusFront` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `MinusFront` icon. */

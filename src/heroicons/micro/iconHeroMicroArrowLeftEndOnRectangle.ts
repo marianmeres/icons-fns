@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `ArrowLeftEndOnRectangle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `ArrowLeftEndOnRectangle` icon. */

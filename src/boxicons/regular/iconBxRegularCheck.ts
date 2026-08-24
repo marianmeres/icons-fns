@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Check` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Check` icon. */

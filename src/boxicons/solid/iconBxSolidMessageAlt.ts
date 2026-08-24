@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `MessageAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `MessageAlt` icon. */

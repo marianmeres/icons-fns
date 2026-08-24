@@ -1,3 +1,8 @@
+/**
+ * Lucide `PilcrowRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `PilcrowRight` icon. */

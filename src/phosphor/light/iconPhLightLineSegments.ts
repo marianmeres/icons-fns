@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `LineSegments` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `LineSegments` icon. */

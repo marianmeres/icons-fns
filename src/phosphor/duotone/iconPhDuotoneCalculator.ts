@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Calculator` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Calculator` icon. */

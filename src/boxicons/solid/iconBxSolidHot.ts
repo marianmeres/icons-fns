@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Hot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Hot` icon. */

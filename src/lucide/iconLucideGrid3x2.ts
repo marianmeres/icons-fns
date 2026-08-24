@@ -1,3 +1,8 @@
+/**
+ * Lucide `Grid3x2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Grid3x2` icon. */

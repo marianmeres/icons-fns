@@ -1,3 +1,8 @@
+/**
+ * Lucide `FileAudio2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FileAudio2` icon. */

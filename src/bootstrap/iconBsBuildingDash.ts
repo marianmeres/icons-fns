@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BuildingDash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BuildingDash` icon. */

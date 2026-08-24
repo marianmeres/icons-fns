@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FileAudio` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FileAudio` icon. */

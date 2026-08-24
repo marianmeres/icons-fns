@@ -1,3 +1,8 @@
+/**
+ * Lucide `ChevronLeftCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ChevronLeftCircle` icon. */

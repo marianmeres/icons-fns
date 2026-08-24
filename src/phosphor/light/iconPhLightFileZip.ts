@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FileZip` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FileZip` icon. */

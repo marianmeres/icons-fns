@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Toolbox` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Toolbox` icon. */

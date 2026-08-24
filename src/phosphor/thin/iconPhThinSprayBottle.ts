@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SprayBottle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SprayBottle` icon. */

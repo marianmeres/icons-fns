@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `HandRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `HandRight` icon. */

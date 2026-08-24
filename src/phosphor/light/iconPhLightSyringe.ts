@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Syringe` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Syringe` icon. */

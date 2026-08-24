@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BookmarkMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BookmarkMinus` icon. */

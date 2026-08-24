@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SpeakerSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SpeakerSlash` icon. */

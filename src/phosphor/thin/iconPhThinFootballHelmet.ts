@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `FootballHelmet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `FootballHelmet` icon. */

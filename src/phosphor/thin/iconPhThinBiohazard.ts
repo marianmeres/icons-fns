@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Biohazard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Biohazard` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `PottedPlant` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `PottedPlant` icon. */

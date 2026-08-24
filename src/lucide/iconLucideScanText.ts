@@ -1,3 +1,8 @@
+/**
+ * Lucide `ScanText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ScanText` icon. */

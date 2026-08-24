@@ -1,3 +1,8 @@
+/**
+ * Lucide `Tally4` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Tally4` icon. */

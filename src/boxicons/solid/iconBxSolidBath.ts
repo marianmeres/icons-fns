@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Bath` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Bath` icon. */

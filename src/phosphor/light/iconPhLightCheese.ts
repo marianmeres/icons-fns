@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Cheese` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Cheese` icon. */

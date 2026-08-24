@@ -1,3 +1,8 @@
+/**
+ * Lucide `MailPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MailPlus` icon. */

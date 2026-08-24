@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Garage` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Garage` icon. */

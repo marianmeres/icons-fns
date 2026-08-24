@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ExclamationTriangle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ExclamationTriangle` icon. */

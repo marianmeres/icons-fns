@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `SquareHalf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `SquareHalf` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileBreakFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileBreakFill` icon. */

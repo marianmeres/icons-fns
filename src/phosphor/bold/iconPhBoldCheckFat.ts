@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CheckFat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CheckFat` icon. */

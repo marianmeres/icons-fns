@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ClosedCaptioning` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ClosedCaptioning` icon. */

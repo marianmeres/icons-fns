@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PhoneVibrateFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PhoneVibrateFill` icon. */

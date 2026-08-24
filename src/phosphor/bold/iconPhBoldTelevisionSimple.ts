@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `TelevisionSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `TelevisionSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Creditcard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Creditcard` icon. */

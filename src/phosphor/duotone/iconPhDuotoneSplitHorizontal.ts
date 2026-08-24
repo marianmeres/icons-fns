@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `SplitHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `SplitHorizontal` icon. */

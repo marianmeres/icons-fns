@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `DatabaseFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `DatabaseFill` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PenNib` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PenNib` icon. */

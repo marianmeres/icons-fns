@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquarePlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquarePlus` icon. */

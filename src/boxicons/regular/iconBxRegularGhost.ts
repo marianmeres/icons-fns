@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Ghost` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Ghost` icon. */

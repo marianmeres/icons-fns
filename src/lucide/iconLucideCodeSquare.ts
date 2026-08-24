@@ -1,3 +1,8 @@
+/**
+ * Lucide `CodeSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CodeSquare` icon. */

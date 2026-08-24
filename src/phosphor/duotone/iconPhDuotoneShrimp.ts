@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Shrimp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Shrimp` icon. */

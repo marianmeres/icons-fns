@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Popsicle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Popsicle` icon. */

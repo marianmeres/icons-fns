@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `WechatLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `WechatLogo` icon. */

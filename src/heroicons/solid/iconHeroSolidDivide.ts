@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Divide` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Divide` icon. */

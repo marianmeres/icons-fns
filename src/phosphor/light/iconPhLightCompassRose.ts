@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CompassRose` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CompassRose` icon. */

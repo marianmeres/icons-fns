@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `ShieldCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `ShieldCheck` icon. */

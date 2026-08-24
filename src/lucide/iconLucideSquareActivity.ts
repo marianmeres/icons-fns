@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquareActivity` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquareActivity` icon. */

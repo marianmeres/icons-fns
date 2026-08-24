@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `RecordCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `RecordCircle` icon. */

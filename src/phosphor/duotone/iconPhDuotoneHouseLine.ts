@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `HouseLine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `HouseLine` icon. */

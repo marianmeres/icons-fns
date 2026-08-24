@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Door` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Door` icon. */

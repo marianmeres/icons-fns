@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `NetworkChart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `NetworkChart` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Coin` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Coin` icon. */

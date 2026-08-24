@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Cardholder` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Cardholder` icon. */

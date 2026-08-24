@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `FilmSlate` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `FilmSlate` icon. */

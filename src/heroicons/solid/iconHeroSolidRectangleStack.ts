@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `RectangleStack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `RectangleStack` icon. */

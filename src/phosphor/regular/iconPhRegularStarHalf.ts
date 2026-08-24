@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `StarHalf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `StarHalf` icon. */

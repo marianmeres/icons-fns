@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `UsbCFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `UsbCFill` icon. */

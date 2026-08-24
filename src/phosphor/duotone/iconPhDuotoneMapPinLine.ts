@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MapPinLine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MapPinLine` icon. */

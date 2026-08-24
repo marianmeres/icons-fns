@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `GitDiff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `GitDiff` icon. */

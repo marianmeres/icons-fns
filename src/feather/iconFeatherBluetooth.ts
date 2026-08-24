@@ -1,3 +1,8 @@
+/**
+ * Feather `Bluetooth` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Bluetooth` icon. */

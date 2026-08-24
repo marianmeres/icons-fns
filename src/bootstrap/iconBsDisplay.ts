@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Display` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Display` icon. */

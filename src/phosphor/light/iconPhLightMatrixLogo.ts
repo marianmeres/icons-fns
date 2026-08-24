@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MatrixLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MatrixLogo` icon. */

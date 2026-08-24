@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `BookOpenUser` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `BookOpenUser` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Detective` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Detective` icon. */

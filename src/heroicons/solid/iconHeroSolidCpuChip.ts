@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `CpuChip` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `CpuChip` icon. */

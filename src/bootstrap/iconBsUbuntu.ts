@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Ubuntu` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Ubuntu` icon. */

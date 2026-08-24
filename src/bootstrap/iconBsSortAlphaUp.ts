@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SortAlphaUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SortAlphaUp` icon. */

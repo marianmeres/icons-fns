@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SquareSplitVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SquareSplitVertical` icon. */

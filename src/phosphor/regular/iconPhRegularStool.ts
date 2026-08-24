@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Stool` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Stool` icon. */

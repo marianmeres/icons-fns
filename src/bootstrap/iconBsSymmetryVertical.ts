@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SymmetryVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SymmetryVertical` icon. */

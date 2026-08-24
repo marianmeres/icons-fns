@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Gauge` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Gauge` icon. */

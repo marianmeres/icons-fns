@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Money` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Money` icon. */

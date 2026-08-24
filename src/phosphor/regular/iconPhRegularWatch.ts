@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Watch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Watch` icon. */

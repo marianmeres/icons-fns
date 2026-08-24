@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Sailboat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Sailboat` icon. */

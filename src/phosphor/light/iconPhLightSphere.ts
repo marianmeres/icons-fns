@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Sphere` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Sphere` icon. */

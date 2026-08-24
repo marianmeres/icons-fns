@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `Zulip` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `Zulip` icon. */

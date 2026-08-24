@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `NuclearPlant` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `NuclearPlant` icon. */

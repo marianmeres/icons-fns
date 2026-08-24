@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `BracketsRound` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `BracketsRound` icon. */

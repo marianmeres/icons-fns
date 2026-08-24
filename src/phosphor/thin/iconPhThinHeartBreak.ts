@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `HeartBreak` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `HeartBreak` icon. */

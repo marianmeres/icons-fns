@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Rectangle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Rectangle` icon. */

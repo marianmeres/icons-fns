@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Crop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Crop` icon. */

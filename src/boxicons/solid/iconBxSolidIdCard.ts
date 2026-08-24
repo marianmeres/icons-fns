@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `IdCard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `IdCard` icon. */

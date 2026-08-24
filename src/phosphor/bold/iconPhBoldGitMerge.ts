@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `GitMerge` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `GitMerge` icon. */

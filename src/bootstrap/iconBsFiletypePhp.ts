@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FiletypePhp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FiletypePhp` icon. */

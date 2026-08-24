@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Pause` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Pause` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `EmojiSmile` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `EmojiSmile` icon. */

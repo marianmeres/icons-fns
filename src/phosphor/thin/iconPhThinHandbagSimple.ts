@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `HandbagSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `HandbagSimple` icon. */

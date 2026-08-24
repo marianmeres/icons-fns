@@ -1,3 +1,8 @@
+/**
+ * Feather `PhoneForwarded` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `PhoneForwarded` icon. */

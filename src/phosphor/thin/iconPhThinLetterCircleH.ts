@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `LetterCircleH` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `LetterCircleH` icon. */

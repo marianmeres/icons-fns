@@ -1,3 +1,8 @@
+/**
+ * Lucide `Popsicle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Popsicle` icon. */

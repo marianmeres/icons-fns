@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Wifi` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Wifi` icon. */

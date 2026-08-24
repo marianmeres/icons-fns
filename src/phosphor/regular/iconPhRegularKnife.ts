@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Knife` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Knife` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TreeStructure` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TreeStructure` icon. */

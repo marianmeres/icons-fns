@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `GreaterThan` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `GreaterThan` icon. */

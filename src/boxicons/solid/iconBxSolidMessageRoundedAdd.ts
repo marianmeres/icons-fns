@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `MessageRoundedAdd` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `MessageRoundedAdd` icon. */

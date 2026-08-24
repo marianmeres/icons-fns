@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Stack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Stack` icon. */

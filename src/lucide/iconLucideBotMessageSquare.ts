@@ -1,3 +1,8 @@
+/**
+ * Lucide `BotMessageSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `BotMessageSquare` icon. */

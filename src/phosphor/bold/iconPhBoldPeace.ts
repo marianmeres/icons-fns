@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Peace` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Peace` icon. */

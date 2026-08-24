@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ToiletPaper` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ToiletPaper` icon. */

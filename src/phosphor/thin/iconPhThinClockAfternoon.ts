@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ClockAfternoon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ClockAfternoon` icon. */

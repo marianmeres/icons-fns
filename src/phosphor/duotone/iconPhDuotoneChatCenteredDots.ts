@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ChatCenteredDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ChatCenteredDots` icon. */

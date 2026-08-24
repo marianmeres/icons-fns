@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Map` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Map` icon. */

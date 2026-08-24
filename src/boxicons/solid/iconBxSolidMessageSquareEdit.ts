@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `MessageSquareEdit` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `MessageSquareEdit` icon. */

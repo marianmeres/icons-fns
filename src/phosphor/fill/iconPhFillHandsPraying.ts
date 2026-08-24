@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `HandsPraying` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `HandsPraying` icon. */

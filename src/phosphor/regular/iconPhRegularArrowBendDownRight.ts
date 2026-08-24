@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `ArrowBendDownRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `ArrowBendDownRight` icon. */

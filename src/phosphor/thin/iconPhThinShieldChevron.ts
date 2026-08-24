@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ShieldChevron` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ShieldChevron` icon. */

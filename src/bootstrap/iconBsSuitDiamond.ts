@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SuitDiamond` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SuitDiamond` icon. */

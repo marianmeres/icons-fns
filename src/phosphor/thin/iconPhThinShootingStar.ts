@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ShootingStar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ShootingStar` icon. */

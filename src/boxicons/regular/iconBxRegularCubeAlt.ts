@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CubeAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CubeAlt` icon. */

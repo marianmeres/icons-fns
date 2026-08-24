@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CarMechanic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CarMechanic` icon. */

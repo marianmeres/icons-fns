@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CaretLineRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CaretLineRight` icon. */

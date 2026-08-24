@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Timer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Timer` icon. */

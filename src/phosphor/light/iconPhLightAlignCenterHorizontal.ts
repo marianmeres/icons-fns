@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `AlignCenterHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `AlignCenterHorizontal` icon. */

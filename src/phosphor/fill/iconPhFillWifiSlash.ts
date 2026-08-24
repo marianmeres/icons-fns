@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `WifiSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `WifiSlash` icon. */

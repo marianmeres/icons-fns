@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Gift` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Gift` icon. */

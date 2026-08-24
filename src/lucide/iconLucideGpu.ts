@@ -1,3 +1,8 @@
+/**
+ * Lucide `Gpu` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Gpu` icon. */

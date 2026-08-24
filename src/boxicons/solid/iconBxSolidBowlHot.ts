@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BowlHot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BowlHot` icon. */

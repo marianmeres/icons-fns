@@ -1,3 +1,8 @@
+/**
+ * Lucide `Gamepad2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Gamepad2` icon. */

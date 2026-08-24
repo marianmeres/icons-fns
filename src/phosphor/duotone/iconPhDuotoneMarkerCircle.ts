@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MarkerCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MarkerCircle` icon. */

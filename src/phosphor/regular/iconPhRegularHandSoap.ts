@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `HandSoap` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `HandSoap` icon. */

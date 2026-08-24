@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquareStack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquareStack` icon. */

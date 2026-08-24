@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Eyeglasses` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Eyeglasses` icon. */

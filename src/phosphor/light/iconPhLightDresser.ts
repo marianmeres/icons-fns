@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Dresser` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Dresser` icon. */

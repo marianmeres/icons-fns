@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `DocumentCurrencyDollar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `DocumentCurrencyDollar` icon. */

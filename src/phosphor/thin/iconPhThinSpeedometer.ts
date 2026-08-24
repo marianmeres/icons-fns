@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Speedometer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Speedometer` icon. */

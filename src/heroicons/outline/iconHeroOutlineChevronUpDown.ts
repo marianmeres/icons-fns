@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `ChevronUpDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `ChevronUpDown` icon. */

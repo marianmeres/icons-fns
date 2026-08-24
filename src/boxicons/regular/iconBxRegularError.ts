@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Error` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Error` icon. */

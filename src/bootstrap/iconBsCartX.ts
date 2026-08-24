@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CartX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CartX` icon. */

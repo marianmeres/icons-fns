@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `EggCrack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `EggCrack` icon. */

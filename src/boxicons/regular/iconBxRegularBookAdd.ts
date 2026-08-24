@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `BookAdd` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `BookAdd` icon. */

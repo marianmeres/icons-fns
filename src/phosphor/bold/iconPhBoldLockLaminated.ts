@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `LockLaminated` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `LockLaminated` icon. */

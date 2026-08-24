@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MusicNotes` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MusicNotes` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `BellAlert` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `BellAlert` icon. */

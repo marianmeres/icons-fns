@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `TrophyFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `TrophyFill` icon. */

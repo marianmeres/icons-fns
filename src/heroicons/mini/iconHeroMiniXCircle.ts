@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `XCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `XCircle` icon. */

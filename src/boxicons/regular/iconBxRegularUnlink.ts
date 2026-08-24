@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Unlink` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Unlink` icon. */

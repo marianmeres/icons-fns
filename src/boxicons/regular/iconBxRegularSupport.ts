@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Support` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Support` icon. */

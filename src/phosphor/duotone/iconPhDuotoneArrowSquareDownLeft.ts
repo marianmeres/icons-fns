@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ArrowSquareDownLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ArrowSquareDownLeft` icon. */

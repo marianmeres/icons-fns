@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Landscape` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Landscape` icon. */

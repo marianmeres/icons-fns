@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `NumberSquareEight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `NumberSquareEight` icon. */

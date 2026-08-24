@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MicrosoftTeamsLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MicrosoftTeamsLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SignNoRightTurnFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SignNoRightTurnFill` icon. */

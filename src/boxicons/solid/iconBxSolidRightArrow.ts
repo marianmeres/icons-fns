@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `RightArrow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `RightArrow` icon. */

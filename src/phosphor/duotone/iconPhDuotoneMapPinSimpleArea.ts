@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MapPinSimpleArea` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MapPinSimpleArea` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `ShipWheel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ShipWheel` icon. */

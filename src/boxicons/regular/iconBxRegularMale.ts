@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Male` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Male` icon. */

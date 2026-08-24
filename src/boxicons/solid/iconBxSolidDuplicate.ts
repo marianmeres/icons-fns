@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Duplicate` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Duplicate` icon. */

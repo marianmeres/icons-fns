@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CreditCard2FrontFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CreditCard2FrontFill` icon. */

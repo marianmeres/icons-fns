@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Pizza` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Pizza` icon. */

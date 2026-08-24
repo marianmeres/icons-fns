@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BoxArrowInUpLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BoxArrowInUpLeft` icon. */

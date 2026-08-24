@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `Rss` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `Rss` icon. */

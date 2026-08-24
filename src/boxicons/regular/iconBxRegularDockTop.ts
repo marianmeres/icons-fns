@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `DockTop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `DockTop` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Graph` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Graph` icon. */

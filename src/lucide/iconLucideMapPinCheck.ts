@@ -1,3 +1,8 @@
+/**
+ * Lucide `MapPinCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MapPinCheck` icon. */

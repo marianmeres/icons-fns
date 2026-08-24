@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Loader` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Loader` icon. */

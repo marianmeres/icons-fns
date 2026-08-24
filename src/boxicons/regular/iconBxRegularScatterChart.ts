@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ScatterChart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ScatterChart` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Bath` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Bath` icon. */

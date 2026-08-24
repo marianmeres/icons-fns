@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Vibrate` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Vibrate` icon. */

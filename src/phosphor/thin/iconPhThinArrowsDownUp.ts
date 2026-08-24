@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowsDownUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowsDownUp` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ComputerTower` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ComputerTower` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `ArrowsMerge` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `ArrowsMerge` icon. */

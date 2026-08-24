@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FastForwardCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FastForwardCircle` icon. */

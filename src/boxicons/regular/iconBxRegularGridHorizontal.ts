@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `GridHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `GridHorizontal` icon. */

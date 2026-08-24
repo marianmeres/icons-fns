@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CaretDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CaretDown` icon. */

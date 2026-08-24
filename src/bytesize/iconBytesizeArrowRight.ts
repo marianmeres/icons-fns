@@ -1,3 +1,8 @@
+/**
+ * Bytesize `ArrowRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `ArrowRight` icon. */

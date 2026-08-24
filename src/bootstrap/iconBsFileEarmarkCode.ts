@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileEarmarkCode` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileEarmarkCode` icon. */

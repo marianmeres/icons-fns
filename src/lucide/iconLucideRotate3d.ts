@@ -1,3 +1,8 @@
+/**
+ * Lucide `Rotate3d` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Rotate3d` icon. */

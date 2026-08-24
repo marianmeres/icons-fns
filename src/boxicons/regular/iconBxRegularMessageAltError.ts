@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `MessageAltError` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `MessageAltError` icon. */

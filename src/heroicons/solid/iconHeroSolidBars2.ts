@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Bars2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Bars2` icon. */

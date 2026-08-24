@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `QuestionMark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `QuestionMark` icon. */

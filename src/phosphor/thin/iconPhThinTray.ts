@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Tray` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Tray` icon. */

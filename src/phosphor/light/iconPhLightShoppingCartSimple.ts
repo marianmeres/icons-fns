@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ShoppingCartSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ShoppingCartSimple` icon. */

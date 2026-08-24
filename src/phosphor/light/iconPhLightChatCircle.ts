@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ChatCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ChatCircle` icon. */

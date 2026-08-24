@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ArrowSquareOut` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ArrowSquareOut` icon. */

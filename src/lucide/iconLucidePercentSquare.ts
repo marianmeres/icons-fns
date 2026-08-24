@@ -1,3 +1,8 @@
+/**
+ * Lucide `PercentSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `PercentSquare` icon. */

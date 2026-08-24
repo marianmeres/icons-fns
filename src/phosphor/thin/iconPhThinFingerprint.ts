@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Fingerprint` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Fingerprint` icon. */

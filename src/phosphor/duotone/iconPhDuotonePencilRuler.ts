@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `PencilRuler` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `PencilRuler` icon. */

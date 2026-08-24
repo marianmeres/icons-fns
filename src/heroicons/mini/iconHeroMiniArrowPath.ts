@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ArrowPath` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ArrowPath` icon. */

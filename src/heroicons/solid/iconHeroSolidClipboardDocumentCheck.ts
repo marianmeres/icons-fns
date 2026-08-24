@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `ClipboardDocumentCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `ClipboardDocumentCheck` icon. */

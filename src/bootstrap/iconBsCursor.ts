@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Cursor` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Cursor` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Shovel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Shovel` icon. */

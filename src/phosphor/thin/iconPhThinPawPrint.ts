@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PawPrint` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PawPrint` icon. */

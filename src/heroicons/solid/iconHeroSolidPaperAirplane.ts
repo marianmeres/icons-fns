@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `PaperAirplane` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `PaperAirplane` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `SingleQuoteRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `SingleQuoteRight` icon. */

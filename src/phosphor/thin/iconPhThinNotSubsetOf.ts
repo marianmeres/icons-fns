@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `NotSubsetOf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `NotSubsetOf` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Needle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Needle` icon. */

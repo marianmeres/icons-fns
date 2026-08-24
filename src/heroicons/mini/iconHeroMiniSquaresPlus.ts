@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `SquaresPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `SquaresPlus` icon. */

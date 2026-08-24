@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `SelectionPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `SelectionPlus` icon. */

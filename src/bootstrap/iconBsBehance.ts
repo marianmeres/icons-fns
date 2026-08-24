@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Behance` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Behance` icon. */

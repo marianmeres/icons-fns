@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `DiceTwo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `DiceTwo` icon. */

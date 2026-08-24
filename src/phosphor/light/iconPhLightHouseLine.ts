@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `HouseLine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `HouseLine` icon. */

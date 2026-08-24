@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `GitPullRequest` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `GitPullRequest` icon. */

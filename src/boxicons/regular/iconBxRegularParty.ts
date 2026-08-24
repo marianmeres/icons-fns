@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Party` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Party` icon. */

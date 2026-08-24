@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CaretCircleDoubleRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CaretCircleDoubleRight` icon. */

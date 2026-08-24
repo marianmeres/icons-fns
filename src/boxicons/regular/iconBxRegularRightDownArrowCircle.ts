@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `RightDownArrowCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `RightDownArrowCircle` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `PersonSimpleCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `PersonSimpleCircle` icon. */

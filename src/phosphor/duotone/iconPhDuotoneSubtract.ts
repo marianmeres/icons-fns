@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Subtract` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Subtract` icon. */

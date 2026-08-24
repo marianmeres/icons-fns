@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `TelegramLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `TelegramLogo` icon. */

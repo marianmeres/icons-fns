@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CloudX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CloudX` icon. */

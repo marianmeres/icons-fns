@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Cog8Tooth` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Cog8Tooth` icon. */

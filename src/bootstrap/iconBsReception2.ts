@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Reception2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Reception2` icon. */

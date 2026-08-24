@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `WinkSmile` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `WinkSmile` icon. */

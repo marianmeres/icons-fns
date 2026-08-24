@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `Filter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `Filter` icon. */

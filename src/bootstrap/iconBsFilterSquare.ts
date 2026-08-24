@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FilterSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FilterSquare` icon. */

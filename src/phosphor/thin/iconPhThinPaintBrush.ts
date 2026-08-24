@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PaintBrush` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PaintBrush` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `EggCrack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `EggCrack` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `Crown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Crown` icon. */

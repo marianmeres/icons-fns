@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `AmazonLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `AmazonLogo` icon. */

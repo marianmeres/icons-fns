@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `BoxArrowDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `BoxArrowDown` icon. */

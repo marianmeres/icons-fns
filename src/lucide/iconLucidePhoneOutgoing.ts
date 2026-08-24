@@ -1,3 +1,8 @@
+/**
+ * Lucide `PhoneOutgoing` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `PhoneOutgoing` icon. */

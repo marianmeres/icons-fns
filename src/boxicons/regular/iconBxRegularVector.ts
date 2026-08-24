@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Vector` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Vector` icon. */

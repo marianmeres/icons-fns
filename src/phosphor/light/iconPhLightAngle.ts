@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Angle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Angle` icon. */

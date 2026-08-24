@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Capsule` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Capsule` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `CloudLightning` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `CloudLightning` icon. */

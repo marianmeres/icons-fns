@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Cookie` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Cookie` icon. */

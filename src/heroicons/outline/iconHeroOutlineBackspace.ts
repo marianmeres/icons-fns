@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `Backspace` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `Backspace` icon. */

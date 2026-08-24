@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `HairDryer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `HairDryer` icon. */

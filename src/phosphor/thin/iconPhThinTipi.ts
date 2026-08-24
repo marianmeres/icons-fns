@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Tipi` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Tipi` icon. */

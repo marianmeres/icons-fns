@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `BabyCarriage` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `BabyCarriage` icon. */

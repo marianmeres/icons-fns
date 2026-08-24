@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `UmbrellaSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `UmbrellaSimple` icon. */

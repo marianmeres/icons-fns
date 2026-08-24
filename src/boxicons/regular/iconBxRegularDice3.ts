@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Dice3` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Dice3` icon. */

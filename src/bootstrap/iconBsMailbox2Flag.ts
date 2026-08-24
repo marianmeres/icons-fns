@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Mailbox2Flag` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Mailbox2Flag` icon. */

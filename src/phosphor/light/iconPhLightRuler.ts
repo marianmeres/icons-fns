@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Ruler` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Ruler` icon. */

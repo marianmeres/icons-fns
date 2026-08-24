@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Mountains` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Mountains` icon. */

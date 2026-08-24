@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TrademarkRegistered` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TrademarkRegistered` icon. */

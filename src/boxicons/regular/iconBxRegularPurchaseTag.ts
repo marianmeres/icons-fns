@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `PurchaseTag` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `PurchaseTag` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `PhoneCall` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `PhoneCall` icon. */

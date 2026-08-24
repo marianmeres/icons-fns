@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `TextIndent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `TextIndent` icon. */

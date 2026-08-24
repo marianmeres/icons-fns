@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Scan` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Scan` icon. */

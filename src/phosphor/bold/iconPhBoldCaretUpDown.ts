@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CaretUpDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CaretUpDown` icon. */

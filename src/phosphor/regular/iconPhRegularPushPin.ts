@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `PushPin` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `PushPin` icon. */

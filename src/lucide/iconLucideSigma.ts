@@ -1,3 +1,8 @@
+/**
+ * Lucide `Sigma` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Sigma` icon. */

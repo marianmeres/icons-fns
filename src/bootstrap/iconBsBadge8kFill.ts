@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Badge8kFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Badge8kFill` icon. */

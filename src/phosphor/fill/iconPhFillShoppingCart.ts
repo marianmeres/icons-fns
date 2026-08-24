@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ShoppingCart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ShoppingCart` icon. */

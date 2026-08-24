@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Washer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Washer` icon. */

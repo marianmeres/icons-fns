@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ArrowURightUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ArrowURightUp` icon. */

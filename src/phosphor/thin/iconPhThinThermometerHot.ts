@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ThermometerHot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ThermometerHot` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Command` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Command` icon. */

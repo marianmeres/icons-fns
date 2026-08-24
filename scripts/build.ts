@@ -186,9 +186,22 @@ interface GeneratedIcon {
 	helper: string;
 }
 
-/** Renders the module source for a resolved icon. */
+/**
+ * Renders the module source for a resolved icon.
+ *
+ * The leading module doc is not decoration: JSR records every entrypoint that
+ * lacks one in the published version's `meta`, and with ~19k undocumented
+ * entrypoints that field grew past Postgres' 8KB index row cap, wedging the
+ * publish forever (jsr-io/jsr#1505). It also feeds the "all entrypoints
+ * documented" component of the JSR score.
+ */
 function moduleSource(icon: GeneratedIcon): string {
-	return `import { icon, type IconFn } from "${icon.helper}";
+	return `/**
+ * ${icon.label} \`${icon.stem}\` icon.
+ *
+ * @module
+ */
+import { icon, type IconFn } from "${icon.helper}";
 
 /** ${icon.label} \`${icon.stem}\` icon. */
 export const ${icon.name}: IconFn = /* @__PURE__ */ icon(${icon.payload});

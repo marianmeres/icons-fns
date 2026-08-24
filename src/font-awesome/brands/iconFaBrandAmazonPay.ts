@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `AmazonPay` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `AmazonPay` icon. */

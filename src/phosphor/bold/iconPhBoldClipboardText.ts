@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ClipboardText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ClipboardText` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `Beaker` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Beaker` icon. */

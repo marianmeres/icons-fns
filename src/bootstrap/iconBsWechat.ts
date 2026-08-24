@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Wechat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Wechat` icon. */

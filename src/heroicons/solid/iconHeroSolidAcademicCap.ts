@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `AcademicCap` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `AcademicCap` icon. */

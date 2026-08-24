@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Snowflake` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Snowflake` icon. */

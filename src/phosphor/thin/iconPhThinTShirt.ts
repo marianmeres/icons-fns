@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TShirt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TShirt` icon. */

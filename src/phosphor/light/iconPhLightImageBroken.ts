@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ImageBroken` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ImageBroken` icon. */

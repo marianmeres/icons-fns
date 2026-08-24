@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `ArrowFatLinesRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `ArrowFatLinesRight` icon. */

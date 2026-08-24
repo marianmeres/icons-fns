@@ -1,3 +1,8 @@
+/**
+ * Lucide `Undo2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Undo2` icon. */

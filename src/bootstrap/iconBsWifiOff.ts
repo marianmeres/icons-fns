@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `WifiOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `WifiOff` icon. */

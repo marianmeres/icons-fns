@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Vault` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Vault` icon. */

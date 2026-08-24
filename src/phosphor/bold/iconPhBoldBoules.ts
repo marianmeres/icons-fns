@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Boules` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Boules` icon. */

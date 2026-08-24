@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SecurityCamera` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SecurityCamera` icon. */

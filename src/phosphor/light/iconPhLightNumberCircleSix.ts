@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `NumberCircleSix` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `NumberCircleSix` icon. */

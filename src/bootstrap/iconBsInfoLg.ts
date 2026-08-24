@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `InfoLg` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `InfoLg` icon. */

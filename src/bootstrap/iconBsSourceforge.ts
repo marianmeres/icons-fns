@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Sourceforge` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Sourceforge` icon. */

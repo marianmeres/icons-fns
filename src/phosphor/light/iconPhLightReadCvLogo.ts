@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ReadCvLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ReadCvLogo` icon. */

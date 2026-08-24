@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CaretDownSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CaretDownSquare` icon. */

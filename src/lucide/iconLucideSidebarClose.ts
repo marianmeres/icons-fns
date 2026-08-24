@@ -1,3 +1,8 @@
+/**
+ * Lucide `SidebarClose` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SidebarClose` icon. */

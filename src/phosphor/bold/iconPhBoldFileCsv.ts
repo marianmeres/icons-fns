@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FileCsv` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FileCsv` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `Delete` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Delete` icon. */

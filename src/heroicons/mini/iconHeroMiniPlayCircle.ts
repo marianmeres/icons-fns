@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `PlayCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `PlayCircle` icon. */

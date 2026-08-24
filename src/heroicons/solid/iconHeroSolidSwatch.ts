@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Swatch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Swatch` icon. */

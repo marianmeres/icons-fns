@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Playlist` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Playlist` icon. */

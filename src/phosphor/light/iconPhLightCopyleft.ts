@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Copyleft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Copyleft` icon. */

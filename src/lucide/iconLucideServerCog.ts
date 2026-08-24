@@ -1,3 +1,8 @@
+/**
+ * Lucide `ServerCog` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ServerCog` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `TextIndentLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `TextIndentLeft` icon. */

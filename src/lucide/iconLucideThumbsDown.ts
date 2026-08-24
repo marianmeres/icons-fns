@@ -1,3 +1,8 @@
+/**
+ * Lucide `ThumbsDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ThumbsDown` icon. */

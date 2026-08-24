@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `RadioButton` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `RadioButton` icon. */

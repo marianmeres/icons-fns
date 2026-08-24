@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Rows` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Rows` icon. */

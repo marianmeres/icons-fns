@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `MessageDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `MessageDots` icon. */

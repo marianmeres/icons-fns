@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `RedditLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `RedditLogo` icon. */

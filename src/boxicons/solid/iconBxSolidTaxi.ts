@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Taxi` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Taxi` icon. */

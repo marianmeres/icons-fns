@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Bathtub` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Bathtub` icon. */

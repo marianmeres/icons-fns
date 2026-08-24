@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PersonVideo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PersonVideo` icon. */

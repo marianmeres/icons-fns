@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Paste` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Paste` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CrownSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CrownSimple` icon. */

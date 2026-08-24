@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `KeyReturn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `KeyReturn` icon. */

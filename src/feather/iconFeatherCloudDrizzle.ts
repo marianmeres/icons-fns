@@ -1,3 +1,8 @@
+/**
+ * Feather `CloudDrizzle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `CloudDrizzle` icon. */

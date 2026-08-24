@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `DocumentArrowUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `DocumentArrowUp` icon. */

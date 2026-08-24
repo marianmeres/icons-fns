@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `N` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `N` icon. */

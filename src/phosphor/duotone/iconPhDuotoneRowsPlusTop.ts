@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `RowsPlusTop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `RowsPlusTop` icon. */

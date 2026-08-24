@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Bathtub` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Bathtub` icon. */

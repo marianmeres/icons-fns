@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Paperclip` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Paperclip` icon. */

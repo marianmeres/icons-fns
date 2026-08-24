@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `NotionLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `NotionLogo` icon. */

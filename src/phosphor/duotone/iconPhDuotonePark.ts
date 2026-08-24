@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Park` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Park` icon. */

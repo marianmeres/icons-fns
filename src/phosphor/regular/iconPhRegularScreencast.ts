@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Screencast` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Screencast` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Lasso` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Lasso` icon. */

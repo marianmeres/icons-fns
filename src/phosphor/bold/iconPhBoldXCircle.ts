@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `XCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `XCircle` icon. */

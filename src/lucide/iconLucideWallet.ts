@@ -1,3 +1,8 @@
+/**
+ * Lucide `Wallet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Wallet` icon. */

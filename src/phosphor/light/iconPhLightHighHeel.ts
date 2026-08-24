@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `HighHeel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `HighHeel` icon. */

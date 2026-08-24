@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Happy` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Happy` icon. */

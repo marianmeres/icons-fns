@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Hexagon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Hexagon` icon. */

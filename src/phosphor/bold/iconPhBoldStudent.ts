@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Student` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Student` icon. */

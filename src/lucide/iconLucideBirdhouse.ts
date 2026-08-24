@@ -1,3 +1,8 @@
+/**
+ * Lucide `Birdhouse` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Birdhouse` icon. */

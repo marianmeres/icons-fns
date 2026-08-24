@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Twitter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Twitter` icon. */

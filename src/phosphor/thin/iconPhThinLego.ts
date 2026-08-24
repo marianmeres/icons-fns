@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Lego` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Lego` icon. */

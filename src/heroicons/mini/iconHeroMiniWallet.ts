@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Wallet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Wallet` icon. */

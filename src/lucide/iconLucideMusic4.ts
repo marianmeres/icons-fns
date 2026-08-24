@@ -1,3 +1,8 @@
+/**
+ * Lucide `Music4` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Music4` icon. */

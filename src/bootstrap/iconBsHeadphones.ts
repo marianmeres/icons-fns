@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Headphones` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Headphones` icon. */

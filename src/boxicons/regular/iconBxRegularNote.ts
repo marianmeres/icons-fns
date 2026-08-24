@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Note` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Note` icon. */

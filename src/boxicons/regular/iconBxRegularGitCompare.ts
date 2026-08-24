@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `GitCompare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `GitCompare` icon. */

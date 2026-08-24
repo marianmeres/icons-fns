@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Binary` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Binary` icon. */

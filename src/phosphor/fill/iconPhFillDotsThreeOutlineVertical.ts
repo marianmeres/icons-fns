@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `DotsThreeOutlineVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `DotsThreeOutlineVertical` icon. */

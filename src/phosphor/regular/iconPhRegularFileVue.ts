@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FileVue` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FileVue` icon. */

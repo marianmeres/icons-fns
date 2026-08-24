@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Strategy` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Strategy` icon. */

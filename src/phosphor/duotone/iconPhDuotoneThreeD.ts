@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ThreeD` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ThreeD` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Subtitles` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Subtitles` icon. */

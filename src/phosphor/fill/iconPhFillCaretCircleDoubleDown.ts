@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CaretCircleDoubleDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CaretCircleDoubleDown` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Bridge` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Bridge` icon. */

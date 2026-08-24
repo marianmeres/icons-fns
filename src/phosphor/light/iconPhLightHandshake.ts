@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Handshake` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Handshake` icon. */

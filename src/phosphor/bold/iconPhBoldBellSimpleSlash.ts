@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `BellSimpleSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `BellSimpleSlash` icon. */

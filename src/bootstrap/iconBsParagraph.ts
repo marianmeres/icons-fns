@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Paragraph` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Paragraph` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `EmojiHeartEyes` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `EmojiHeartEyes` icon. */

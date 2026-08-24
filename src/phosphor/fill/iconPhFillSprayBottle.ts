@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `SprayBottle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `SprayBottle` icon. */

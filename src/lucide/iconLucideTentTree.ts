@@ -1,3 +1,8 @@
+/**
+ * Lucide `TentTree` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `TentTree` icon. */

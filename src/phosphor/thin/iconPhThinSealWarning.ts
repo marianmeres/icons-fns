@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SealWarning` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SealWarning` icon. */

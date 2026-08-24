@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `BracketsCurly` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `BracketsCurly` icon. */

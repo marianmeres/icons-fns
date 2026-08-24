@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ColumnsPlusRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ColumnsPlusRight` icon. */

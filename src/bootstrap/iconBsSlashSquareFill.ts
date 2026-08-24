@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SlashSquareFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SlashSquareFill` icon. */

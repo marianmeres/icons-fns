@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `NotePencil` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `NotePencil` icon. */

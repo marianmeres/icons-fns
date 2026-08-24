@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ScanSmiley` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ScanSmiley` icon. */

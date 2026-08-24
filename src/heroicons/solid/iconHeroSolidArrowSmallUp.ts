@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `ArrowSmallUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `ArrowSmallUp` icon. */

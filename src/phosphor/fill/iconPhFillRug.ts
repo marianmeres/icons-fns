@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Rug` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Rug` icon. */

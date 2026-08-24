@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MonitorPlay` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MonitorPlay` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `FileImage` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FileImage` icon. */

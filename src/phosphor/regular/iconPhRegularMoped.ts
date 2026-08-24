@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Moped` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Moped` icon. */

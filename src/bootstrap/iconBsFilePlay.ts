@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FilePlay` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FilePlay` icon. */

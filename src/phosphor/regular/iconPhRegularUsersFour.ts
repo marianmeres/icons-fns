@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `UsersFour` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `UsersFour` icon. */

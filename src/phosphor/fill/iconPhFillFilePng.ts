@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `FilePng` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `FilePng` icon. */

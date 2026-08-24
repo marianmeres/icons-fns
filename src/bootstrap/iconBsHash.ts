@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Hash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Hash` icon. */

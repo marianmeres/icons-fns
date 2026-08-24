@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `UniteSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `UniteSquare` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `BracketsAngle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `BracketsAngle` icon. */

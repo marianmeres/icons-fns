@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Data` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Data` icon. */

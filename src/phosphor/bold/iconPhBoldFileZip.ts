@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FileZip` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FileZip` icon. */

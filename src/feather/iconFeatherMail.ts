@@ -1,3 +1,8 @@
+/**
+ * Feather `Mail` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Mail` icon. */

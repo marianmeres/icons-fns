@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ArrowTurnDownRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ArrowTurnDownRight` icon. */

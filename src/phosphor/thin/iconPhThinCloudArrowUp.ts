@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CloudArrowUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CloudArrowUp` icon. */

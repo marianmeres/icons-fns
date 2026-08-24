@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `LockKey` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `LockKey` icon. */

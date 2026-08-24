@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `SolarPanel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `SolarPanel` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Magnet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Magnet` icon. */

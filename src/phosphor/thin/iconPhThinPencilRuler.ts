@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PencilRuler` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PencilRuler` icon. */

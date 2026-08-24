@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `StandardDefinition` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `StandardDefinition` icon. */

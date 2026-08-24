@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CloudRain` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CloudRain` icon. */

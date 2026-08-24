@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Document` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Document` icon. */

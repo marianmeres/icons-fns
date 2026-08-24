@@ -1,3 +1,8 @@
+/**
+ * Lucide `SignpostBig` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SignpostBig` icon. */

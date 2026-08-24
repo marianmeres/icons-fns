@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowElbowDownLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowElbowDownLeft` icon. */

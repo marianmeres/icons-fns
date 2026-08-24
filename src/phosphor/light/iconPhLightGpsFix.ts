@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GpsFix` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GpsFix` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Martini` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Martini` icon. */

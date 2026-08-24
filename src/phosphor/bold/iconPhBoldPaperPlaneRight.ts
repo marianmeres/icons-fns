@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `PaperPlaneRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `PaperPlaneRight` icon. */

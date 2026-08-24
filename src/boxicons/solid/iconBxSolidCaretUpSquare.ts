@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CaretUpSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CaretUpSquare` icon. */

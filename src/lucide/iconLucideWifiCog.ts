@@ -1,3 +1,8 @@
+/**
+ * Lucide `WifiCog` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `WifiCog` icon. */

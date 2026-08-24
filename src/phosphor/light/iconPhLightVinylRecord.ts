@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `VinylRecord` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `VinylRecord` icon. */

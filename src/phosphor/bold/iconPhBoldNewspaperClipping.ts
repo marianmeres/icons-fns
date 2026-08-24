@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `NewspaperClipping` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `NewspaperClipping` icon. */

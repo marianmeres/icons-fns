@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ArrowsInCardinal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ArrowsInCardinal` icon. */

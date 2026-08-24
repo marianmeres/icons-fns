@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `LockLaminated` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `LockLaminated` icon. */

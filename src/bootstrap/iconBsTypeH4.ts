@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `TypeH4` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `TypeH4` icon. */

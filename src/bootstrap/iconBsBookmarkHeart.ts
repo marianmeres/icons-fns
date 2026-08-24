@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BookmarkHeart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BookmarkHeart` icon. */

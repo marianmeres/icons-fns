@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Droplet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Droplet` icon. */

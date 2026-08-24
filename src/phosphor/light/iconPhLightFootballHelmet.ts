@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FootballHelmet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FootballHelmet` icon. */

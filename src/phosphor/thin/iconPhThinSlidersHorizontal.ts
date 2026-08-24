@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SlidersHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SlidersHorizontal` icon. */

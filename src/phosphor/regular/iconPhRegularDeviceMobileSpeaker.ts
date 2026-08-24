@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `DeviceMobileSpeaker` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `DeviceMobileSpeaker` icon. */

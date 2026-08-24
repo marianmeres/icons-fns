@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Square3Stack3d` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Square3Stack3d` icon. */

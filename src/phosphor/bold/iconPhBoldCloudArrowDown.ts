@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CloudArrowDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CloudArrowDown` icon. */

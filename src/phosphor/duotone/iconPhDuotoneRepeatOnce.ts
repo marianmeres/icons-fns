@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `RepeatOnce` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `RepeatOnce` icon. */

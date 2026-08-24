@@ -1,3 +1,8 @@
+/**
+ * Feather `Mic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Mic` icon. */

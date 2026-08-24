@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `GraduationCap` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `GraduationCap` icon. */

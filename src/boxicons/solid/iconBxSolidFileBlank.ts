@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `FileBlank` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `FileBlank` icon. */

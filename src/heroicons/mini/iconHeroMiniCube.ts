@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Cube` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Cube` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Feather `DivideCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `DivideCircle` icon. */

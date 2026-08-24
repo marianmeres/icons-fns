@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Checks` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Checks` icon. */

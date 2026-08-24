@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `TiktokLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `TiktokLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FloppyDiskBack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FloppyDiskBack` icon. */

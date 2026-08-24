@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `GpsSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `GpsSlash` icon. */

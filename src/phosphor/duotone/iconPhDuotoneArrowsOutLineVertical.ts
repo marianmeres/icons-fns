@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ArrowsOutLineVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ArrowsOutLineVertical` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FireTruck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FireTruck` icon. */

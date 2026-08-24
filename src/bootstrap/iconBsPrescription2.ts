@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Prescription2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Prescription2` icon. */

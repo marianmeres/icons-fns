@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `LockClosed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `LockClosed` icon. */

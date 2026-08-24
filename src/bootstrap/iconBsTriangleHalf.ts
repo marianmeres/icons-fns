@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `TriangleHalf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `TriangleHalf` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Mouse2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Mouse2` icon. */

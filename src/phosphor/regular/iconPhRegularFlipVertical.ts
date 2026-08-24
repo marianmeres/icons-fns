@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FlipVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FlipVertical` icon. */

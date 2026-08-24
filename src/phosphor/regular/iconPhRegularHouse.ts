@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `House` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `House` icon. */

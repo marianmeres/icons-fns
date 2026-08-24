@@ -1,3 +1,8 @@
+/**
+ * Lucide `Sparkles` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Sparkles` icon. */

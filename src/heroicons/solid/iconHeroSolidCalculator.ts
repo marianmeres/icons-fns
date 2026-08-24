@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Calculator` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Calculator` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `TrolleySuitcase` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `TrolleySuitcase` icon. */

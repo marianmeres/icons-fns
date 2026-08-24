@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SkipStartBtnFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SkipStartBtnFill` icon. */

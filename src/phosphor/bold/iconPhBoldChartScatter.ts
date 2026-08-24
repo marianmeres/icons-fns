@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ChartScatter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ChartScatter` icon. */

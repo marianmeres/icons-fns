@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Resize` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Resize` icon. */

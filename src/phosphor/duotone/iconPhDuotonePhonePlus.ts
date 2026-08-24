@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `PhonePlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `PhonePlus` icon. */

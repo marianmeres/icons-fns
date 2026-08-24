@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ScanSmiley` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ScanSmiley` icon. */

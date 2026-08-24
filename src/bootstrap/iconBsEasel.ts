@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Easel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Easel` icon. */

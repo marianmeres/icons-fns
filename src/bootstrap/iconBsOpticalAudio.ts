@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `OpticalAudio` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `OpticalAudio` icon. */

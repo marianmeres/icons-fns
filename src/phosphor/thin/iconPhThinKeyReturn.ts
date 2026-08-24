@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `KeyReturn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `KeyReturn` icon. */

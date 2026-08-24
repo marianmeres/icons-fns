@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SpeakerLow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SpeakerLow` icon. */

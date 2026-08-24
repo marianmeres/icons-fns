@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `DropHalfBottom` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `DropHalfBottom` icon. */

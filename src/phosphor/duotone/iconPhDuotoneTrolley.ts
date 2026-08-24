@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Trolley` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Trolley` icon. */

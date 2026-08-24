@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `LinkSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `LinkSimple` icon. */

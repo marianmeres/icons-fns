@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Backpack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Backpack` icon. */

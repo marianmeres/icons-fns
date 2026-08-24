@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `PhoneIncoming` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `PhoneIncoming` icon. */

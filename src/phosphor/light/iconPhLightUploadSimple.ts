@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `UploadSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `UploadSimple` icon. */

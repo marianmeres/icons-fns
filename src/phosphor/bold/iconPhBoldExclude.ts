@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Exclude` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Exclude` icon. */

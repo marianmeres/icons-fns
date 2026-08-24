@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FunnelSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FunnelSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Avocado` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Avocado` icon. */

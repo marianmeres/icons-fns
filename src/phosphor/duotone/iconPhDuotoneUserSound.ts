@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `UserSound` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `UserSound` icon. */

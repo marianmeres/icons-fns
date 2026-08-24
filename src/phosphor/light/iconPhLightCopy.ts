@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Copy` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Copy` icon. */

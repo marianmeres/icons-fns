@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `PuzzlePiece` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `PuzzlePiece` icon. */

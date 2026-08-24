@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `Battery100` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `Battery100` icon. */

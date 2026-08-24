@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `LastfmLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `LastfmLogo` icon. */

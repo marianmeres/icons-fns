@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `CloudRain` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `CloudRain` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Wall` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Wall` icon. */

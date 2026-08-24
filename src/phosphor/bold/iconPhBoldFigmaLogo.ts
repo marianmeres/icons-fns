@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FigmaLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FigmaLogo` icon. */

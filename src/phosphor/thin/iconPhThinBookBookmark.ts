@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `BookBookmark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `BookBookmark` icon. */

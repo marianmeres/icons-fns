@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Line` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Line` icon. */

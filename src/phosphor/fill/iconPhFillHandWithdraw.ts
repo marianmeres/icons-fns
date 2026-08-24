@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `HandWithdraw` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `HandWithdraw` icon. */

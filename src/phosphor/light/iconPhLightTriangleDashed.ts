@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `TriangleDashed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `TriangleDashed` icon. */

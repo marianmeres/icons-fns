@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Box2Heart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Box2Heart` icon. */

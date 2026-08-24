@@ -1,3 +1,8 @@
+/**
+ * Lucide `Headset` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Headset` icon. */

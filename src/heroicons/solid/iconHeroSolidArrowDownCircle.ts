@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `ArrowDownCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `ArrowDownCircle` icon. */

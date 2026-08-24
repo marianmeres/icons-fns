@@ -1,3 +1,8 @@
+/**
+ * Lucide `Tickets` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Tickets` icon. */

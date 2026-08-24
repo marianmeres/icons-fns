@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Factory` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Factory` icon. */

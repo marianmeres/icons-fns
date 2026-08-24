@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `InfoSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `InfoSquare` icon. */

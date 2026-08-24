@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CalendarStar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CalendarStar` icon. */

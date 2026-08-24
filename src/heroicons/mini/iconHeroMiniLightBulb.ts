@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `LightBulb` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `LightBulb` icon. */

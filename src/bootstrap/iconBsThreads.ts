@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Threads` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Threads` icon. */

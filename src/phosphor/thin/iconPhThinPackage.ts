@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Package` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Package` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Bathtub` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Bathtub` icon. */

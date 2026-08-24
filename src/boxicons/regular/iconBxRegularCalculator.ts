@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Calculator` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Calculator` icon. */

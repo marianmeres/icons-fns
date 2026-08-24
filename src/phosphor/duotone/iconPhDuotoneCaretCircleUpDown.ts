@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `CaretCircleUpDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `CaretCircleUpDown` icon. */

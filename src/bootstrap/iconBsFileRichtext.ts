@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileRichtext` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileRichtext` icon. */

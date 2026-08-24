@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Virus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Virus` icon. */

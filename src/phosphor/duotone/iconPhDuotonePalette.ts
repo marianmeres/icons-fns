@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Palette` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Palette` icon. */

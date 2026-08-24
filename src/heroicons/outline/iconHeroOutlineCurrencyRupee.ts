@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `CurrencyRupee` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `CurrencyRupee` icon. */

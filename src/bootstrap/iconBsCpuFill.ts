@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CpuFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CpuFill` icon. */

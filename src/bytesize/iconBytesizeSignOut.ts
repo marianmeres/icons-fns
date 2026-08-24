@@ -1,3 +1,8 @@
+/**
+ * Bytesize `SignOut` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `SignOut` icon. */

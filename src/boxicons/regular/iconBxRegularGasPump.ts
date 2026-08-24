@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `GasPump` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `GasPump` icon. */

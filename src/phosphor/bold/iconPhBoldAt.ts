@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `At` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `At` icon. */

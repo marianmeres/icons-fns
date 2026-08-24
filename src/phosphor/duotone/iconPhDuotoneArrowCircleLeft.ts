@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ArrowCircleLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ArrowCircleLeft` icon. */

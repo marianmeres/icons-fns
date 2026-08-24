@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ChartPolar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ChartPolar` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `UserKey` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `UserKey` icon. */

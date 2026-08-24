@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `MessageMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `MessageMinus` icon. */

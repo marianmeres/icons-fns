@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CircleQuarter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CircleQuarter` icon. */

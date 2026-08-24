@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `World` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `World` icon. */

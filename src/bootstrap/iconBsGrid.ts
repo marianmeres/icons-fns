@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Grid` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Grid` icon. */

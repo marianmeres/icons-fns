@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Brandy` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Brandy` icon. */

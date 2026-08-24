@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ChatBubbleOvalLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ChatBubbleOvalLeft` icon. */

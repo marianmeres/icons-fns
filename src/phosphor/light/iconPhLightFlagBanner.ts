@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FlagBanner` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FlagBanner` icon. */

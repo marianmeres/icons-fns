@@ -1,3 +1,8 @@
+/**
+ * Lucide `Volleyball` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Volleyball` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ShieldPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ShieldPlus` icon. */

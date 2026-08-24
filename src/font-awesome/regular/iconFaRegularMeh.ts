@@ -1,3 +1,8 @@
+/**
+ * Font Awesome regular `Meh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome regular `Meh` icon. */

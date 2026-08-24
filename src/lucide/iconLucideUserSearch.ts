@@ -1,3 +1,8 @@
+/**
+ * Lucide `UserSearch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `UserSearch` icon. */

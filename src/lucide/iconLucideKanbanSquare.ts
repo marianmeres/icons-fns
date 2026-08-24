@@ -1,3 +1,8 @@
+/**
+ * Lucide `KanbanSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `KanbanSquare` icon. */

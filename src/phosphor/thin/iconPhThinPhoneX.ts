@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PhoneX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PhoneX` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `VideoPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `VideoPlus` icon. */

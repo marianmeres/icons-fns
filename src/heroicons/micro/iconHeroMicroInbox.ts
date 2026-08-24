@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `Inbox` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `Inbox` icon. */

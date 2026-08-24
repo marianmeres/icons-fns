@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `GitCommit` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `GitCommit` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Stamp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Stamp` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Seatbelt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Seatbelt` icon. */

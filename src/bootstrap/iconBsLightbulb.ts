@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Lightbulb` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Lightbulb` icon. */

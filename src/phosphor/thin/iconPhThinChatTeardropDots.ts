@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ChatTeardropDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ChatTeardropDots` icon. */

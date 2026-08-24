@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `MouseSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `MouseSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `Edit2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Edit2` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `FileCsv` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `FileCsv` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `BluetoothConnected` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `BluetoothConnected` icon. */

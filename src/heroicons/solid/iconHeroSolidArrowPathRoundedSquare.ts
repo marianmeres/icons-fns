@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `ArrowPathRoundedSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `ArrowPathRoundedSquare` icon. */

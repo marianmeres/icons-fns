@@ -1,3 +1,8 @@
+/**
+ * Lucide `CameraOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CameraOff` icon. */

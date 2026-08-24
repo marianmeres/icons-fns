@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `JarLabel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `JarLabel` icon. */

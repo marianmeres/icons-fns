@@ -1,3 +1,8 @@
+/**
+ * Lucide `PiSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `PiSquare` icon. */

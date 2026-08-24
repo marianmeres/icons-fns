@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ArchiveBoxXMark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ArchiveBoxXMark` icon. */

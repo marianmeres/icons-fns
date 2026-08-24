@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SketchLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SketchLogo` icon. */

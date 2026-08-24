@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CirclesFour` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CirclesFour` icon. */

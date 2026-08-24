@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PinMap` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PinMap` icon. */

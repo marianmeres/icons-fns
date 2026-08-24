@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `FileRs` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `FileRs` icon. */

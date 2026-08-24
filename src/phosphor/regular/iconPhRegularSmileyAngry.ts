@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SmileyAngry` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SmileyAngry` icon. */

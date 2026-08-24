@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Drop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Drop` icon. */

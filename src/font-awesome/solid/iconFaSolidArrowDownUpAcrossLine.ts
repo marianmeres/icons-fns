@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `ArrowDownUpAcrossLine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `ArrowDownUpAcrossLine` icon. */

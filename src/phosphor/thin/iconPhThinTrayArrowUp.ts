@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TrayArrowUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TrayArrowUp` icon. */

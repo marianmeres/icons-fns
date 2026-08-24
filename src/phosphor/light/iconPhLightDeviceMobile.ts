@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `DeviceMobile` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `DeviceMobile` icon. */

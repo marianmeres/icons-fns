@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MouseSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MouseSimple` icon. */

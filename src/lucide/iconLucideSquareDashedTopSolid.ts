@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquareDashedTopSolid` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquareDashedTopSolid` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `Pointer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Pointer` icon. */

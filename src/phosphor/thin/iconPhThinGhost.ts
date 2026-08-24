@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Ghost` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Ghost` icon. */

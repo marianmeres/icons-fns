@@ -1,3 +1,8 @@
+/**
+ * Lucide `Tablet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Tablet` icon. */

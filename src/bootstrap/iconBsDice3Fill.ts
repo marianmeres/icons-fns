@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Dice3Fill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Dice3Fill` icon. */

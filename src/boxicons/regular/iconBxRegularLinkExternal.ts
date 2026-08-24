@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `LinkExternal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `LinkExternal` icon. */

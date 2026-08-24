@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Alarm` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Alarm` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PenNibStraight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PenNibStraight` icon. */

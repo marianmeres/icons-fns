@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FileTsx` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FileTsx` icon. */

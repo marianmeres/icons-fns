@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `SortAscending` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `SortAscending` icon. */

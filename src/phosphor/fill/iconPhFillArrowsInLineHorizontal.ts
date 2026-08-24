@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ArrowsInLineHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ArrowsInLineHorizontal` icon. */

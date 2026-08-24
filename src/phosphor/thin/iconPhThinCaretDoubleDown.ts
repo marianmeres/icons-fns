@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CaretDoubleDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CaretDoubleDown` icon. */

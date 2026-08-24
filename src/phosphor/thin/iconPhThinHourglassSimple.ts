@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `HourglassSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `HourglassSimple` icon. */

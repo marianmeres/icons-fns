@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Brain` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Brain` icon. */

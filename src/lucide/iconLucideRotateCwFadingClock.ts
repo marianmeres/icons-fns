@@ -1,3 +1,8 @@
+/**
+ * Lucide `RotateCwFadingClock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `RotateCwFadingClock` icon. */

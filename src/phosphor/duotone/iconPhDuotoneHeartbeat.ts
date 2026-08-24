@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Heartbeat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Heartbeat` icon. */

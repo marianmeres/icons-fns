@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `SimCard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `SimCard` icon. */

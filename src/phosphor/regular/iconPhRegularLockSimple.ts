@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `LockSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `LockSimple` icon. */

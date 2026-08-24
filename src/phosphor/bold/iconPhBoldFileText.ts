@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FileText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FileText` icon. */

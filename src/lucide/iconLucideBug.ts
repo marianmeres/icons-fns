@@ -1,3 +1,8 @@
+/**
+ * Lucide `Bug` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Bug` icon. */

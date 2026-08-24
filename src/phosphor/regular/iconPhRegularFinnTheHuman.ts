@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FinnTheHuman` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FinnTheHuman` icon. */

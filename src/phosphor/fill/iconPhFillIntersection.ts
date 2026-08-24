@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Intersection` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Intersection` icon. */

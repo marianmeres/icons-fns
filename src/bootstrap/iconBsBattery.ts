@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Battery` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Battery` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `GeoAltFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `GeoAltFill` icon. */

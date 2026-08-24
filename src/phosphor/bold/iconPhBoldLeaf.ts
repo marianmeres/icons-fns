@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Leaf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Leaf` icon. */

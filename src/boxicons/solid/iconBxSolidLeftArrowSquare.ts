@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `LeftArrowSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `LeftArrowSquare` icon. */

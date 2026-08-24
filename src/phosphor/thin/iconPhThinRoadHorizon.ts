@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `RoadHorizon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `RoadHorizon` icon. */

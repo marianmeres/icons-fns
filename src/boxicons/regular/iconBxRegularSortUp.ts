@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `SortUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `SortUp` icon. */

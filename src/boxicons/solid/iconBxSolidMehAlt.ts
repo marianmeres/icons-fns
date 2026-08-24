@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `MehAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `MehAlt` icon. */

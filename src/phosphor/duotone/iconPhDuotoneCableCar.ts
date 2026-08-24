@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `CableCar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `CableCar` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Shower` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Shower` icon. */

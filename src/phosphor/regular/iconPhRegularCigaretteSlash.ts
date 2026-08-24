@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `CigaretteSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `CigaretteSlash` icon. */

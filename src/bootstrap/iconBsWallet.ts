@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Wallet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Wallet` icon. */

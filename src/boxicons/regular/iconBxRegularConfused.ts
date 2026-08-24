@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Confused` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Confused` icon. */

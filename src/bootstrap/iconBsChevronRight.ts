@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ChevronRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ChevronRight` icon. */

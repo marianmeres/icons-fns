@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Gift` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Gift` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CaretCircleDoubleLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CaretCircleDoubleLeft` icon. */

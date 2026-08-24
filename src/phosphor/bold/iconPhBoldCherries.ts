@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Cherries` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Cherries` icon. */

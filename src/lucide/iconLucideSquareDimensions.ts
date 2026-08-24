@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquareDimensions` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquareDimensions` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `CirclePlay` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CirclePlay` icon. */

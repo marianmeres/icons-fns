@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `StarHalf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `StarHalf` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `BadgeX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `BadgeX` icon. */

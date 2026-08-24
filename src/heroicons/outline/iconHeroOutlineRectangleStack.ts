@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `RectangleStack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `RectangleStack` icon. */

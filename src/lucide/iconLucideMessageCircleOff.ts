@@ -1,3 +1,8 @@
+/**
+ * Lucide `MessageCircleOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MessageCircleOff` icon. */

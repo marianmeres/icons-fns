@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Spinner` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Spinner` icon. */

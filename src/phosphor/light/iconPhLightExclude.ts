@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Exclude` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Exclude` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `WarningOctagon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `WarningOctagon` icon. */

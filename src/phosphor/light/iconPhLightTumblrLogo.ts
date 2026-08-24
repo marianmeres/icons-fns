@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `TumblrLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `TumblrLogo` icon. */

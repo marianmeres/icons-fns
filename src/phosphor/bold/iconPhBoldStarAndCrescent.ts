@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `StarAndCrescent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `StarAndCrescent` icon. */

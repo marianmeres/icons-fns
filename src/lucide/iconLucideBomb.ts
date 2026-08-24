@@ -1,3 +1,8 @@
+/**
+ * Lucide `Bomb` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Bomb` icon. */

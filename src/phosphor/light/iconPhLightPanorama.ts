@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Panorama` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Panorama` icon. */

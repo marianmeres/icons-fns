@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `Swatch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `Swatch` icon. */

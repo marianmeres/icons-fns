@@ -1,3 +1,8 @@
+/**
+ * Feather `AlignCenter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `AlignCenter` icon. */

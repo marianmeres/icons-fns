@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `NetworkX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `NetworkX` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `GitBranch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `GitBranch` icon. */

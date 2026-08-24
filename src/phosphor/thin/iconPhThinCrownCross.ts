@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CrownCross` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CrownCross` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `PersonSimpleSwim` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `PersonSimpleSwim` icon. */

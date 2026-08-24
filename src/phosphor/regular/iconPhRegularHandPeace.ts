@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `HandPeace` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `HandPeace` icon. */

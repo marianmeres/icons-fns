@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Rewind` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Rewind` icon. */

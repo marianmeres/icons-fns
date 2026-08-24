@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FileSql` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FileSql` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `Spotlight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Spotlight` icon. */

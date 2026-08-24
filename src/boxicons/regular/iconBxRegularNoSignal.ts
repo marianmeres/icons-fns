@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `NoSignal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `NoSignal` icon. */

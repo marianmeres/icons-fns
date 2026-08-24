@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `SortAscending` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `SortAscending` icon. */

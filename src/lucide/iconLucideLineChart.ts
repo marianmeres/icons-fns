@@ -1,3 +1,8 @@
+/**
+ * Lucide `LineChart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `LineChart` icon. */

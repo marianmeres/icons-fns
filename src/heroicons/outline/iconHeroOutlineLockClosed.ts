@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `LockClosed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `LockClosed` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Fullscreen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Fullscreen` icon. */

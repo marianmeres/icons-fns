@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CaretLineUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CaretLineUp` icon. */

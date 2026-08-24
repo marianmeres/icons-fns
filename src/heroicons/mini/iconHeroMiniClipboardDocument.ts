@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ClipboardDocument` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ClipboardDocument` icon. */

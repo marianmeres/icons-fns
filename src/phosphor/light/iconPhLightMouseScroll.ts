@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MouseScroll` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MouseScroll` icon. */

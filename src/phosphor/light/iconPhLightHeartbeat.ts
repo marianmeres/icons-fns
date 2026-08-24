@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Heartbeat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Heartbeat` icon. */

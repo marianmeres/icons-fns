@@ -1,3 +1,8 @@
+/**
+ * Lucide `PanelLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `PanelLeft` icon. */

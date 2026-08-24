@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Cat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Cat` icon. */

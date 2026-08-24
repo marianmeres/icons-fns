@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PhoneSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PhoneSlash` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `DownArrowAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `DownArrowAlt` icon. */

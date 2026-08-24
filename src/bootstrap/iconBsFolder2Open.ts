@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Folder2Open` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Folder2Open` icon. */

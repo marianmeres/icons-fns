@@ -1,3 +1,8 @@
+/**
+ * Lucide `AlignVerticalJustifyCenter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `AlignVerticalJustifyCenter` icon. */

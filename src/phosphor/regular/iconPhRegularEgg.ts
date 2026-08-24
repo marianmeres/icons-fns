@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Egg` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Egg` icon. */

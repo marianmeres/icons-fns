@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `MusicalNote` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `MusicalNote` icon. */

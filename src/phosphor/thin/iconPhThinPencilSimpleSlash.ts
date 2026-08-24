@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PencilSimpleSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PencilSimpleSlash` icon. */

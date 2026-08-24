@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `EnvelopeArrowUpFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `EnvelopeArrowUpFill` icon. */

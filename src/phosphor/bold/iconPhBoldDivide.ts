@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Divide` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Divide` icon. */

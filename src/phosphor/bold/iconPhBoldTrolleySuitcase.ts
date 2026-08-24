@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `TrolleySuitcase` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `TrolleySuitcase` icon. */

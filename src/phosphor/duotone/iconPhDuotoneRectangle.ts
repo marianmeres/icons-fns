@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Rectangle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Rectangle` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PlugCharging` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PlugCharging` icon. */

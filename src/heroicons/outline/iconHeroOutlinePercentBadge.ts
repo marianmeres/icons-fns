@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `PercentBadge` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `PercentBadge` icon. */

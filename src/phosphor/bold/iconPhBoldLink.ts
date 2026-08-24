@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Link` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Link` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `HouseChimneyMedical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `HouseChimneyMedical` icon. */

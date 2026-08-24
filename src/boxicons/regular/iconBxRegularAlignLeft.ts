@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `AlignLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `AlignLeft` icon. */

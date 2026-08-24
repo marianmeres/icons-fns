@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ChatBubbleBottomCenter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ChatBubbleBottomCenter` icon. */

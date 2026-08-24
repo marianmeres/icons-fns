@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `BorderLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `BorderLeft` icon. */

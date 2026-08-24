@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FunnelSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FunnelSimple` icon. */

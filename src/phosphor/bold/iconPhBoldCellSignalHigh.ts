@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CellSignalHigh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CellSignalHigh` icon. */

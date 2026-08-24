@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `BuildingOffice` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `BuildingOffice` icon. */

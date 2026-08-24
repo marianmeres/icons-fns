@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Vignette` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Vignette` icon. */

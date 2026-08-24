@@ -1,3 +1,8 @@
+/**
+ * Font Awesome regular `PlayCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome regular `PlayCircle` icon. */

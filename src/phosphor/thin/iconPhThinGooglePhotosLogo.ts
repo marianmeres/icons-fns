@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `GooglePhotosLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `GooglePhotosLogo` icon. */

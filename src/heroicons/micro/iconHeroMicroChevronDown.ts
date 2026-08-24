@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `ChevronDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `ChevronDown` icon. */

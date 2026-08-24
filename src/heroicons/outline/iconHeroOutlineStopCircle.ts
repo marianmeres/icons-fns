@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `StopCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `StopCircle` icon. */

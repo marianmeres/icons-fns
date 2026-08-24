@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TreePalm` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TreePalm` icon. */

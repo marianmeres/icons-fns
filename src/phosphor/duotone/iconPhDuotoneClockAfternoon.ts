@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ClockAfternoon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ClockAfternoon` icon. */

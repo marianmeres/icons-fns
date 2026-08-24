@@ -1,3 +1,8 @@
+/**
+ * Lucide `ChartSpline` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ChartSpline` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `DockRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `DockRight` icon. */

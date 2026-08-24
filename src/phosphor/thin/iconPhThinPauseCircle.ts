@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PauseCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PauseCircle` icon. */

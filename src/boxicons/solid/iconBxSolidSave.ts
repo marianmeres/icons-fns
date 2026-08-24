@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Save` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Save` icon. */

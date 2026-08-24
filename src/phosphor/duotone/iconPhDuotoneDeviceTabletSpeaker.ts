@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `DeviceTabletSpeaker` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `DeviceTabletSpeaker` icon. */

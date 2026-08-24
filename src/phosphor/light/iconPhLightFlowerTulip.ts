@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FlowerTulip` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FlowerTulip` icon. */

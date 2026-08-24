@@ -1,3 +1,8 @@
+/**
+ * Feather `PhoneOutgoing` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `PhoneOutgoing` icon. */

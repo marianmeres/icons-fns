@@ -1,3 +1,8 @@
+/**
+ * Lucide `Sunset` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Sunset` icon. */

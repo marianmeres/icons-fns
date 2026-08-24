@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `BraveReverse` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `BraveReverse` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CashRegister` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CashRegister` icon. */

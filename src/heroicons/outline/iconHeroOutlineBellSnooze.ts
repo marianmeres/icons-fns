@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `BellSnooze` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `BellSnooze` icon. */

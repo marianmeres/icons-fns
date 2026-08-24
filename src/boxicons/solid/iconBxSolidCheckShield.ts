@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CheckShield` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CheckShield` icon. */

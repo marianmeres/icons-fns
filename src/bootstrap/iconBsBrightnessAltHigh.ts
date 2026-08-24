@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BrightnessAltHigh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BrightnessAltHigh` icon. */

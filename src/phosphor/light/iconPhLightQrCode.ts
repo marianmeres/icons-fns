@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `QrCode` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `QrCode` icon. */

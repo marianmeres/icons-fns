@@ -1,3 +1,8 @@
+/**
+ * Lucide `GitCommitHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `GitCommitHorizontal` icon. */

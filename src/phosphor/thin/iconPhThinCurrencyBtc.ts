@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CurrencyBtc` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CurrencyBtc` icon. */

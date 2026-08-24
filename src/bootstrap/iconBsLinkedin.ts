@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Linkedin` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Linkedin` icon. */

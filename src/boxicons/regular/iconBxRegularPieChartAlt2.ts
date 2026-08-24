@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `PieChartAlt2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `PieChartAlt2` icon. */

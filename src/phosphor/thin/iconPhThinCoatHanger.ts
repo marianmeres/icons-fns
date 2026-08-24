@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CoatHanger` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CoatHanger` icon. */

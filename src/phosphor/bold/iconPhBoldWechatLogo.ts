@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `WechatLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `WechatLogo` icon. */

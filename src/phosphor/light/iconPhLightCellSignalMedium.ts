@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CellSignalMedium` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CellSignalMedium` icon. */

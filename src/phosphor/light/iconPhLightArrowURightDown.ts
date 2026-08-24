@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ArrowURightDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ArrowURightDown` icon. */

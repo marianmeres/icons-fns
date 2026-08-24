@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `StandardDefinition` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `StandardDefinition` icon. */

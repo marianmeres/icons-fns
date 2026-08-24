@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `HandEye` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `HandEye` icon. */

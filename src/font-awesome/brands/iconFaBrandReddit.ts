@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `Reddit` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `Reddit` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Paint` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Paint` icon. */

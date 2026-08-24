@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Octagon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Octagon` icon. */

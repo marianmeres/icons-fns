@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Stopwatch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Stopwatch` icon. */

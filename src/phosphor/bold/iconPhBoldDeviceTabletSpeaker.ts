@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `DeviceTabletSpeaker` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `DeviceTabletSpeaker` icon. */

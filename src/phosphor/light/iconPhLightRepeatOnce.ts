@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `RepeatOnce` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `RepeatOnce` icon. */

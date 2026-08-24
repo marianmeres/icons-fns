@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Cube` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Cube` icon. */

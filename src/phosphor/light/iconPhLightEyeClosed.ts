@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `EyeClosed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `EyeClosed` icon. */

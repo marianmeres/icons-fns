@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `MicrosoftTeamsLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `MicrosoftTeamsLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Rocket` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Rocket` icon. */

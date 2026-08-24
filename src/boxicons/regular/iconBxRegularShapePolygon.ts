@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ShapePolygon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ShapePolygon` icon. */

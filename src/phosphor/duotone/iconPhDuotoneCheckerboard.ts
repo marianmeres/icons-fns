@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Checkerboard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Checkerboard` icon. */

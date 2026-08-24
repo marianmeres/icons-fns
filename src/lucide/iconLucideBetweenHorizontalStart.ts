@@ -1,3 +1,8 @@
+/**
+ * Lucide `BetweenHorizontalStart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `BetweenHorizontalStart` icon. */

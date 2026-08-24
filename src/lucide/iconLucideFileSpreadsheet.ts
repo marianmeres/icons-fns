@@ -1,3 +1,8 @@
+/**
+ * Lucide `FileSpreadsheet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FileSpreadsheet` icon. */

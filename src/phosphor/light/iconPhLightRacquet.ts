@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Racquet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Racquet` icon. */

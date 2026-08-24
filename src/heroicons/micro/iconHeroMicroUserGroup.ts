@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `UserGroup` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `UserGroup` icon. */

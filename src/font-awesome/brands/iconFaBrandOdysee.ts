@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `Odysee` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `Odysee` icon. */

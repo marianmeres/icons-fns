@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CalendarExclamation` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CalendarExclamation` icon. */

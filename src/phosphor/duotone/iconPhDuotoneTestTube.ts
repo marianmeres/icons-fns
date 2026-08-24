@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `TestTube` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `TestTube` icon. */

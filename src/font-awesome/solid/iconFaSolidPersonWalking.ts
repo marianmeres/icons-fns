@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `PersonWalking` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `PersonWalking` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CubeTransparent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CubeTransparent` icon. */

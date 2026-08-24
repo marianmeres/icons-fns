@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Video` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Video` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `ChartGantt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ChartGantt` icon. */

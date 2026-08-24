@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `SpeakerSimpleHigh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `SpeakerSimpleHigh` icon. */

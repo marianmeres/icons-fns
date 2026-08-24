@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Tornado` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Tornado` icon. */

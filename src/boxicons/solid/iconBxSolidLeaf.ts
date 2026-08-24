@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Leaf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Leaf` icon. */

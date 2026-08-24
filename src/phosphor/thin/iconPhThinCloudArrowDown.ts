@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CloudArrowDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CloudArrowDown` icon. */

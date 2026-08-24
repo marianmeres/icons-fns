@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `MarkdownLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `MarkdownLogo` icon. */

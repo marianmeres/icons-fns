@@ -1,3 +1,8 @@
+/**
+ * Lucide `AtSign` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `AtSign` icon. */

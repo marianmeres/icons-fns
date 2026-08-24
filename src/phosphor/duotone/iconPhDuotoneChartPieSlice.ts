@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ChartPieSlice` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ChartPieSlice` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ArrowUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ArrowUp` icon. */

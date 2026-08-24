@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Angry` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Angry` icon. */

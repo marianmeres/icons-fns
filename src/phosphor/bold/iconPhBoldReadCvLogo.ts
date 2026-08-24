@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ReadCvLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ReadCvLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Sidebar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Sidebar` icon. */

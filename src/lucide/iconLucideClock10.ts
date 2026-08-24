@@ -1,3 +1,8 @@
+/**
+ * Lucide `Clock10` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Clock10` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GlobeHemisphereEast` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GlobeHemisphereEast` icon. */

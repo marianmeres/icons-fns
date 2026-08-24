@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CaretCircleRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CaretCircleRight` icon. */

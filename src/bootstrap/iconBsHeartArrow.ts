@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `HeartArrow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `HeartArrow` icon. */

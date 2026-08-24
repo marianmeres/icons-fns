@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `TextAlignLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `TextAlignLeft` icon. */

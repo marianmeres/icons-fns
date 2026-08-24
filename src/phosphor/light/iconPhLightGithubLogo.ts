@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GithubLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GithubLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CircleFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CircleFill` icon. */

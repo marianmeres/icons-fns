@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileFontFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileFontFill` icon. */

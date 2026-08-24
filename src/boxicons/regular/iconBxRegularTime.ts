@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Time` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Time` icon. */

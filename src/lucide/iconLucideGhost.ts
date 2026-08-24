@@ -1,3 +1,8 @@
+/**
+ * Lucide `Ghost` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Ghost` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Lightning` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Lightning` icon. */

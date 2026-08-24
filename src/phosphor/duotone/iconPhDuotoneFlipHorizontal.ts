@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `FlipHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `FlipHorizontal` icon. */

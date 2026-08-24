@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Face` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Face` icon. */

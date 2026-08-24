@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Drone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Drone` icon. */

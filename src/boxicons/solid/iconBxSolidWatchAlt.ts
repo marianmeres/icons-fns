@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `WatchAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `WatchAlt` icon. */

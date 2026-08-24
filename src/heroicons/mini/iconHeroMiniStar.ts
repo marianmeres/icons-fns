@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Star` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Star` icon. */

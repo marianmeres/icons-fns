@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `UserCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `UserCheck` icon. */

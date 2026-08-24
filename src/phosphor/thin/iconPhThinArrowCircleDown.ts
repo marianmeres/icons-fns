@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowCircleDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowCircleDown` icon. */

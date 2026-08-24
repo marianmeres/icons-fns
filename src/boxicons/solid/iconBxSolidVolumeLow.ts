@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `VolumeLow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `VolumeLow` icon. */

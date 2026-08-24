@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `MagnifyingGlass` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `MagnifyingGlass` icon. */

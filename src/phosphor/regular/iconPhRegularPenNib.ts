@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `PenNib` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `PenNib` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `DocumentArrowUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `DocumentArrowUp` icon. */

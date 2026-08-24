@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `MagicWand` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `MagicWand` icon. */

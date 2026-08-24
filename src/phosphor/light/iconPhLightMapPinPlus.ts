@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MapPinPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MapPinPlus` icon. */

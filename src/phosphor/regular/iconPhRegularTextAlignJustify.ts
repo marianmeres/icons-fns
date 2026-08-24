@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `TextAlignJustify` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `TextAlignJustify` icon. */

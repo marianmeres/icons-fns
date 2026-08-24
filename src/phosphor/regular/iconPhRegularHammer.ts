@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Hammer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Hammer` icon. */

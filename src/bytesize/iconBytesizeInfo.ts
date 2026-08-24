@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Info` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Info` icon. */

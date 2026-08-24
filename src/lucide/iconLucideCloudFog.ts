@@ -1,3 +1,8 @@
+/**
+ * Lucide `CloudFog` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CloudFog` icon. */

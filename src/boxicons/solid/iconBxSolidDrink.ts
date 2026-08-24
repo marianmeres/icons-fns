@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Drink` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Drink` icon. */

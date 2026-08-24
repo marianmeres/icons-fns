@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Devices` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Devices` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Church` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Church` icon. */

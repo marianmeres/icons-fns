@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `MoneyBill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `MoneyBill` icon. */

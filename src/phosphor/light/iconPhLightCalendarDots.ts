@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CalendarDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CalendarDots` icon. */

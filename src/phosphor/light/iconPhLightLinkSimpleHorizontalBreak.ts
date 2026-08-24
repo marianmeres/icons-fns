@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `LinkSimpleHorizontalBreak` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `LinkSimpleHorizontalBreak` icon. */

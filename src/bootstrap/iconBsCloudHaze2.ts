@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CloudHaze2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CloudHaze2` icon. */

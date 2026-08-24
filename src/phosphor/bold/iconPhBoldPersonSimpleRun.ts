@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `PersonSimpleRun` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `PersonSimpleRun` icon. */

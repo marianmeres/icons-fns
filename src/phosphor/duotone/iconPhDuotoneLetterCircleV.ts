@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `LetterCircleV` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `LetterCircleV` icon. */

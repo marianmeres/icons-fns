@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `UsersThree` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `UsersThree` icon. */

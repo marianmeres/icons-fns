@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `TextAUnderline` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `TextAUnderline` icon. */

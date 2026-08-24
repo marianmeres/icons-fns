@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `FacebookLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `FacebookLogo` icon. */

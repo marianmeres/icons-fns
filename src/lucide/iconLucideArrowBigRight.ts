@@ -1,3 +1,8 @@
+/**
+ * Lucide `ArrowBigRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ArrowBigRight` icon. */

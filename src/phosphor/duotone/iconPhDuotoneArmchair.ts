@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Armchair` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Armchair` icon. */

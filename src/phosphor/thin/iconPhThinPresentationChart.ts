@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PresentationChart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PresentationChart` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Area` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Area` icon. */

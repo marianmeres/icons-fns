@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Tire` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Tire` icon. */

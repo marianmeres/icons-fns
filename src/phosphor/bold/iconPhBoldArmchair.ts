@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Armchair` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Armchair` icon. */

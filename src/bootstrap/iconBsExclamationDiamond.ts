@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ExclamationDiamond` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ExclamationDiamond` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ListPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ListPlus` icon. */

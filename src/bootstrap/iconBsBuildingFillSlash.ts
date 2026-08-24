@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BuildingFillSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BuildingFillSlash` icon. */

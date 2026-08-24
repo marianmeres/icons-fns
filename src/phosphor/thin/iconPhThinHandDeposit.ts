@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `HandDeposit` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `HandDeposit` icon. */

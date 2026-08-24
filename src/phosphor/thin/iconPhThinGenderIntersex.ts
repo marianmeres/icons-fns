@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `GenderIntersex` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `GenderIntersex` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FolderLock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FolderLock` icon. */

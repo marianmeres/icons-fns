@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FalloutShelter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FalloutShelter` icon. */

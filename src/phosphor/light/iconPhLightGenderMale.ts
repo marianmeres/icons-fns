@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GenderMale` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GenderMale` icon. */

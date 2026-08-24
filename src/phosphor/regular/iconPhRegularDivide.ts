@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Divide` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Divide` icon. */

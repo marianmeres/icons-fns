@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FiletypeYml` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FiletypeYml` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Certificate` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Certificate` icon. */

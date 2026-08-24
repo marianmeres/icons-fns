@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `MusicNotesPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `MusicNotesPlus` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `UserCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `UserCircle` icon. */

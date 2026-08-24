@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Sleepy` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Sleepy` icon. */

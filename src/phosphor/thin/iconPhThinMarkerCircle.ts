@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `MarkerCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `MarkerCircle` icon. */

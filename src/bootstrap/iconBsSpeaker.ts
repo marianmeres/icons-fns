@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Speaker` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Speaker` icon. */

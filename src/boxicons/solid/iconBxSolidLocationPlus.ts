@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `LocationPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `LocationPlus` icon. */

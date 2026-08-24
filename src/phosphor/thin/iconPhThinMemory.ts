@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Memory` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Memory` icon. */

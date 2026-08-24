@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `QuestionMark` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `QuestionMark` icon. */

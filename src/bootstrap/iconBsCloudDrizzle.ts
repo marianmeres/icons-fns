@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CloudDrizzle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CloudDrizzle` icon. */

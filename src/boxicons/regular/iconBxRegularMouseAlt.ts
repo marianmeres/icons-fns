@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `MouseAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `MouseAlt` icon. */

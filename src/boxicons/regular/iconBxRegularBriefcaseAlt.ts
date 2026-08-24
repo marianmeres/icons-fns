@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `BriefcaseAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `BriefcaseAlt` icon. */

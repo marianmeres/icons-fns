@@ -1,3 +1,8 @@
+/**
+ * Lucide `FileCode2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FileCode2` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `FastForwardCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `FastForwardCircle` icon. */

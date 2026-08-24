@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Minecart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Minecart` icon. */

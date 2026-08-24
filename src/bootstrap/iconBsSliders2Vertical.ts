@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Sliders2Vertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Sliders2Vertical` icon. */

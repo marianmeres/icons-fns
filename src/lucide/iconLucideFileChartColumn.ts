@@ -1,3 +1,8 @@
+/**
+ * Lucide `FileChartColumn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FileChartColumn` icon. */

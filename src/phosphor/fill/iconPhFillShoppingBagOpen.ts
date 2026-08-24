@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ShoppingBagOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ShoppingBagOpen` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `LineSegments` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `LineSegments` icon. */

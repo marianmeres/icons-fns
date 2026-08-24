@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Flower2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Flower2` icon. */

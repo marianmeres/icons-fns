@@ -1,3 +1,8 @@
+/**
+ * Lucide `MonitorCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MonitorCheck` icon. */

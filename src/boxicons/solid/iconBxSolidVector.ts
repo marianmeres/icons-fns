@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Vector` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Vector` icon. */

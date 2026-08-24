@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `Heart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `Heart` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `HardDriveDownload` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `HardDriveDownload` icon. */

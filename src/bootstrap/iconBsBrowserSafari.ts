@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BrowserSafari` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BrowserSafari` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TextTSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TextTSlash` icon. */

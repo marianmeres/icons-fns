@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PenFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PenFill` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `TrafficCone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `TrafficCone` icon. */

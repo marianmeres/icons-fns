@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Analyse` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Analyse` icon. */

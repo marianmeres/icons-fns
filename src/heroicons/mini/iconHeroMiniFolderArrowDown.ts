@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `FolderArrowDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `FolderArrowDown` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `AlphabetUppercase` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `AlphabetUppercase` icon. */

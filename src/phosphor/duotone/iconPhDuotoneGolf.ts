@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Golf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Golf` icon. */

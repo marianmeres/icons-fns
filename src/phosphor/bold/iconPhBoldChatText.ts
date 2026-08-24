@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ChatText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ChatText` icon. */

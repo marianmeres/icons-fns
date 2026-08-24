@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Paragraph` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Paragraph` icon. */

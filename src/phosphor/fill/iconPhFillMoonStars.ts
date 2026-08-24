@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `MoonStars` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `MoonStars` icon. */

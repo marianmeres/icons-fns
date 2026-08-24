@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BookReader` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BookReader` icon. */

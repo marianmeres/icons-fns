@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TrashSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TrashSimple` icon. */

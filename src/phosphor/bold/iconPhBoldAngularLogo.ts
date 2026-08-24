@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `AngularLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `AngularLogo` icon. */

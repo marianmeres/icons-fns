@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Spinner` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Spinner` icon. */

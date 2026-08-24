@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `BarChart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `BarChart` icon. */

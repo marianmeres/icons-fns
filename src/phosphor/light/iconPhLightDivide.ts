@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Divide` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Divide` icon. */

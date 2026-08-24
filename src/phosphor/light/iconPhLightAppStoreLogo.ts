@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `AppStoreLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `AppStoreLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `UserFocus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `UserFocus` icon. */

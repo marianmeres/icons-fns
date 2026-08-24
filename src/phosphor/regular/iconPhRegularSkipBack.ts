@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SkipBack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SkipBack` icon. */

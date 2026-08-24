@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `ArrowFatDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `ArrowFatDown` icon. */

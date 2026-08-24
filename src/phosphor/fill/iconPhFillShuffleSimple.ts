@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ShuffleSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ShuffleSimple` icon. */

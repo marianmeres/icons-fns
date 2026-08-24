@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ShieldChevron` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ShieldChevron` icon. */

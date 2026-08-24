@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CreditCard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CreditCard` icon. */

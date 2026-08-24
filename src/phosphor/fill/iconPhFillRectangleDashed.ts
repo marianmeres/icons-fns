@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `RectangleDashed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `RectangleDashed` icon. */

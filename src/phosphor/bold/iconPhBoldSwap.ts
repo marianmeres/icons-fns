@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Swap` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Swap` icon. */

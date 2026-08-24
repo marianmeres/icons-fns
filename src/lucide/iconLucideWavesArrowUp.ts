@@ -1,3 +1,8 @@
+/**
+ * Lucide `WavesArrowUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `WavesArrowUp` icon. */

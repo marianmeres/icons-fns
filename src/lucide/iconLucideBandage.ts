@@ -1,3 +1,8 @@
+/**
+ * Lucide `Bandage` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Bandage` icon. */

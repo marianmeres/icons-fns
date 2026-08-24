@@ -1,3 +1,8 @@
+/**
+ * Lucide `EthernetPort` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `EthernetPort` icon. */

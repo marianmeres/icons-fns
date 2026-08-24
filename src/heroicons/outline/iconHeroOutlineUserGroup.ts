@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `UserGroup` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `UserGroup` icon. */

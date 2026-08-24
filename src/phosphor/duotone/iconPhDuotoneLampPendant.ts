@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `LampPendant` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `LampPendant` icon. */

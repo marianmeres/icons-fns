@@ -1,3 +1,8 @@
+/**
+ * Lucide `ExternalLink` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ExternalLink` icon. */

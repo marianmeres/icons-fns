@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `MouseMiddleClick` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `MouseMiddleClick` icon. */

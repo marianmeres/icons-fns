@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PlusMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PlusMinus` icon. */

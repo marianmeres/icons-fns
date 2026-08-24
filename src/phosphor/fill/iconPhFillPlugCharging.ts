@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `PlugCharging` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `PlugCharging` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Camera` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Camera` icon. */

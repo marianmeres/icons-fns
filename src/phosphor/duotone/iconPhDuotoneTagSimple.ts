@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `TagSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `TagSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ArrowDownRightSquareFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ArrowDownRightSquareFill` icon. */

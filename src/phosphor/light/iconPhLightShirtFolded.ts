@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ShirtFolded` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ShirtFolded` icon. */

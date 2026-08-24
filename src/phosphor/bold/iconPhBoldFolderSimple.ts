@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FolderSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FolderSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Pipe` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Pipe` icon. */

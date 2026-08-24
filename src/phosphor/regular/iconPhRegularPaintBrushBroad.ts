@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `PaintBrushBroad` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `PaintBrushBroad` icon. */

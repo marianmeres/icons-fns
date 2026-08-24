@@ -1,3 +1,8 @@
+/**
+ * Lucide `ClockFading` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ClockFading` icon. */

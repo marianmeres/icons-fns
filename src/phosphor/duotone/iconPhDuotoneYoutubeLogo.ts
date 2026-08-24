@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `YoutubeLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `YoutubeLogo` icon. */

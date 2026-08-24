@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SquareLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SquareLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ThreadsLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ThreadsLogo` icon. */

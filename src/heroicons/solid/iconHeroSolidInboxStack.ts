@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `InboxStack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `InboxStack` icon. */

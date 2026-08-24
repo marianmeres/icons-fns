@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Tram` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Tram` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `BatteryVerticalLow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `BatteryVerticalLow` icon. */

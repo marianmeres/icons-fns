@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BadgeDollar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BadgeDollar` icon. */

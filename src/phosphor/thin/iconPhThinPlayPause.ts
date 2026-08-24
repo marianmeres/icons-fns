@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PlayPause` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PlayPause` icon. */

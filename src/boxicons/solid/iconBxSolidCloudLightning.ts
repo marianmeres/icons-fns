@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CloudLightning` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CloudLightning` icon. */

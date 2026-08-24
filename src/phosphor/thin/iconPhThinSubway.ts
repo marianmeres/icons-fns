@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Subway` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Subway` icon. */

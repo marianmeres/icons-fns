@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Chalkboard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Chalkboard` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `ExclamationCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `ExclamationCircle` icon. */

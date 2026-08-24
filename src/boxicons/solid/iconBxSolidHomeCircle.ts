@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `HomeCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `HomeCircle` icon. */

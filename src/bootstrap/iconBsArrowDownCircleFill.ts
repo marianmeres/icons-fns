@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ArrowDownCircleFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ArrowDownCircleFill` icon. */

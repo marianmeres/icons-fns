@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Snow2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Snow2` icon. */

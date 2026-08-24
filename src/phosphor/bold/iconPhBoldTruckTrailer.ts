@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `TruckTrailer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `TruckTrailer` icon. */

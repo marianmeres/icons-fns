@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Cow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Cow` icon. */

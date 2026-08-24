@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `HandPointing` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `HandPointing` icon. */

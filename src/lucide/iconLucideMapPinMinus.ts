@@ -1,3 +1,8 @@
+/**
+ * Lucide `MapPinMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MapPinMinus` icon. */

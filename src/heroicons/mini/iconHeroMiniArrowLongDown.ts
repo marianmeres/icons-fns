@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `ArrowLongDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `ArrowLongDown` icon. */

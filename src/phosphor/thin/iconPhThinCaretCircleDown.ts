@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CaretCircleDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CaretCircleDown` icon. */

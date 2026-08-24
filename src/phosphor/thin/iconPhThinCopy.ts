@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Copy` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Copy` icon. */

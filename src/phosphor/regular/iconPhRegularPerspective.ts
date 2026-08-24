@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Perspective` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Perspective` icon. */

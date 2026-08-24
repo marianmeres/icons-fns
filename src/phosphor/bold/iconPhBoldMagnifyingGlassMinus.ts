@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `MagnifyingGlassMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `MagnifyingGlassMinus` icon. */

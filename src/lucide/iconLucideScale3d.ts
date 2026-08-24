@@ -1,3 +1,8 @@
+/**
+ * Lucide `Scale3d` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Scale3d` icon. */

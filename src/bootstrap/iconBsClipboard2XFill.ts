@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Clipboard2XFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Clipboard2XFill` icon. */

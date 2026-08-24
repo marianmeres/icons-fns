@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `HandGrabbing` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `HandGrabbing` icon. */

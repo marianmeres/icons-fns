@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Browser` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Browser` icon. */

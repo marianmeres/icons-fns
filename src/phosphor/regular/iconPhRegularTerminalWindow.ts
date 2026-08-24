@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `TerminalWindow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `TerminalWindow` icon. */

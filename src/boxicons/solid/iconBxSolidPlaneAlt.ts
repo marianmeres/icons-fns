@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `PlaneAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `PlaneAlt` icon. */

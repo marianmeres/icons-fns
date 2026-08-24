@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Crane` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Crane` icon. */

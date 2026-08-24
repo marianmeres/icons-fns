@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `FloppyDisk` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `FloppyDisk` icon. */

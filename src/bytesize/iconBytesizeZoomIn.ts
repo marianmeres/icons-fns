@@ -1,3 +1,8 @@
+/**
+ * Bytesize `ZoomIn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `ZoomIn` icon. */

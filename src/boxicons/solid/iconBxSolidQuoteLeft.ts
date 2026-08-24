@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `QuoteLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `QuoteLeft` icon. */

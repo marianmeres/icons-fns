@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CalendarEvent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CalendarEvent` icon. */

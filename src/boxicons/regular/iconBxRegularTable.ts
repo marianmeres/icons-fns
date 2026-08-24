@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Table` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Table` icon. */

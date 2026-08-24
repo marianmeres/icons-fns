@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Hospital` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Hospital` icon. */

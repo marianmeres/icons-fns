@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CastleTurret` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CastleTurret` icon. */

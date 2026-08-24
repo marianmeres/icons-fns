@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MapTrifold` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MapTrifold` icon. */

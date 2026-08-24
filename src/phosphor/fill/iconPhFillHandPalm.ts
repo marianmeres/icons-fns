@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `HandPalm` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `HandPalm` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Calendar2EventFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Calendar2EventFill` icon. */

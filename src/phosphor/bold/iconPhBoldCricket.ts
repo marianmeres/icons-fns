@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Cricket` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Cricket` icon. */

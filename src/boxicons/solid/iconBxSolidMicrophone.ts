@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Microphone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Microphone` icon. */

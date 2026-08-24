@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MicrosoftWordLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MicrosoftWordLogo` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ChalkboardSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ChalkboardSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `SkipBackCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `SkipBackCircle` icon. */

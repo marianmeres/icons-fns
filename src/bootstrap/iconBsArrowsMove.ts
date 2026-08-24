@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ArrowsMove` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ArrowsMove` icon. */

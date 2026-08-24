@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Medal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Medal` icon. */

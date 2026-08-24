@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ArrowElbowRightDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ArrowElbowRightDown` icon. */

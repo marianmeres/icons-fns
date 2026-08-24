@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `EyeDropper` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `EyeDropper` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `NumberCircleEight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `NumberCircleEight` icon. */

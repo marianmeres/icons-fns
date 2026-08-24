@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `DotsThreeCircleVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `DotsThreeCircleVertical` icon. */

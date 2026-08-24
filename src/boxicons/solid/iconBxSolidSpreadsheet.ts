@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Spreadsheet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Spreadsheet` icon. */

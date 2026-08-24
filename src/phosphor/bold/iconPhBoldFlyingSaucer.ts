@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FlyingSaucer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FlyingSaucer` icon. */

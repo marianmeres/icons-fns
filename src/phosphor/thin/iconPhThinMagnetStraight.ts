@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `MagnetStraight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `MagnetStraight` icon. */

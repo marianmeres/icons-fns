@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Stop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Stop` icon. */

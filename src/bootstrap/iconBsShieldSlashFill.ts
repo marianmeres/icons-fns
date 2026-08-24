@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ShieldSlashFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ShieldSlashFill` icon. */

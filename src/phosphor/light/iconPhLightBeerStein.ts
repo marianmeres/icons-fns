@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `BeerStein` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `BeerStein` icon. */

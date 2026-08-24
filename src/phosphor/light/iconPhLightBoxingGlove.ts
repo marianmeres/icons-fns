@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `BoxingGlove` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `BoxingGlove` icon. */

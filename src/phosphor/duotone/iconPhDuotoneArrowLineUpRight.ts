@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ArrowLineUpRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ArrowLineUpRight` icon. */

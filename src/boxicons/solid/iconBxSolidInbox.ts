@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Inbox` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Inbox` icon. */

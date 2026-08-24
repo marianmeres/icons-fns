@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Dog` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Dog` icon. */

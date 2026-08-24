@@ -1,3 +1,8 @@
+/**
+ * Lucide `MailQuestion` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MailQuestion` icon. */

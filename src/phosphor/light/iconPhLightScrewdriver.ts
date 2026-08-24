@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Screwdriver` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Screwdriver` icon. */

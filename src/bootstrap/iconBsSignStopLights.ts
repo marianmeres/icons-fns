@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SignStopLights` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SignStopLights` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FiletypeDocx` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FiletypeDocx` icon. */

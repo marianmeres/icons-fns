@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `HourglassHigh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `HourglassHigh` icon. */

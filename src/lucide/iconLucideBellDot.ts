@@ -1,3 +1,8 @@
+/**
+ * Lucide `BellDot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `BellDot` icon. */

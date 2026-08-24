@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `BracketsRound` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `BracketsRound` icon. */

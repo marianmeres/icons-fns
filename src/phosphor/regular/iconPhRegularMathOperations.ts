@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `MathOperations` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `MathOperations` icon. */

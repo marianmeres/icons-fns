@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `PaintBrush` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `PaintBrush` icon. */

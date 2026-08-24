@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SwimmingPool` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SwimmingPool` icon. */

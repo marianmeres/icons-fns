@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `TextAlignLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `TextAlignLeft` icon. */

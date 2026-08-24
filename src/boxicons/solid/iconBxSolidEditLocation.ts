@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `EditLocation` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `EditLocation` icon. */

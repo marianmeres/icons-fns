@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `NyTimesLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `NyTimesLogo` icon. */

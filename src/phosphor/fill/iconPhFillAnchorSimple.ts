@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `AnchorSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `AnchorSimple` icon. */

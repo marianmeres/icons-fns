@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Mobile` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Mobile` icon. */

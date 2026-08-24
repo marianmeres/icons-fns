@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CurrencyRupee` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CurrencyRupee` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `EnvelopeAt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `EnvelopeAt` icon. */

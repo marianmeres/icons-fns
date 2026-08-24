@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `FileCircleExclamation` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `FileCircleExclamation` icon. */

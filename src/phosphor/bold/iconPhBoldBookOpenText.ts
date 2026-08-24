@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `BookOpenText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `BookOpenText` icon. */

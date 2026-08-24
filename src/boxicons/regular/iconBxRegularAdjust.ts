@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Adjust` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Adjust` icon. */

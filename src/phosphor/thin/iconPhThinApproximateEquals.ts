@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ApproximateEquals` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ApproximateEquals` icon. */

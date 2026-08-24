@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `ExclamationTriangle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `ExclamationTriangle` icon. */

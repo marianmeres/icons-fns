@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Feather` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Feather` icon. */

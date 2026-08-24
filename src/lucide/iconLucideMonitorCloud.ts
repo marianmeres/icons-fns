@@ -1,3 +1,8 @@
+/**
+ * Lucide `MonitorCloud` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MonitorCloud` icon. */

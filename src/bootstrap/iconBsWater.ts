@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Water` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Water` icon. */

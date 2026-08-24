@@ -1,3 +1,8 @@
+/**
+ * Feather `XSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `XSquare` icon. */

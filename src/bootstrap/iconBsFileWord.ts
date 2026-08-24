@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileWord` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileWord` icon. */

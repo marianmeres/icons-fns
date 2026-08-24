@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `BatteryPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `BatteryPlus` icon. */

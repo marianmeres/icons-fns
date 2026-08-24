@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Slideshow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Slideshow` icon. */

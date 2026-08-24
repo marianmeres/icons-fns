@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Church` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Church` icon. */

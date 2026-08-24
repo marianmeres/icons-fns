@@ -1,3 +1,8 @@
+/**
+ * Lucide `MinusCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MinusCircle` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `TwitchLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `TwitchLogo` icon. */

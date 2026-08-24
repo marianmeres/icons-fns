@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `GlobeAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `GlobeAlt` icon. */

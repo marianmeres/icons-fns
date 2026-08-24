@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `LineVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `LineVertical` icon. */

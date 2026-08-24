@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Unlock2Fill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Unlock2Fill` icon. */

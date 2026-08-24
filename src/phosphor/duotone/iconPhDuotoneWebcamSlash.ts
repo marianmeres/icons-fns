@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `WebcamSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `WebcamSlash` icon. */

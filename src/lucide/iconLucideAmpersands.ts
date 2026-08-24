@@ -1,3 +1,8 @@
+/**
+ * Lucide `Ampersands` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Ampersands` icon. */

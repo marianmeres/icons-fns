@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CircleHalf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CircleHalf` icon. */

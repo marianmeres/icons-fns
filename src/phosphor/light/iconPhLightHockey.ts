@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Hockey` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Hockey` icon. */

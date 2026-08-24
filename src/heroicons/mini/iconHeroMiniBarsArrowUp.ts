@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `BarsArrowUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `BarsArrowUp` icon. */

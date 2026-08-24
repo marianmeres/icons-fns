@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Station` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Station` icon. */

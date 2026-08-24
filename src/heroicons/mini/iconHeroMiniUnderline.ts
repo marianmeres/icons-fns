@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Underline` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Underline` icon. */

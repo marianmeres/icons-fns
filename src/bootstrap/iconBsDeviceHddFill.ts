@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `DeviceHddFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `DeviceHddFill` icon. */

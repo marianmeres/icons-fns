@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `RainbowCloud` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `RainbowCloud` icon. */

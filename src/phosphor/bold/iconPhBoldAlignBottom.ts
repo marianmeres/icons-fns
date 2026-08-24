@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `AlignBottom` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `AlignBottom` icon. */

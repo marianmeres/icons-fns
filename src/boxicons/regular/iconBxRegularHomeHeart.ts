@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `HomeHeart` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `HomeHeart` icon. */

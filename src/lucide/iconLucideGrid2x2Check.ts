@@ -1,3 +1,8 @@
+/**
+ * Lucide `Grid2x2Check` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Grid2x2Check` icon. */

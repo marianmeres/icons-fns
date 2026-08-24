@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `NewspaperClipping` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `NewspaperClipping` icon. */

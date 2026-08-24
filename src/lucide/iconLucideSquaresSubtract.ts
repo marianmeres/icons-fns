@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquaresSubtract` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquaresSubtract` icon. */

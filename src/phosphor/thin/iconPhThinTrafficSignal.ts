@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TrafficSignal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TrafficSignal` icon. */

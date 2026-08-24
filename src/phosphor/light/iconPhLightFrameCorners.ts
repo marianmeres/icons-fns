@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FrameCorners` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FrameCorners` icon. */

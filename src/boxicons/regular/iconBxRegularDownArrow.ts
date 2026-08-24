@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `DownArrow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `DownArrow` icon. */

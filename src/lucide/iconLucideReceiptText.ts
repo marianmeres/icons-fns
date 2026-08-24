@@ -1,3 +1,8 @@
+/**
+ * Lucide `ReceiptText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ReceiptText` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `Staylinked` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `Staylinked` icon. */

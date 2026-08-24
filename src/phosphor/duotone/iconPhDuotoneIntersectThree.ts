@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `IntersectThree` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `IntersectThree` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `AirplaneTilt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `AirplaneTilt` icon. */

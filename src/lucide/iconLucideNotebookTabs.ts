@@ -1,3 +1,8 @@
+/**
+ * Lucide `NotebookTabs` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `NotebookTabs` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Avocado` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Avocado` icon. */

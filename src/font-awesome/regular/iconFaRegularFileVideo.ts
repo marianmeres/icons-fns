@@ -1,3 +1,8 @@
+/**
+ * Font Awesome regular `FileVideo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome regular `FileVideo` icon. */

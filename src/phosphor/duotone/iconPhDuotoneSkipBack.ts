@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `SkipBack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `SkipBack` icon. */

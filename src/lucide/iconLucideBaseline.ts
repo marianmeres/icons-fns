@@ -1,3 +1,8 @@
+/**
+ * Lucide `Baseline` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Baseline` icon. */

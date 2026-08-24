@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `HandsClapping` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `HandsClapping` icon. */

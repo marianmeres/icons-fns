@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Square` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Square` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Scooter` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Scooter` icon. */

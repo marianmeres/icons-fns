@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FileBinaryFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FileBinaryFill` icon. */

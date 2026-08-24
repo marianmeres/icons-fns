@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `WifiNone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `WifiNone` icon. */

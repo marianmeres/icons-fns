@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `HandPeace` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `HandPeace` icon. */

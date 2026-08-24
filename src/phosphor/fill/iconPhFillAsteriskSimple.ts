@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `AsteriskSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `AsteriskSimple` icon. */

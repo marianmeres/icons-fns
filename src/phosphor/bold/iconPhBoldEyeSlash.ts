@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `EyeSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `EyeSlash` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `TextH` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `TextH` icon. */

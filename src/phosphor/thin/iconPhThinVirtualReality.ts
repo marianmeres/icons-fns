@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `VirtualReality` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `VirtualReality` icon. */

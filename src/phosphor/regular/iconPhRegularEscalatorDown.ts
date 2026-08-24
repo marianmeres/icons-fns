@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `EscalatorDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `EscalatorDown` icon. */

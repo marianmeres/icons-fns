@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `ReceiptRefund` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `ReceiptRefund` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `WheelchairMotion` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `WheelchairMotion` icon. */

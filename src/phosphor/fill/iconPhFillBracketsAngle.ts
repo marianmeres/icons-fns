@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `BracketsAngle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `BracketsAngle` icon. */

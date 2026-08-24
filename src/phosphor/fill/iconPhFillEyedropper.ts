@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Eyedropper` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Eyedropper` icon. */

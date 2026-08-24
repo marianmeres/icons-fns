@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ShapeCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ShapeCircle` icon. */

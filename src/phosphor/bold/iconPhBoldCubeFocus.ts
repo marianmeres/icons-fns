@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CubeFocus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CubeFocus` icon. */

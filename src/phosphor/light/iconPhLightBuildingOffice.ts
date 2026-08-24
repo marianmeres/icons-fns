@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `BuildingOffice` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `BuildingOffice` icon. */

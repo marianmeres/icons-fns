@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Backpack4` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Backpack4` icon. */

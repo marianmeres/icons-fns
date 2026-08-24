@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ReplyAll` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ReplyAll` icon. */

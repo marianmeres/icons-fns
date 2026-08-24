@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `GlobeX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `GlobeX` icon. */

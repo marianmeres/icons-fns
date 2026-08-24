@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `Language` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `Language` icon. */

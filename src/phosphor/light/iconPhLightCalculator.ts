@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Calculator` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Calculator` icon. */

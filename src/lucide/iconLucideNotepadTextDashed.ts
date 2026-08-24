@@ -1,3 +1,8 @@
+/**
+ * Lucide `NotepadTextDashed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `NotepadTextDashed` icon. */

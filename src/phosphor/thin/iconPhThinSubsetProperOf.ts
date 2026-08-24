@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SubsetProperOf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SubsetProperOf` icon. */

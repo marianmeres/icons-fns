@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowsClockwise` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowsClockwise` icon. */

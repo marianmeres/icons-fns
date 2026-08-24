@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PersonSimpleWalk` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PersonSimpleWalk` icon. */

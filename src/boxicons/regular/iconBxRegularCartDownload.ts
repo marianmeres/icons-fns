@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CartDownload` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CartDownload` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GlobeSimpleX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GlobeSimpleX` icon. */

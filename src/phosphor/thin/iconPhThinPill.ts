@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Pill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Pill` icon. */

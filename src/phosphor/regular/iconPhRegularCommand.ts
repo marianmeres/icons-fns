@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Command` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Command` icon. */

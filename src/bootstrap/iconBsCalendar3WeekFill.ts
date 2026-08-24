@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Calendar3WeekFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Calendar3WeekFill` icon. */

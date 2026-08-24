@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Metronome` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Metronome` icon. */

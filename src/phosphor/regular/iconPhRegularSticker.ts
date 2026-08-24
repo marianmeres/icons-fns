@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Sticker` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Sticker` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `AirplaneTakeoff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `AirplaneTakeoff` icon. */

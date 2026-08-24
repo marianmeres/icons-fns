@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `LinuxLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `LinuxLogo` icon. */

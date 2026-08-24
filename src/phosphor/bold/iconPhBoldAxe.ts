@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Axe` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Axe` icon. */

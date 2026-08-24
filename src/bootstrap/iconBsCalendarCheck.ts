@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CalendarCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CalendarCheck` icon. */

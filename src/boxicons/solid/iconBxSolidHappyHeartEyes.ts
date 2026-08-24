@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `HappyHeartEyes` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `HappyHeartEyes` icon. */

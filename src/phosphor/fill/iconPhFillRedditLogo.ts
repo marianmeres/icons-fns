@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `RedditLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `RedditLogo` icon. */

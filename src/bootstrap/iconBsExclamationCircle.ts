@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ExclamationCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ExclamationCircle` icon. */

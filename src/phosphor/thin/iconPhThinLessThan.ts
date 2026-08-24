@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `LessThan` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `LessThan` icon. */

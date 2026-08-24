@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Nut` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Nut` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FadersHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FadersHorizontal` icon. */

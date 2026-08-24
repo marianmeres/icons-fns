@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SmileySad` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SmileySad` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `StackMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `StackMinus` icon. */

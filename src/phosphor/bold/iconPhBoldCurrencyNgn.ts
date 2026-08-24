@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CurrencyNgn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CurrencyNgn` icon. */

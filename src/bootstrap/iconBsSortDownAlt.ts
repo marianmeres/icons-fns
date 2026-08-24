@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SortDownAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SortDownAlt` icon. */

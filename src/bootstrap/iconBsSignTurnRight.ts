@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SignTurnRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SignTurnRight` icon. */

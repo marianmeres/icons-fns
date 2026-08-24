@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Wall` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Wall` icon. */

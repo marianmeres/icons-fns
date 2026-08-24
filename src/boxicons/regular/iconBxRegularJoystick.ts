@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Joystick` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Joystick` icon. */

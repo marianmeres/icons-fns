@@ -1,3 +1,8 @@
+/**
+ * Lucide `ShieldBan` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ShieldBan` icon. */

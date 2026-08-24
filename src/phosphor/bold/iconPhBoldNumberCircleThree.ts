@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `NumberCircleThree` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `NumberCircleThree` icon. */

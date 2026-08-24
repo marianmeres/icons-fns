@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Edit` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Edit` icon. */

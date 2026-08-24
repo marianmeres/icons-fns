@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `WindowOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `WindowOpen` icon. */

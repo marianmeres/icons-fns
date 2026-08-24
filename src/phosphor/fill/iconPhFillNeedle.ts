@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Needle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Needle` icon. */

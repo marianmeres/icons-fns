@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `HeartPulseFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `HeartPulseFill` icon. */

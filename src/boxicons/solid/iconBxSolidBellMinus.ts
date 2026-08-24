@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BellMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BellMinus` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Claude` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Claude` icon. */

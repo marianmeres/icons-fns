@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Lectern` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Lectern` icon. */

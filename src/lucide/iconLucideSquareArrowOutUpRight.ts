@@ -1,3 +1,8 @@
+/**
+ * Lucide `SquareArrowOutUpRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SquareArrowOutUpRight` icon. */

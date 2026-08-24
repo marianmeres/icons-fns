@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ApplePodcastsLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ApplePodcastsLogo` icon. */

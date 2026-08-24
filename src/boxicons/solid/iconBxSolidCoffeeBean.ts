@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CoffeeBean` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CoffeeBean` icon. */

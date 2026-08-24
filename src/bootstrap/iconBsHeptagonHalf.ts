@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `HeptagonHalf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `HeptagonHalf` icon. */

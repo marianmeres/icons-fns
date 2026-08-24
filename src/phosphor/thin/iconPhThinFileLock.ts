@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `FileLock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `FileLock` icon. */

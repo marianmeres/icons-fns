@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Golf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Golf` icon. */

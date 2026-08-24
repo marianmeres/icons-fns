@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SubtractSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SubtractSquare` icon. */

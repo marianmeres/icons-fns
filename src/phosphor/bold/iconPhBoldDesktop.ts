@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Desktop` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Desktop` icon. */

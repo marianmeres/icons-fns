@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `PersonSimpleTaiChi` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `PersonSimpleTaiChi` icon. */

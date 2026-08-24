@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `LightningA` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `LightningA` icon. */

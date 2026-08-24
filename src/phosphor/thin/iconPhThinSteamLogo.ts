@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SteamLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SteamLogo` icon. */

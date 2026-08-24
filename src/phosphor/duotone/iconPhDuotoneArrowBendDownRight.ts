@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ArrowBendDownRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ArrowBendDownRight` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Clipboard2HeartFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Clipboard2HeartFill` icon. */

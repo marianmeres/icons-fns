@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Basket` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Basket` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `UmbrellaSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `UmbrellaSimple` icon. */

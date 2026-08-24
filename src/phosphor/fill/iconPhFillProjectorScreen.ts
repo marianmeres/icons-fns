@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ProjectorScreen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ProjectorScreen` icon. */

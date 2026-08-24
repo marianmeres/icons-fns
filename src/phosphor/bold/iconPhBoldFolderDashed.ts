@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `FolderDashed` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `FolderDashed` icon. */

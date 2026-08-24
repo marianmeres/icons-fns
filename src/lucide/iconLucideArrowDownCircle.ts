@@ -1,3 +1,8 @@
+/**
+ * Lucide `ArrowDownCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ArrowDownCircle` icon. */

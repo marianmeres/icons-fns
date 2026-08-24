@@ -1,3 +1,8 @@
+/**
+ * Lucide `SlidersVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SlidersVertical` icon. */

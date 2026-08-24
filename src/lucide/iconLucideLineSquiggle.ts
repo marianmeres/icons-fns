@@ -1,3 +1,8 @@
+/**
+ * Lucide `LineSquiggle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `LineSquiggle` icon. */

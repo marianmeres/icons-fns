@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CoffeeAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CoffeeAlt` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BowlRice` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BowlRice` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Signature` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Signature` icon. */

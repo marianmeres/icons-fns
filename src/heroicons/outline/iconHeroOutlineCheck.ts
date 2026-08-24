@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `Check` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `Check` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `MouseRightClick` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `MouseRightClick` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Flask` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Flask` icon. */

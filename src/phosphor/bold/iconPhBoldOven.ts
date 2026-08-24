@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Oven` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Oven` icon. */

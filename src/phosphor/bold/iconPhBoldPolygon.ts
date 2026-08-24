@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Polygon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Polygon` icon. */

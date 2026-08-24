@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `ArrowUpTray` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `ArrowUpTray` icon. */

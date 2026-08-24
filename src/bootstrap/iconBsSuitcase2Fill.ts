@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Suitcase2Fill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Suitcase2Fill` icon. */

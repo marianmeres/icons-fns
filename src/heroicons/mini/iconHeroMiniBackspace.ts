@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Backspace` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Backspace` icon. */

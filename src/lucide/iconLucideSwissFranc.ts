@@ -1,3 +1,8 @@
+/**
+ * Lucide `SwissFranc` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SwissFranc` icon. */

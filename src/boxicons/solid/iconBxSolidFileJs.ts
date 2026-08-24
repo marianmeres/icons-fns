@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `FileJs` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `FileJs` icon. */

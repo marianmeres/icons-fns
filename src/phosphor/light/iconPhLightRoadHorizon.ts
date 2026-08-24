@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `RoadHorizon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `RoadHorizon` icon. */

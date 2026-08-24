@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Webcam` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Webcam` icon. */

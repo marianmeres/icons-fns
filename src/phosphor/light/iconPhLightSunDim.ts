@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `SunDim` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `SunDim` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Parallelogram` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Parallelogram` icon. */

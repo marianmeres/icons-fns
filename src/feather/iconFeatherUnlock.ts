@@ -1,3 +1,8 @@
+/**
+ * Feather `Unlock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Unlock` icon. */

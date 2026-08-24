@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `LockOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `LockOpen` icon. */

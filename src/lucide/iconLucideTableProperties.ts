@@ -1,3 +1,8 @@
+/**
+ * Lucide `TableProperties` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `TableProperties` icon. */

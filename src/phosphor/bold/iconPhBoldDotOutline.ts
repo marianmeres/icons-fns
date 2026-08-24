@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `DotOutline` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `DotOutline` icon. */

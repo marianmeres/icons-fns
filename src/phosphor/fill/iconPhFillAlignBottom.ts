@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `AlignBottom` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `AlignBottom` icon. */

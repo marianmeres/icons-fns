@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `MessageSquareDots` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `MessageSquareDots` icon. */

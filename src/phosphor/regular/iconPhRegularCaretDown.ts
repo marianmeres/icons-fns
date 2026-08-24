@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `CaretDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `CaretDown` icon. */

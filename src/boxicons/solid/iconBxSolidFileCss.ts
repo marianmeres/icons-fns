@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `FileCss` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `FileCss` icon. */

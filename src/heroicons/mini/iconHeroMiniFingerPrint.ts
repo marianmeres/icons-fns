@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `FingerPrint` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `FingerPrint` icon. */

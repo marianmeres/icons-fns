@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Sigma` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Sigma` icon. */

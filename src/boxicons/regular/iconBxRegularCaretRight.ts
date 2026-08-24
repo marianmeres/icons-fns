@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CaretRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CaretRight` icon. */

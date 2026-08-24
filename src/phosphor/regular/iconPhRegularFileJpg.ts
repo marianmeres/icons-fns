@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FileJpg` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FileJpg` icon. */

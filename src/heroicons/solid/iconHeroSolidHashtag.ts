@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Hashtag` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Hashtag` icon. */

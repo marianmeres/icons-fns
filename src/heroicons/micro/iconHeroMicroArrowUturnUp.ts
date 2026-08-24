@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `ArrowUturnUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `ArrowUturnUp` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ArrowUUpRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ArrowUUpRight` icon. */

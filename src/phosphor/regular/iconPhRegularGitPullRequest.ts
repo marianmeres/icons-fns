@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `GitPullRequest` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `GitPullRequest` icon. */

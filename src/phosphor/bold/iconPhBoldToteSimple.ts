@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ToteSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ToteSimple` icon. */

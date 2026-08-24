@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Wind` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Wind` icon. */

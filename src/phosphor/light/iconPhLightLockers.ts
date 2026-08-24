@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Lockers` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Lockers` icon. */

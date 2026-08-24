@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FingerprintSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FingerprintSimple` icon. */

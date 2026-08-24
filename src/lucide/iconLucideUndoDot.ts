@@ -1,3 +1,8 @@
+/**
+ * Lucide `UndoDot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `UndoDot` icon. */

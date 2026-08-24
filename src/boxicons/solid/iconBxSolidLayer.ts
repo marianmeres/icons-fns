@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Layer` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Layer` icon. */

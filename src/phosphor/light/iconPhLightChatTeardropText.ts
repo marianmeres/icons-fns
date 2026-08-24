@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ChatTeardropText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ChatTeardropText` icon. */

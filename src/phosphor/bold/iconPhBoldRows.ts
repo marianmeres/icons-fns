@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Rows` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Rows` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `PhoneArrowDownLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `PhoneArrowDownLeft` icon. */

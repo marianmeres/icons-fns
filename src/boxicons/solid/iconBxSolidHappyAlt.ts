@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `HappyAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `HappyAlt` icon. */

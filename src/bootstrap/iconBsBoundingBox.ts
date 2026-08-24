@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `BoundingBox` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `BoundingBox` icon. */

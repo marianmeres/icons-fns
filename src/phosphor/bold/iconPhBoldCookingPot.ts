@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CookingPot` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CookingPot` icon. */

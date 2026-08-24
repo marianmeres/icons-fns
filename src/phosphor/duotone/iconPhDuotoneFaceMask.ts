@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `FaceMask` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `FaceMask` icon. */

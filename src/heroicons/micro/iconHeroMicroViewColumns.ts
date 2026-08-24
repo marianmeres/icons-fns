@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `ViewColumns` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `ViewColumns` icon. */

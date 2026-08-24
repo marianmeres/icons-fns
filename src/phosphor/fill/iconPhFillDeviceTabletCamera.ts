@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `DeviceTabletCamera` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `DeviceTabletCamera` icon. */

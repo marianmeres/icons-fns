@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `PintGlass` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `PintGlass` icon. */

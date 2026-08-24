@@ -1,3 +1,8 @@
+/**
+ * Lucide `UtilityPole` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `UtilityPole` icon. */

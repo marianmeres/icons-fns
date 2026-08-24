@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `TextHSix` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `TextHSix` icon. */

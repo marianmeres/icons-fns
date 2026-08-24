@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Cheese` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Cheese` icon. */

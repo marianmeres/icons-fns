@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `NumberSquareEight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `NumberSquareEight` icon. */

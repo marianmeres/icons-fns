@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `HandDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `HandDown` icon. */

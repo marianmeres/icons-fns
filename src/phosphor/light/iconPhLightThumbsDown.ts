@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `ThumbsDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `ThumbsDown` icon. */

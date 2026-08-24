@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `AirplaneLanding` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `AirplaneLanding` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ReceiptX` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ReceiptX` icon. */

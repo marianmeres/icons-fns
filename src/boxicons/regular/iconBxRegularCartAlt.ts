@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CartAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CartAlt` icon. */

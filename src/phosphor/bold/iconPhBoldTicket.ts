@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Ticket` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Ticket` icon. */

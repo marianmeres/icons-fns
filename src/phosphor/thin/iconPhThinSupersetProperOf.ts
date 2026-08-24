@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SupersetProperOf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SupersetProperOf` icon. */

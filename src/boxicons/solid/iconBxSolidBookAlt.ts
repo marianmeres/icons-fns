@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `BookAlt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `BookAlt` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `DropSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `DropSimple` icon. */

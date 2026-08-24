@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ArrowsOutLineVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ArrowsOutLineVertical` icon. */

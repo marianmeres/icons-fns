@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Briefcase` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Briefcase` icon. */

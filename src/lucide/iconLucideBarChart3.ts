@@ -1,3 +1,8 @@
+/**
+ * Lucide `BarChart3` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `BarChart3` icon. */

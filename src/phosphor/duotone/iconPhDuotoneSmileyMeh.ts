@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `SmileyMeh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `SmileyMeh` icon. */

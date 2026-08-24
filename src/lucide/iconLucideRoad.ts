@@ -1,3 +1,8 @@
+/**
+ * Lucide `Road` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Road` icon. */

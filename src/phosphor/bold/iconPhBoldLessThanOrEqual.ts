@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `LessThanOrEqual` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `LessThanOrEqual` icon. */

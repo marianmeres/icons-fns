@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `TaxiFront` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `TaxiFront` icon. */

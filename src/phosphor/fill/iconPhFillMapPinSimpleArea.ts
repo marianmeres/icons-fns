@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `MapPinSimpleArea` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `MapPinSimpleArea` icon. */

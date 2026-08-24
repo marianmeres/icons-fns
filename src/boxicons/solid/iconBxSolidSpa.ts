@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Spa` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Spa` icon. */

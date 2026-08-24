@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MessengerLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MessengerLogo` icon. */

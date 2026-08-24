@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Box2Fill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Box2Fill` icon. */

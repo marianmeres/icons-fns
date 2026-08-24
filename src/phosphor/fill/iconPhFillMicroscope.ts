@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Microscope` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Microscope` icon. */

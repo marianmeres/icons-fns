@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PatchQuestion` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PatchQuestion` icon. */

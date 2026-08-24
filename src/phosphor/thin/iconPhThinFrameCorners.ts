@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `FrameCorners` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `FrameCorners` icon. */

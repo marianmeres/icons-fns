@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `VideoCameraSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `VideoCameraSlash` icon. */

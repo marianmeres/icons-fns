@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Slack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Slack` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Sphere` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Sphere` icon. */

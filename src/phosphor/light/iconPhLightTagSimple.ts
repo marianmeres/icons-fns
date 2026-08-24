@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `TagSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `TagSimple` icon. */

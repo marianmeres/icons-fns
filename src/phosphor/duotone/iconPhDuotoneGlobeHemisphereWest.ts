@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `GlobeHemisphereWest` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `GlobeHemisphereWest` icon. */

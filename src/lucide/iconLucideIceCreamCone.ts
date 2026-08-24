@@ -1,3 +1,8 @@
+/**
+ * Lucide `IceCreamCone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `IceCreamCone` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Bandaids` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Bandaids` icon. */

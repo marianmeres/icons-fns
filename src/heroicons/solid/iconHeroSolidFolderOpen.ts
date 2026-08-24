@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `FolderOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `FolderOpen` icon. */

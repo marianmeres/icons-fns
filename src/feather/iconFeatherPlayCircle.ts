@@ -1,3 +1,8 @@
+/**
+ * Feather `PlayCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `PlayCircle` icon. */

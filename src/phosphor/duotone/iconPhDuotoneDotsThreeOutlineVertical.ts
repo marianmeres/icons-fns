@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `DotsThreeOutlineVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `DotsThreeOutlineVertical` icon. */

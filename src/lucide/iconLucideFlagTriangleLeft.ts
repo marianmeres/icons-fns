@@ -1,3 +1,8 @@
+/**
+ * Lucide `FlagTriangleLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FlagTriangleLeft` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Martini` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Martini` icon. */

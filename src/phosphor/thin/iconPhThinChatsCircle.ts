@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ChatsCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ChatsCircle` icon. */

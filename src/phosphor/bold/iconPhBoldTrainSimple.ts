@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `TrainSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `TrainSimple` icon. */

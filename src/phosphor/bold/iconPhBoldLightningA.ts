@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `LightningA` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `LightningA` icon. */

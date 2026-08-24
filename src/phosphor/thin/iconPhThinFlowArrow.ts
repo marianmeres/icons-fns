@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `FlowArrow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `FlowArrow` icon. */

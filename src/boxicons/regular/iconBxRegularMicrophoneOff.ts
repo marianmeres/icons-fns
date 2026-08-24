@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `MicrophoneOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `MicrophoneOff` icon. */

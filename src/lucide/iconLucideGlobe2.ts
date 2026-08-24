@@ -1,3 +1,8 @@
+/**
+ * Lucide `Globe2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Globe2` icon. */

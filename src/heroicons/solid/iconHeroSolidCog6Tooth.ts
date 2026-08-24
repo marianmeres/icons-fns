@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Cog6Tooth` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Cog6Tooth` icon. */

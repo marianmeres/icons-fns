@@ -1,3 +1,8 @@
+/**
+ * Font Awesome solid `PersonWalkingArrowRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome solid `PersonWalkingArrowRight` icon. */

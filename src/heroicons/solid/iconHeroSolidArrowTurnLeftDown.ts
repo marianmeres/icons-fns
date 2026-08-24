@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `ArrowTurnLeftDown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `ArrowTurnLeftDown` icon. */

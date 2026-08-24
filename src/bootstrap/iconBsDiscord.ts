@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Discord` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Discord` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PatchPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PatchPlus` icon. */

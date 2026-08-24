@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SkipEndCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SkipEndCircle` icon. */

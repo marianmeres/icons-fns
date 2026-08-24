@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Ear` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Ear` icon. */

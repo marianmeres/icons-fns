@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ArrowsExpand` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ArrowsExpand` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ToggleLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ToggleLeft` icon. */

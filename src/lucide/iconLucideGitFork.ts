@@ -1,3 +1,8 @@
+/**
+ * Lucide `GitFork` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `GitFork` icon. */

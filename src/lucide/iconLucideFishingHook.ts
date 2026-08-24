@@ -1,3 +1,8 @@
+/**
+ * Lucide `FishingHook` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FishingHook` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ChartPie` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ChartPie` icon. */

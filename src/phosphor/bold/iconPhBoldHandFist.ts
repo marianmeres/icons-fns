@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `HandFist` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `HandFist` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `HashStraight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `HashStraight` icon. */

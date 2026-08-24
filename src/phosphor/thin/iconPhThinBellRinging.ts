@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `BellRinging` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `BellRinging` icon. */

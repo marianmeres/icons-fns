@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Cross` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Cross` icon. */

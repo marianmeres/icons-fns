@@ -1,3 +1,8 @@
+/**
+ * Lucide `Move3d` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Move3d` icon. */

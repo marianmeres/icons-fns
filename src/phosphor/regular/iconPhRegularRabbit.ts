@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Rabbit` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Rabbit` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `PencilSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `PencilSquare` icon. */

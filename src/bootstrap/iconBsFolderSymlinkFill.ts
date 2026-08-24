@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `FolderSymlinkFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `FolderSymlinkFill` icon. */

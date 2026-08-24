@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Backward` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Backward` icon. */

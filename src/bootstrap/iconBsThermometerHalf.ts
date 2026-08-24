@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ThermometerHalf` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ThermometerHalf` icon. */

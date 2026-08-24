@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Slash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Slash` icon. */

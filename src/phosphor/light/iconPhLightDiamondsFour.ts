@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `DiamondsFour` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `DiamondsFour` icon. */

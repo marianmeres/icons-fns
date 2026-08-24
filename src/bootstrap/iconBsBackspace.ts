@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Backspace` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Backspace` icon. */

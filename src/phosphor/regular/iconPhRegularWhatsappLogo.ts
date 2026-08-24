@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `WhatsappLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `WhatsappLogo` icon. */

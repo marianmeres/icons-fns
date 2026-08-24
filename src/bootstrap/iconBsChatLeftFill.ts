@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ChatLeftFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ChatLeftFill` icon. */

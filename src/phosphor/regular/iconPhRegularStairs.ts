@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Stairs` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Stairs` icon. */

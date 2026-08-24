@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `PaperPlaneTilt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `PaperPlaneTilt` icon. */

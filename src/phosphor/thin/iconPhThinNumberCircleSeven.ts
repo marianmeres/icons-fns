@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `NumberCircleSeven` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `NumberCircleSeven` icon. */

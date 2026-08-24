@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Orange` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Orange` icon. */

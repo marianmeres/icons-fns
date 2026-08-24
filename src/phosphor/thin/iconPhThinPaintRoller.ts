@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PaintRoller` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PaintRoller` icon. */

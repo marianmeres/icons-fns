@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Transparency` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Transparency` icon. */

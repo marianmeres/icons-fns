@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CardText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CardText` icon. */

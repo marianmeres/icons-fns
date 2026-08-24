@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TextHFive` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TextHFive` icon. */

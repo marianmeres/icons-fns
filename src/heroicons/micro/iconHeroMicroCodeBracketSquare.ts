@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `CodeBracketSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `CodeBracketSquare` icon. */

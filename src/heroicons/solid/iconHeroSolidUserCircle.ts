@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `UserCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `UserCircle` icon. */

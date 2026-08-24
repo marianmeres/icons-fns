@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `BracketsSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `BracketsSquare` icon. */

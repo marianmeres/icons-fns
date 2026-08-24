@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Hexagon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Hexagon` icon. */

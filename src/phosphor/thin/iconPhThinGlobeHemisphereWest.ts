@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `GlobeHemisphereWest` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `GlobeHemisphereWest` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `DeviceTabletCamera` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `DeviceTabletCamera` icon. */

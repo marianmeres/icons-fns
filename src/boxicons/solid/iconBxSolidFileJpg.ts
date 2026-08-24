@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `FileJpg` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `FileJpg` icon. */

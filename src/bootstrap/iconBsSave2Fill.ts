@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Save2Fill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Save2Fill` icon. */

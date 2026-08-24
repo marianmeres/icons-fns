@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `CodaLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `CodaLogo` icon. */

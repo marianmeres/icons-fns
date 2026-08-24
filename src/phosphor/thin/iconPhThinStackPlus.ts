@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `StackPlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `StackPlus` icon. */

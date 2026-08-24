@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `UserAccount` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `UserAccount` icon. */

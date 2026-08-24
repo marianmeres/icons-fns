@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PatreonLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PatreonLogo` icon. */

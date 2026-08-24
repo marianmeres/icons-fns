@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Lockers` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Lockers` icon. */

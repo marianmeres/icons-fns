@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Link45deg` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Link45deg` icon. */

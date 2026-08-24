@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `RssSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `RssSimple` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `SecurityCamera` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `SecurityCamera` icon. */

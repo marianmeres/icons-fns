@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Bell` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Bell` icon. */

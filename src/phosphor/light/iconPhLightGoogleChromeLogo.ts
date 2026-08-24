@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GoogleChromeLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GoogleChromeLogo` icon. */

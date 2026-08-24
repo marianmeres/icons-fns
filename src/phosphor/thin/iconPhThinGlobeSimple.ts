@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `GlobeSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `GlobeSimple` icon. */

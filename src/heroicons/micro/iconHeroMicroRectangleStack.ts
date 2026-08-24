@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `RectangleStack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `RectangleStack` icon. */

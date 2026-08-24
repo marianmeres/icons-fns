@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SkipForwardCircleFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SkipForwardCircleFill` icon. */

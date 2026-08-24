@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `BatteryVerticalEmpty` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `BatteryVerticalEmpty` icon. */

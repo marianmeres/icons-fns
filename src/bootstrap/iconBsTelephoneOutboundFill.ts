@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `TelephoneOutboundFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `TelephoneOutboundFill` icon. */

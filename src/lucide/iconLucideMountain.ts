@@ -1,3 +1,8 @@
+/**
+ * Lucide `Mountain` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Mountain` icon. */

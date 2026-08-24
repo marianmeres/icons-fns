@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `BellSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `BellSimple` icon. */

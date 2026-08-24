@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SealCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SealCheck` icon. */

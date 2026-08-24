@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Carousel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Carousel` icon. */

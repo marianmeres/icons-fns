@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `BellAlert` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `BellAlert` icon. */

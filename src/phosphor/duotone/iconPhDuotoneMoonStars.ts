@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MoonStars` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MoonStars` icon. */

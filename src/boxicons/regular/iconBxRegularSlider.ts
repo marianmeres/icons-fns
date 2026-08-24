@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Slider` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Slider` icon. */

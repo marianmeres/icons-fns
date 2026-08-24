@@ -1,3 +1,8 @@
+/**
+ * Lucide `SignalZero` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SignalZero` icon. */

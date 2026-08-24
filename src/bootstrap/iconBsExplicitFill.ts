@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `ExplicitFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `ExplicitFill` icon. */

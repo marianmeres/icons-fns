@@ -1,3 +1,8 @@
+/**
+ * Lucide `CircleCheck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CircleCheck` icon. */

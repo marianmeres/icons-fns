@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ClipboardText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ClipboardText` icon. */

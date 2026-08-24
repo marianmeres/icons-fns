@@ -1,3 +1,8 @@
+/**
+ * Lucide `QrCode` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `QrCode` icon. */

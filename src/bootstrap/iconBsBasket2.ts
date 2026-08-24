@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Basket2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Basket2` icon. */

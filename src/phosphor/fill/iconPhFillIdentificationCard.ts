@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `IdentificationCard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `IdentificationCard` icon. */

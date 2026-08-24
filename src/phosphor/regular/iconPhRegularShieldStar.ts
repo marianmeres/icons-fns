@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `ShieldStar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `ShieldStar` icon. */

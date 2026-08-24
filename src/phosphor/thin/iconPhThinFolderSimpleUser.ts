@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `FolderSimpleUser` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `FolderSimpleUser` icon. */

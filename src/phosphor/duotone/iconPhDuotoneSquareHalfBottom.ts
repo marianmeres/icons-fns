@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `SquareHalfBottom` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `SquareHalfBottom` icon. */

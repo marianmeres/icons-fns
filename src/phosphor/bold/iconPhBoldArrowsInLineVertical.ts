@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ArrowsInLineVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ArrowsInLineVertical` icon. */

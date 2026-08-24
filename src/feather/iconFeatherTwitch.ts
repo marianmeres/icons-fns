@@ -1,3 +1,8 @@
+/**
+ * Feather `Twitch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `Twitch` icon. */

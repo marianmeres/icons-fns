@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PinFill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PinFill` icon. */

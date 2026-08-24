@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `ChevronUpCircle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `ChevronUpCircle` icon. */

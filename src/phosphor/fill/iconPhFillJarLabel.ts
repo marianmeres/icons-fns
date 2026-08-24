@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `JarLabel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `JarLabel` icon. */

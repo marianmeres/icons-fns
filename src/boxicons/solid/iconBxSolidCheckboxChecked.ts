@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CheckboxChecked` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CheckboxChecked` icon. */

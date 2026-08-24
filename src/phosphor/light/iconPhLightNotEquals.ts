@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `NotEquals` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `NotEquals` icon. */

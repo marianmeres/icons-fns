@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `UserSound` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `UserSound` icon. */

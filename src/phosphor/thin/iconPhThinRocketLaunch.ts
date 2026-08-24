@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `RocketLaunch` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `RocketLaunch` icon. */

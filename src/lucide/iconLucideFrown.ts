@@ -1,3 +1,8 @@
+/**
+ * Lucide `Frown` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Frown` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bytesize `Lock` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bytesize `Lock` icon. */

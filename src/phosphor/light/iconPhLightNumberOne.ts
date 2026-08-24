@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `NumberOne` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `NumberOne` icon. */

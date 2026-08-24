@@ -1,3 +1,8 @@
+/**
+ * Lucide `MessageCircleReply` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MessageCircleReply` icon. */

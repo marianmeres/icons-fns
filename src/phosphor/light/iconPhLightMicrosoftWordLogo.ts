@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `MicrosoftWordLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `MicrosoftWordLogo` icon. */

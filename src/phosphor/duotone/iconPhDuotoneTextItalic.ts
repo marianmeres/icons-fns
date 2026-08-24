@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `TextItalic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `TextItalic` icon. */

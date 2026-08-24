@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ArrowSquareUp` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ArrowSquareUp` icon. */

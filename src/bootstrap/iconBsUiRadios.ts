@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `UiRadios` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `UiRadios` icon. */

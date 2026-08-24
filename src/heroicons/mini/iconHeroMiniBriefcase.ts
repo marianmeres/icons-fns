@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Briefcase` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Briefcase` icon. */

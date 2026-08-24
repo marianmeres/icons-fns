@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ShoppingBagOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ShoppingBagOpen` icon. */

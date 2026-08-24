@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Coins` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Coins` icon. */

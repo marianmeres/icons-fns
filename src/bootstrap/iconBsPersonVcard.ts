@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `PersonVcard` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `PersonVcard` icon. */

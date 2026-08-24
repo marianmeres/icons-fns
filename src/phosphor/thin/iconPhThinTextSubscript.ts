@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TextSubscript` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TextSubscript` icon. */

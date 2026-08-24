@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `FilePpt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `FilePpt` icon. */

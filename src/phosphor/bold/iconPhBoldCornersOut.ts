@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `CornersOut` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `CornersOut` icon. */

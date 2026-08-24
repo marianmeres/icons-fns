@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `RectangleGroup` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `RectangleGroup` icon. */

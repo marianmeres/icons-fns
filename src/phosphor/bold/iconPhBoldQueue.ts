@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Queue` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Queue` icon. */

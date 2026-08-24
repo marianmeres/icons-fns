@@ -1,3 +1,8 @@
+/**
+ * Lucide `CircleArrowRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CircleArrowRight` icon. */

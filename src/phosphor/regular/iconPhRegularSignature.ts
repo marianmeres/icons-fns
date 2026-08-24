@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Signature` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Signature` icon. */

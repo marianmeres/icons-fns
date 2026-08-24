@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `CubeTransparent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `CubeTransparent` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Bank` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Bank` icon. */

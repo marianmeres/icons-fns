@@ -1,3 +1,8 @@
+/**
+ * Lucide `MoveLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MoveLeft` icon. */

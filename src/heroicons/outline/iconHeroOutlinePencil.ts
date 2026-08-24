@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `Pencil` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `Pencil` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `MicrophoneSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `MicrophoneSlash` icon. */

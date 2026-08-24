@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `UserCircleMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `UserCircleMinus` icon. */

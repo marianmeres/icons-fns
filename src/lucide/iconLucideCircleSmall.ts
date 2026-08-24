@@ -1,3 +1,8 @@
+/**
+ * Lucide `CircleSmall` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `CircleSmall` icon. */

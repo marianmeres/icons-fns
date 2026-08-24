@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Check2All` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Check2All` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `LinktreeLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `LinktreeLogo` icon. */

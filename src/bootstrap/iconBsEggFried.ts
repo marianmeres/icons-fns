@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `EggFried` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `EggFried` icon. */

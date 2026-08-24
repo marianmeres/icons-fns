@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `ExcludeSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `ExcludeSquare` icon. */

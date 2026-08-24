@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Paragraph` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Paragraph` icon. */

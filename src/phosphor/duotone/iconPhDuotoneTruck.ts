@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Truck` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Truck` icon. */

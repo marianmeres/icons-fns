@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Seat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Seat` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Megaphone` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Megaphone` icon. */

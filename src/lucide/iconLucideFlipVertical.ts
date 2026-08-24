@@ -1,3 +1,8 @@
+/**
+ * Lucide `FlipVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `FlipVertical` icon. */

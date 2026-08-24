@@ -1,3 +1,8 @@
+/**
+ * Feather `MoreVertical` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `MoreVertical` icon. */

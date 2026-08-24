@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `UpArrow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `UpArrow` icon. */

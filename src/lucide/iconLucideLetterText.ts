@@ -1,3 +1,8 @@
+/**
+ * Lucide `LetterText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `LetterText` icon. */

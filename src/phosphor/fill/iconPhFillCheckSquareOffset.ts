@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CheckSquareOffset` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CheckSquareOffset` icon. */

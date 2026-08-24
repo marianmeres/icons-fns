@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Selection` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Selection` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Scribble` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Scribble` icon. */

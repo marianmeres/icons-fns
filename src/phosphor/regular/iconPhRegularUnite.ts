@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Unite` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Unite` icon. */

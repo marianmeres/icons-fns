@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Textbox` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Textbox` icon. */

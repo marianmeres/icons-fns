@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Plant` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Plant` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `GooglePlayLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `GooglePlayLogo` icon. */

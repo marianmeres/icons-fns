@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Asterisk` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Asterisk` icon. */

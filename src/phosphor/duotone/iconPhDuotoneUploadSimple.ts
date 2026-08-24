@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `UploadSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `UploadSimple` icon. */

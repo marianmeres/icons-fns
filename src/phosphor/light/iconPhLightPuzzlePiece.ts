@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PuzzlePiece` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PuzzlePiece` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `GrainsSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `GrainsSlash` icon. */

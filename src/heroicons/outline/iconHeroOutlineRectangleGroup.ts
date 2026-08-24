@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `RectangleGroup` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `RectangleGroup` icon. */

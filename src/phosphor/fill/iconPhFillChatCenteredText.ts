@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `ChatCenteredText` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `ChatCenteredText` icon. */

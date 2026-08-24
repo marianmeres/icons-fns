@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Meh` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Meh` icon. */

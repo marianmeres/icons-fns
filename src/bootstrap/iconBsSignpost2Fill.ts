@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Signpost2Fill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Signpost2Fill` icon. */

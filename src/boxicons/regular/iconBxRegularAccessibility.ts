@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Accessibility` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Accessibility` icon. */

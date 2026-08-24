@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Cast` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Cast` icon. */

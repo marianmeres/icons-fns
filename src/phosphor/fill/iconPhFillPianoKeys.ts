@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `PianoKeys` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `PianoKeys` icon. */

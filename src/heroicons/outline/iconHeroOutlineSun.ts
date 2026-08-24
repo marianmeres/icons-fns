@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `Sun` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `Sun` icon. */

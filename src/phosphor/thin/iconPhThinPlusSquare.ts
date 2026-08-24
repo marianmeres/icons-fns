@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `PlusSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `PlusSquare` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Mosque` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Mosque` icon. */

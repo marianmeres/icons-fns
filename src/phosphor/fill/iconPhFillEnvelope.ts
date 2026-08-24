@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Envelope` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Envelope` icon. */

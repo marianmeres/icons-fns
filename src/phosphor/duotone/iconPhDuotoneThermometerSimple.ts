@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `ThermometerSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `ThermometerSimple` icon. */

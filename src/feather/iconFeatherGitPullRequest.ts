@@ -1,3 +1,8 @@
+/**
+ * Feather `GitPullRequest` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Feather `GitPullRequest` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `CurrencyKzt` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `CurrencyKzt` icon. */

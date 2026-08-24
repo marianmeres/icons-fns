@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Alipay` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Alipay` icon. */

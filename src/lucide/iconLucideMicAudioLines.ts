@@ -1,3 +1,8 @@
+/**
+ * Lucide `MicAudioLines` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `MicAudioLines` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Palette` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Palette` icon. */

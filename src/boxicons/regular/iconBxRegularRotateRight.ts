@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `RotateRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `RotateRight` icon. */

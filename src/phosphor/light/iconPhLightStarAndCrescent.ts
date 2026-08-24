@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `StarAndCrescent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `StarAndCrescent` icon. */

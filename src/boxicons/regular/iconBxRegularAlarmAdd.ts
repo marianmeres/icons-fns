@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `AlarmAdd` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `AlarmAdd` icon. */

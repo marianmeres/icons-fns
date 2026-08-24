@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Wrench` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Wrench` icon. */

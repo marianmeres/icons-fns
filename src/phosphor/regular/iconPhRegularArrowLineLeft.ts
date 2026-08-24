@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `ArrowLineLeft` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `ArrowLineLeft` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `CircleSquare` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `CircleSquare` icon. */

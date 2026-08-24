@@ -1,3 +1,8 @@
+/**
+ * Lucide `ShieldUser` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `ShieldUser` icon. */

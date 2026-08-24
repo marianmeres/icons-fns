@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `CricketBall` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `CricketBall` icon. */

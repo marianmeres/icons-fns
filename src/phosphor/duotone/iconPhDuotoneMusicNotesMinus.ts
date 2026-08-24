@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MusicNotesMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MusicNotesMinus` icon. */

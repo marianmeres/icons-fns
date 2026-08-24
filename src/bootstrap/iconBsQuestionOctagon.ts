@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `QuestionOctagon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `QuestionOctagon` icon. */

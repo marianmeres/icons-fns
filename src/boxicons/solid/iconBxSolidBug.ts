@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Bug` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Bug` icon. */

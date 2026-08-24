@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Typescript` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Typescript` icon. */

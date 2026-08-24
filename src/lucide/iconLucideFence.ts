@@ -1,3 +1,8 @@
+/**
+ * Lucide `Fence` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Fence` icon. */

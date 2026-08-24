@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `EnvelopeSimpleOpen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `EnvelopeSimpleOpen` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `HandPointing` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `HandPointing` icon. */

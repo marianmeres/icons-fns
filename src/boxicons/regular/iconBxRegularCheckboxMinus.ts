@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `CheckboxMinus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `CheckboxMinus` icon. */

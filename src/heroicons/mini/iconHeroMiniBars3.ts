@@ -1,3 +1,8 @@
+/**
+ * Heroicons mini `Bars3` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons mini `Bars3` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FilmReel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FilmReel` icon. */

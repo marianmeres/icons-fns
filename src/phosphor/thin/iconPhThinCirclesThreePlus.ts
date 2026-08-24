@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `CirclesThreePlus` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `CirclesThreePlus` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `SmartphoneCharging` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `SmartphoneCharging` icon. */

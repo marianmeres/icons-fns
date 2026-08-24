@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `PersonSimpleThrow` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `PersonSimpleThrow` icon. */

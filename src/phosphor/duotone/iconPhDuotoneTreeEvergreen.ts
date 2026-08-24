@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `TreeEvergreen` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `TreeEvergreen` icon. */

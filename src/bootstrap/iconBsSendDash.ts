@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SendDash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SendDash` icon. */

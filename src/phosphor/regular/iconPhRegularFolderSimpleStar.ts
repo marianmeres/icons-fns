@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `FolderSimpleStar` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `FolderSimpleStar` icon. */

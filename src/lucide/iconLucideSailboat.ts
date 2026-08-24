@@ -1,3 +1,8 @@
+/**
+ * Lucide `Sailboat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Sailboat` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `ArrowSquareRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `ArrowSquareRight` icon. */

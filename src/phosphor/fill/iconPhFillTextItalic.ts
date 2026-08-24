@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `TextItalic` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `TextItalic` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Projector` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Projector` icon. */

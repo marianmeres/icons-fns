@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `TeaBag` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `TeaBag` icon. */

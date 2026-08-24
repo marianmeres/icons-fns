@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `PaintRoll` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `PaintRoll` icon. */

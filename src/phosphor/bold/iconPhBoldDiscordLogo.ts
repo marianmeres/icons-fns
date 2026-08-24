@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `DiscordLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `DiscordLogo` icon. */

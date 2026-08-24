@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `SpotifyLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `SpotifyLogo` icon. */

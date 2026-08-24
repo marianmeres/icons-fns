@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `SunHorizon` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `SunHorizon` icon. */

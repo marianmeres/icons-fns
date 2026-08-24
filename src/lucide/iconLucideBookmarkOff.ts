@@ -1,3 +1,8 @@
+/**
+ * Lucide `BookmarkOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `BookmarkOff` icon. */

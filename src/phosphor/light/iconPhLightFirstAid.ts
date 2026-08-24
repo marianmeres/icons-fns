@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `FirstAid` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `FirstAid` icon. */

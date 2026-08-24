@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Infinite` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Infinite` icon. */

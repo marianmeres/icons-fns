@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `Tag` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `Tag` icon. */

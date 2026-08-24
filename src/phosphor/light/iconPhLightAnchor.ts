@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `Anchor` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `Anchor` icon. */

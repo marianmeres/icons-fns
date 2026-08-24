@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Percent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Percent` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Van` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Van` icon. */

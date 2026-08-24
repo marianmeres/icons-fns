@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `CheckFat` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `CheckFat` icon. */

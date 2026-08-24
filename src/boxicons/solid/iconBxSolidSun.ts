@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Sun` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Sun` icon. */

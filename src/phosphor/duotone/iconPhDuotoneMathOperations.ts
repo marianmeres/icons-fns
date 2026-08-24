@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `MathOperations` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `MathOperations` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `Basketball` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `Basketball` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `BatteryCharging` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `BatteryCharging` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Indent` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Indent` icon. */

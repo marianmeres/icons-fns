@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `MessageSquareDetail` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `MessageSquareDetail` icon. */

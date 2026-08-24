@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `PicnicTable` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `PicnicTable` icon. */

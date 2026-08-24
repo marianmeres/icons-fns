@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `Fire` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `Fire` icon. */

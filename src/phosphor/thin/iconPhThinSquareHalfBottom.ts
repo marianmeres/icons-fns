@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SquareHalfBottom` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SquareHalfBottom` icon. */

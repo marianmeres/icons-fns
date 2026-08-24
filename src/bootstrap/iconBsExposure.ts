@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `Exposure` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `Exposure` icon. */

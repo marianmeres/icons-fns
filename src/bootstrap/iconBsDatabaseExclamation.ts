@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `DatabaseExclamation` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `DatabaseExclamation` icon. */

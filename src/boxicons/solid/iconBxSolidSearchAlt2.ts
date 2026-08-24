@@ -1,3 +1,8 @@
+/**
+ * Boxicons solid `SearchAlt2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons solid `SearchAlt2` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Squares2x2` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Squares2x2` icon. */

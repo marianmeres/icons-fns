@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `Closet` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `Closet` icon. */

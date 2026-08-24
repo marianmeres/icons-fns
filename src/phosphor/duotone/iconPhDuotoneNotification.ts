@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Notification` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Notification` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `CaretDoubleRight` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `CaretDoubleRight` icon. */

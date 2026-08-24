@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `Square2Stack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `Square2Stack` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Lucide `RouteOff` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `RouteOff` icon. */

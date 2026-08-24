@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `PianoKeys` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `PianoKeys` icon. */

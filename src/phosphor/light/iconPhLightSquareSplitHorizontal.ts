@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `SquareSplitHorizontal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `SquareSplitHorizontal` icon. */

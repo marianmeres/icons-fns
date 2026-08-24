@@ -1,3 +1,8 @@
+/**
+ * Boxicons regular `FontFamily` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Boxicons regular `FontFamily` icon. */

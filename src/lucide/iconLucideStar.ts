@@ -1,3 +1,8 @@
+/**
+ * Lucide `Star` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `Star` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons micro `ArrowsPointingIn` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons micro `ArrowsPointingIn` icon. */

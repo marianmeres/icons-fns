@@ -1,3 +1,8 @@
+/**
+ * Lucide `PartyPopper` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Lucide `PartyPopper` icon. */

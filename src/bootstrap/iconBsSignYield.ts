@@ -1,3 +1,8 @@
+/**
+ * Bootstrap `SignYield` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../_icon.ts";
 
 /** Bootstrap `SignYield` icon. */

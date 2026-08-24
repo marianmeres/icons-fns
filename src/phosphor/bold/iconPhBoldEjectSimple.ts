@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `EjectSimple` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `EjectSimple` icon. */

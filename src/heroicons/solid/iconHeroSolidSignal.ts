@@ -1,3 +1,8 @@
+/**
+ * Heroicons solid `Signal` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons solid `Signal` icon. */

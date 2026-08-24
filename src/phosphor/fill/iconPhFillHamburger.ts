@@ -1,3 +1,8 @@
+/**
+ * Phosphor fill `Hamburger` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor fill `Hamburger` icon. */

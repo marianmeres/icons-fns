@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `SpeakerSimpleSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `SpeakerSimpleSlash` icon. */

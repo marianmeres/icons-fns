@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Garage` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Garage` icon. */

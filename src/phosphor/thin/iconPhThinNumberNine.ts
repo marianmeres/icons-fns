@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `NumberNine` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `NumberNine` icon. */

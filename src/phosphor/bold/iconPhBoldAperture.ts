@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Aperture` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Aperture` icon. */

@@ -1,3 +1,8 @@
+/**
+ * Heroicons outline `BoltSlash` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Heroicons outline `BoltSlash` icon. */

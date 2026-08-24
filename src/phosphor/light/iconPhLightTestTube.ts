@@ -1,3 +1,8 @@
+/**
+ * Phosphor light `TestTube` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor light `TestTube` icon. */

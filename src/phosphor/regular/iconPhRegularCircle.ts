@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Circle` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Circle` icon. */

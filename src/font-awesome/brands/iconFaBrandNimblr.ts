@@ -1,3 +1,8 @@
+/**
+ * Font Awesome brands `Nimblr` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Font Awesome brands `Nimblr` icon. */

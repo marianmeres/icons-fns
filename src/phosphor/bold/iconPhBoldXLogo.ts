@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `XLogo` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `XLogo` icon. */

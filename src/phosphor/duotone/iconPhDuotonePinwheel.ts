@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Pinwheel` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Pinwheel` icon. */

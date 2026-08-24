@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Windmill` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Windmill` icon. */

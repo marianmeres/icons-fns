@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Backpack` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Backpack` icon. */

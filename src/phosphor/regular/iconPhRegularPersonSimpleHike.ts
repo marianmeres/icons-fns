@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `PersonSimpleHike` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `PersonSimpleHike` icon. */

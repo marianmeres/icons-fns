@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `Barbell` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `Barbell` icon. */

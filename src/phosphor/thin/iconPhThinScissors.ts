@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Scissors` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Scissors` icon. */

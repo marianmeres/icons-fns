@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Numpad` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Numpad` icon. */

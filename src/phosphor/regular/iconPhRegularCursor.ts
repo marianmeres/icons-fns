@@ -1,3 +1,8 @@
+/**
+ * Phosphor regular `Cursor` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor regular `Cursor` icon. */

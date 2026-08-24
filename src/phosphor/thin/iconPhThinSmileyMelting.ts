@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `SmileyMelting` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `SmileyMelting` icon. */

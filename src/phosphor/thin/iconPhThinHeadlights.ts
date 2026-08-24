@@ -1,3 +1,8 @@
+/**
+ * Phosphor thin `Headlights` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor thin `Headlights` icon. */

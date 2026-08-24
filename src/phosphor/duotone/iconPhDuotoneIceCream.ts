@@ -1,3 +1,8 @@
+/**
+ * Phosphor duotone `IceCream` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor duotone `IceCream` icon. */

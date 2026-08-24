@@ -1,3 +1,8 @@
+/**
+ * Phosphor bold `Cigarette` icon.
+ *
+ * @module
+ */
 import { icon, type IconFn } from "../../_icon.ts";
 
 /** Phosphor bold `Cigarette` icon. */
